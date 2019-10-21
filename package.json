@@ -7,6 +7,7 @@
     "@types/node": "12.7.12",
     "@types/react": "16.9.5",
     "@types/react-dom": "16.9.1",
+    "eslint-config-prettier": "^6.4.0",
     "husky": "^3.0.9",
     "node-sass": "^4.12.0",
     "prettier": "^1.18.2",
@@ -20,10 +21,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
+    "eject": "react-scripts eject",
+    "typec": "echo \"type-checking...\" && tsc --noEmit",
+    "typec-w": "npm run typec -- --watch",
+    "eslint": "./node_modules/.bin/eslint --ext .jsx,.js,.tsx,.ts src/",
+    "eslint:fix": "./node_modules/.bin/eslint --fix --ext .jsx,.js,.tsx,.ts src/"
   },
   "browserslist": {
     "production": [
@@ -38,5 +40,11 @@
       "iOS >= 7",
       "Android >= 7"
     ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run typec",
+      "pre-push": "npm run test"
+    }
   }
 }
