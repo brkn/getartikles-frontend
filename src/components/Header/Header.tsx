@@ -1,53 +1,40 @@
 import "./Header.scss";
 
 import React from "react";
-import {
-  NavLink,
-  BrowserRouter,
-} from "react-router-dom";
+import {NavLink, BrowserRouter, Link} from "react-router-dom";
 
 function Header() {
-  const isAuth = false;
+  const isAuth = true;
 
   return (
     <header className={"header"}>
       <BrowserRouter>
-        <NavLink
-          exact
-          to="/"
-          className={"homepage"}
-          activeClassName="active"
-        >
+        <Link to="/"
+className={"homepage"}>
           {"Logo"}
-        </NavLink>
+        </Link>
 
         <nav className={"navlink"}>
           {isAuth ? (
-            <NavLink
-              exact
-              to="/settings"
-              className={"me"}
-              activeClassName="active"
-            >
-              {"user/me"}
+            <NavLink exact
+to="/settings"
+className={"settings"}
+activeClassName="active">
+              {"settings"}
             </NavLink>
           ) : (
             <>
-              <NavLink
-                exact
-                to="/login"
-                className={"login"}
-                activeClassName="active"
-              >
+              <NavLink exact
+to="/login"
+className={"login"}
+activeClassName="active">
                 {"Login"}
               </NavLink>
 
-              <NavLink
-                exact
-                to="/register"
-                className={"register"}
-                activeClassName="active"
-              >
+              <NavLink exact
+to="/register"
+className={"register"}
+activeClassName="active">
                 {"Join NOW"}
               </NavLink>
             </>

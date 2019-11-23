@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   parser: "@typescript-eslint/parser",
-  plugins: ["react", "react-hooks", "@typescript-eslint", "jsx-a11y"],
+  plugins: ["react", "react-hooks", "@typescript-eslint", "jsx-a11y", "prettier"],
   env: {
     browser: true,
     jest: true,
@@ -10,6 +10,7 @@ module.exports = {
   },
   extends: [
     "plugin:@typescript-eslint/recommended",
+    "plugin:react/recommended",
     "plugin:jsx-a11y/recommended",
     "prettier/@typescript-eslint",
     "prettier/react",
@@ -52,6 +53,7 @@ module.exports = {
     },
   ],
   rules: {
+    // "prettier/prettier": "error", // they claim this is needed, it brakes indentation
     // 👇🏻 Rules for hooks
     "react-hooks/rules-of-hooks": 2,
     "react-hooks/exhaustive-deps": 1,
@@ -65,13 +67,11 @@ module.exports = {
     "@typescript-eslint/camelcase": 0,
     "@typescript-eslint/ban-ts-ignore": 0,
 
-    // 👇🏻 these will be fixed inside `eslint-config-hipo-base`
     "no-undefined": 0,
     complexity: ["error", 10],
     "func-names": 0,
     "class-methods-use-this": 0,
 
-    // 👇🏻 these will be fixed inside `eslint-config-hipo-react`
     "react/destructuring-assignment": 0,
     "react/jsx-filename-extension": [
       1,
@@ -100,5 +100,10 @@ module.exports = {
 
     // tsc already catches these kind of errors
     "no-undef": 0,
+
+    "react/jsx-max-props-per-line": [2, {maximum: 1, when: "always"}],
+    "react/jsx-first-prop-new-line": [2, "multiline"],
+    "react/jsx-closing-bracket-location": ["error", "line-aligned"],
+    indent: ["error", 2],
   },
 };
