@@ -5,10 +5,12 @@
 
   padding: 12px 16px;
   background-color: #eee;
+
+  margin-bottom: 24px;
 }
 
 .navlink {
   :not(:last-child) {
     margin-right: 6px;
   }
-} 
+}
