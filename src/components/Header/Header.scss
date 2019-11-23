@@ -1,0 +1,14 @@
+.header {
+  grid-area: header;
+  display: flex;
+  justify-content: space-between;
+
+  padding: 12px 16px;
+  background-color: #eee;
+}
+
+.navlink {
+  :not(:last-child) {
+    margin-right: 6px;
+  }
+} 

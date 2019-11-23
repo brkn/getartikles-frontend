@@ -1,3 +1,5 @@
+import "./Header.scss";
+
 import React from "react";
 import {
   NavLink,
@@ -8,7 +10,7 @@ function Header() {
   const isAuth = false;
 
   return (
-    <header className={"header-nav"}>
+    <header className={"header"}>
       <BrowserRouter>
         <NavLink
           exact
@@ -16,39 +18,41 @@ function Header() {
           className={"homepage"}
           activeClassName="active"
         >
-          <p>{"Logo"}</p>
+          {"Logo"}
         </NavLink>
 
-        {isAuth ? (
-          <NavLink
-            exact
-            to="/settings"
-            className={"me"}
-            activeClassName="active"
-          >
-            <p>{"user/me"}</p>
-          </NavLink>
-        ) : (
-          <>
+        <nav className={"navlink"}>
+          {isAuth ? (
             <NavLink
               exact
-              to="/login"
-              className={"login"}
+              to="/settings"
+              className={"me"}
               activeClassName="active"
             >
-              <p>{"Login"}</p>
+              {"user/me"}
             </NavLink>
+          ) : (
+            <>
+              <NavLink
+                exact
+                to="/login"
+                className={"login"}
+                activeClassName="active"
+              >
+                {"Login"}
+              </NavLink>
 
-            <NavLink
-              exact
-              to="/register"
-              className={"register"}
-              activeClassName="active"
-            >
-              <p>{"Join NOW"}</p>
-            </NavLink>
-          </>
-        )}
+              <NavLink
+                exact
+                to="/register"
+                className={"register"}
+                activeClassName="active"
+              >
+                {"Join NOW"}
+              </NavLink>
+            </>
+          )}
+        </nav>
       </BrowserRouter>
     </header>
   );

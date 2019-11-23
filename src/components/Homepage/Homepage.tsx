@@ -1,10 +1,12 @@
+import "./Homepage.scss";
+
 import React from "react";
 
 function Homepage() {
   return (
-    <>
-      <>"HOMEPAAAAAGE"</>
-    </>
+    <main className={"homepage"} role="main">
+      <p>"HOMEPAAAAAGE"</p>
+    </main>
   );
 }
 
