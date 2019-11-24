@@ -101,9 +101,25 @@ module.exports = {
     // tsc already catches these kind of errors
     "no-undef": 0,
 
-    "react/jsx-max-props-per-line": [2, {maximum: 1, when: "always"}],
-    "react/jsx-first-prop-new-line": [2, "multiline"],
+    "react/jsx-max-props-per-line": ["error", {maximum: 1, when: "always"}],
+    "react/jsx-first-prop-new-line": ["error", "multiline"],
     "react/jsx-closing-bracket-location": ["error", "line-aligned"],
+    "react/jsx-wrap-multilines": [
+      "error",
+      {
+        declaration: "parens-new-line",
+        assignment: "parens-new-line",
+        return: "parens-new-line",
+        arrow: "parens-new-line",
+        condition: "parens-new-line",
+        logical: "parens-new-line",
+        prop: "parens-new-line",
+      },
+    ],
+
+    "react/jsx-no-literals": ["error", {noStrings: false}],
+    "react/no-unused-state": "error",
+
     indent: ["error", 2],
   },
 };
