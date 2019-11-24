@@ -4,7 +4,7 @@ import React from "react";
 import {NavLink, BrowserRouter, Link} from "react-router-dom";
 
 function Header() {
-  const isAuth = true;
+  const isAuth = false;
 
   return (
     <header className={"header"}>
