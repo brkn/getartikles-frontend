@@ -1,6 +1,7 @@
 import "./Homepage.scss";
 
 import React from "react";
+
 import {ArticleList} from "../ArticleList/ArticleList";
 
 function Homepage() {
@@ -9,9 +10,9 @@ function Homepage() {
       className={"homepage"}
       role={"main"}
     >
-      <p>{"this will be sorting header"}</p>
+      <p>{"this will be sorting header, search bar will be at the header"}</p>
 
-      <ArticleList articles={["art1", "art2"]} />
+      <ArticleList />
     </main>
   );
 }
