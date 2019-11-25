@@ -11,7 +11,11 @@ interface ArticleListProps {
 }
 
 function ArticleList({articles: _}: ArticleListProps) {
-  const articles = [{title: "article title 1 wooo"}, {title: "article title 2 wooo"}];
+  const articles = [
+    {title: "Article title 1 wooo"},
+    {title: "Is this article title 2? wooo?"},
+    {title: "This is actually article title 3. Trust me."},
+  ];
 
   return (
     <ul className={"article-list"}>

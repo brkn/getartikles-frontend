@@ -25,18 +25,18 @@ function ArticleItem({article: {title, dateTime}}: ArticleItemProps) {
   return (
     <li className={"article-item"}>
       <div className={"article-popularity-wrapper"}>
-        <span className={"fire-emoji"}>{"👁"}</span>
+        <span className={"glasses-emoji"}>{"👓"}</span>
 
         <span className={"article-popularity"}>{"2k"}</span>
       </div>
 
       <article className={"article"}>
-        <header className={"article-title-wrapper"}>
+        <header className={"article-header"}>
           <h1 className={"article-title"}>
             <a href="/domain/github.io/">{title}</a>
           </h1>
 
-          <h2 className={"article-meta"}>
+          <p className={"article-topics-row"}>
             <a
               className={"article-topic"}
               href={"/topic/topicname/"}
@@ -44,20 +44,36 @@ function ArticleItem({article: {title, dateTime}}: ArticleItemProps) {
               {"Topic"}
             </a>
 
-            <p className={"article-source"}>
-              {"at "}
-
-              <a href={"/source/source-name/"}>{"Source.io"}</a>
-            </p>
+            <a
+              className={"article-topic"}
+              href={"/topic/topicname/"}
+            >
+              {"Topic2"}
+            </a>
 
             <a
-              className={"article-author"}
-              href={"/author/author-name/"}
+              className={"article-topic"}
+              href={"/topic/topicname/"}
             >
-              {"by Author Authorinio"}
+              {"English"}
             </a>
-          </h2>
+          </p>
         </header>
+
+        <h2 className={"article-meta"}>
+          <p className={"article-source"}>
+            {"at "}
+
+            <a href={"/source/source-name/"}>{"Source.io"}</a>
+          </p>
+
+          <a
+            className={"article-author"}
+            href={"/author/author-name/"}
+          >
+            {"by Author Authorinio"}
+          </a>
+        </h2>
 
         <p className="article-teaser-preview">
           {"This will be small teaser of the content. It will be 130 characters."}
