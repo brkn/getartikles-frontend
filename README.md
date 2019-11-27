@@ -1,44 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Mail Me Articles - Frontend
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+<!-- Fix the link -->
 
-### `npm start`
+Mail Me articles is a social platform that aggregates articles all
+around the internet specifically tailored for your interests. Try it at
+www.production-site-domain.com
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- Add screenshots here when finished -->
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Initializing your local environment for development
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- You need to install `node` or (v12 or newer) and `npm`.
+  - For **Ubuntu** or Ubuntu based Linux distros:
+    ```sh
+    sudo apt-get update
+    sudo apt-get install nodejs npm
+    npm install npm@latest -g
+    ```
 
-### `npm run build`
+  - For **MacOS** you can use [Homebrew](https://brew.sh/):
+    ```sh
+    brew install node
+    ```
+  - For **Windows**
+    - You should download it manually by hand. Go to this link:
+      https://nodejs.org/en/#home-downloadhead
+    - Or you can always try [this
+      option](https://www.google.com/search?q=how+to+install+linux)
+      ☺️.
+  - For **other Operating systems** you can check this
+    [link](https://nodejs.org/en/download/package-manager/) from
+    nodejs
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installing and starting the dev server
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```sh
+git clone http://160.75.154.12/bitbucket/scm/mma/mma-fe.git
+cd mma-fe
+npm install
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Authors
 
-### `npm run eject`
+- Yunus Emre BALAK - 150160509
+- Hasan Salih CAN - 150160707
+- Ibrahim Şamil YALÇINER - 150150052
+- Ihsan Soydemir - 150180702
+- Mehmet Berkan ÜNAL - 150130013
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Copyright © 2019, Mail Me Articles.
