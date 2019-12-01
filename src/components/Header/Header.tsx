@@ -1,7 +1,11 @@
 import "./Header.scss";
 
 import React from "react";
-import {NavLink, BrowserRouter, Link} from "react-router-dom";
+import {
+  NavLink,
+  BrowserRouter,
+  Link
+} from "react-router-dom";
 
 function Header() {
   const isAuth = false;

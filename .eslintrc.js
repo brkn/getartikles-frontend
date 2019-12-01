@@ -2,7 +2,13 @@ const path = require("path");
 
 module.exports = {
   parser: "@typescript-eslint/parser",
-  plugins: ["react", "react-hooks", "@typescript-eslint", "jsx-a11y", "prettier"],
+  plugins: [
+    "react",
+    "react-hooks",
+    "@typescript-eslint",
+    "jsx-a11y",
+    "prettier",
+  ],
   env: {
     browser: true,
     jest: true,
@@ -121,5 +127,21 @@ module.exports = {
     "react/no-unused-state": "error",
 
     indent: ["error", 2],
+    "array-bracket-newline": ["error", {minItems: 2}],
+    "array-element-newline": ["error", {minItems: 2}],
+    "object-curly-newline": [
+      "error",
+      {
+        /* ObjectExpression: "always",
+        ObjectPattern: {multiline: true}, */
+        ImportDeclaration: {
+          multiline: true,
+          minProperties: 2,
+          consistent: true,
+        },
+        ExportDeclaration: {multiline: true, minProperties: 2},
+      },
+    ],
+    "object-property-newline": "error",
   },
 };
