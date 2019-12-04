@@ -13,10 +13,25 @@
   // text-align: center; // this is commented out till we change eye with svg
 }
 
+.article-thumbnail {
+  grid-area: article-thumbnail;
+
+  max-width: 100%;
+  max-height: 100%;
+
+  margin-left: 4px;
+}
+
 .article {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  display: grid;
+  grid-template-areas:
+    "article-header article-thumbnail"
+    "article-meta article-thumbnail"
+    "article-teaser-preview article-thumbnail"
+    "article-footer article-thumbnail";
+  grid-template-columns: auto 120px;
+  grid-template-rows: auto auto auto auto;
+  grid-gap: 0px;
 
   min-height: 100px;
 

@@ -3,14 +3,28 @@ import "./ArticleItem.scss";
 import React from "react";
 
 interface ArticleItemProps {
-  /* article: {
-    title: string;
-    dateTime?: string;
-  }; */
-  article: any;
+  title: string;
+  popularity: string;
+  teaser: string;
+  thumbnail: string;
+  link: string;
+  author: string;
+  source: string;
+  topics: string[];
+  date: string;
 }
 
-function ArticleItem({article: {title, dateTime}}: ArticleItemProps) {
+function ArticleItem({
+  title,
+  popularity,
+  teaser,
+  thumbnail,
+  link,
+  author,
+  source,
+  topics,
+  date,
+}: ArticleItemProps) {
   // TODO: convert displayed datetime to relative dates like: 1 hour ago, etc.
   // TODO: wrap <time> elements with a component.
   // - it should take a display format prop like: displayFormat={dd-mm-yyyy}
@@ -27,64 +41,57 @@ function ArticleItem({article: {title, dateTime}}: ArticleItemProps) {
       <div className={"article-popularity-wrapper"}>
         <span className={"glasses-emoji"}>{"👓"}</span>
 
-        <span className={"article-popularity"}>{"2k"}</span>
+        <span className={"article-popularity"}>{popularity}</span>
       </div>
 
       <article className={"article"}>
         <header className={"article-header"}>
           <h1 className={"article-title"}>
-            <a href="/domain/github.io/">{title}</a>
+            <a href={link}>{title}</a>
           </h1>
 
           <p className={"article-topics-row"}>
-            <a
-              className={"article-topic"}
-              href={"/topic/topicname/"}
-            >
-              {"Topic"}
-            </a>
-
-            <a
-              className={"article-topic"}
-              href={"/topic/topicname/"}
-            >
-              {"Topic2"}
-            </a>
-
-            <a
-              className={"article-topic"}
-              href={"/topic/topicname/"}
-            >
-              {"English"}
-            </a>
+            {topics.map((topic) => (
+              <a
+                key={topic}
+                className={"article-topic"}
+                href={"/topic/topicname/"}
+              >
+                {topic}
+              </a>
+            ))}
           </p>
         </header>
 
+        <img
+          src={thumbnail}
+          className={"article-thumbnail"}
+          alt={"article thumbnail"}
+        />
+
         <h2 className={"article-meta"}>
           <p className={"article-source"}>
-            {"at "}
+            {"from "}
 
-            <a href={"/source/source-name/"}>{"Source.io"}</a>
+            <a href={"/source/source-name/"}>{source}</a>
           </p>
 
           <a
             className={"article-author"}
             href={"/author/author-name/"}
           >
-            {"by Author Authorinio"}
+            {"by "}
+            {author}
           </a>
         </h2>
 
-        <p className="article-teaser-preview">
-          {"This will be small teaser of the content. It will be 130 characters."}
-          {"It should show elipsis at the end of teaser. 10 extra chrcters"}
-        </p>
+        <p className="article-teaser-preview">{teaser}</p>
 
         <footer className="article-footer">
           <p className="article-publish-date">
             {"published "}
 
-            <time dateTime={dateTime || "2020"}>{"2 months ago"}</time>
+            <time dateTime={date || "2020"}>{date}</time>
           </p>
 
           <p className="article-reading-time">{"3 minutes read"}</p>
