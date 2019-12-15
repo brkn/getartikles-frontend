@@ -14,7 +14,7 @@ interface ArticleItemProps {
   date: string;
 }
 
-function ArticleItem({
+export function ArticleItem({
   title,
   popularity,
   teaser,
@@ -100,5 +100,3 @@ function ArticleItem({
     </li>
   );
 }
-
-export {ArticleItem};

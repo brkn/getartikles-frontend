@@ -10,7 +10,7 @@ interface ArticleListProps {
   }[];
 }
 
-function ArticleList({articles: _}: ArticleListProps) {
+export function ArticleList({articles: _}: ArticleListProps) {
   // TODO: make author an array.
   const articles = [
     {
@@ -80,5 +80,3 @@ function ArticleList({articles: _}: ArticleListProps) {
     </ul>
   );
 }
-
-export {ArticleList};

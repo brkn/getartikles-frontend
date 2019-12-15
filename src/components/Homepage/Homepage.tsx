@@ -4,7 +4,7 @@ import React from "react";
 
 import {ArticleList} from "../ArticleList/ArticleList";
 
-function Homepage() {
+export function Homepage() {
   return (
     <main
       className={"homepage"}
@@ -16,5 +16,3 @@ function Homepage() {
     </main>
   );
 }
-
-export {Homepage};
