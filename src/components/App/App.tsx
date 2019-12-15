@@ -9,36 +9,32 @@ import {Homepage} from "../Homepage/Homepage";
 import {Header} from "../Header/Header";
 import {RegisterPage} from "../RegisterPage/RegisterPage";
 
-function App() {
+export function App() {
   return (
-    <>
+    <BrowserRouter>
+      <Header />
+
       {/* <SideNav /> */}
-      
-      <BrowserRouter>
-        <Header />
 
-        <Switch>
-          <Route
-            exact
-            path="/"
-            component={Homepage}
-          />
+      <Switch>
+        <Route
+          exact
+          path="/"
+          component={Homepage}
+        />
 
-          <Route
-            exact
-            path="/login"
-            component={Homepage}
-          />
+        <Route
+          exact
+          path="/login"
+          component={Homepage}
+        />
 
-          <Route
-            exact
-            path="/register"
-            component={RegisterPage}
-          />
-        </Switch>
-      </BrowserRouter>
-    </>
+        <Route
+          exact
+          path="/register"
+          component={RegisterPage}
+        />
+      </Switch>
+    </BrowserRouter>
   );
 }
-
-export {App};
