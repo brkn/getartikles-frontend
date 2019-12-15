@@ -13,7 +13,7 @@ export function Header() {
     <header className={"header"}>
       <Link
         to="/"
-        className={"homepage"}
+        className={"logo"}
       >
         {"Logo"}
       </Link>
