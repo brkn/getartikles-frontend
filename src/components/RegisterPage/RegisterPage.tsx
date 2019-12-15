@@ -15,7 +15,7 @@ interface UserForm {
 
 // TODO: add validation to inputs and submit button
 
-function RegisterPage() {
+export function RegisterPage() {
   const [
     userForm,
     setUserForm
@@ -27,9 +27,12 @@ function RegisterPage() {
 
   return (
     <main
-      className={"RegisterPage"}
+      id={"RegisterPage"}
+      className={"register-page"}
       role={"main"}
     >
+      <h1>{"Create your account"}</h1>
+
       <form
         id={"RegisterPage.form"}
         onSubmit={handleSubmit}
@@ -37,6 +40,7 @@ function RegisterPage() {
         <Input
           id={"RegisterPage.username-input"}
           name={"username"}
+          title={"Username"}
           value={userForm.username}
           onChange={(event) => {
             setUserForm({
@@ -50,6 +54,7 @@ function RegisterPage() {
           id={"RegisterPage.email-input"}
           name={"email"}
           type={"email"}
+          title={"E-mail"}
           placeholder="sophie@example.com"
           value={userForm.email}
           onChange={(event) => {
@@ -64,6 +69,7 @@ function RegisterPage() {
           id={"RegisterPage.password-input"}
           name={"password"}
           type={"password"}
+          title={"Password"}
           value={userForm.password}
           onChange={(event) => {
             setUserForm({
@@ -86,4 +92,3 @@ function RegisterPage() {
   }
 }
 
-export {RegisterPage};
