@@ -12,47 +12,45 @@ function Header() {
 
   return (
     <header className={"header"}>
-      <BrowserRouter>
-        <Link
-          to="/"
-          className={"homepage"}
-        >
-          {"Logo"}
-        </Link>
+      <Link
+        to="/"
+        className={"homepage"}
+      >
+        {"Logo"}
+      </Link>
 
-        <nav className={"navlink"}>
-          {isAuth ? (
+      <nav className={"navlink"}>
+        {isAuth ? (
+          <NavLink
+            exact
+            to="/settings"
+            className={"settings"}
+            activeClassName="active"
+          >
+            {"settings"}
+          </NavLink>
+        ) : (
+          <>
             <NavLink
               exact
-              to="/settings"
-              className={"settings"}
+              to="/login"
+              className={"login"}
               activeClassName="active"
             >
-              {"settings"}
+              {"Login"}
             </NavLink>
-          ) : (
-            <>
-              <NavLink
-                exact
-                to="/login"
-                className={"login"}
-                activeClassName="active"
-              >
-                {"Login"}
-              </NavLink>
 
-              <NavLink
-                exact
-                to="/register"
-                className={"register"}
-                activeClassName="active"
-              >
-                {"Join NOW"}
-              </NavLink>
-            </>
-          )}
-        </nav>
-      </BrowserRouter>
+            <NavLink
+              exact
+              to="/register"
+              className={"register"}
+              activeClassName="active"
+            >
+              {"Join NOW"}
+            </NavLink>
+          </>
+        )}
+      </nav>
     </header>
   );
 }

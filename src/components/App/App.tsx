@@ -7,15 +7,16 @@ import {
 
 import {Homepage} from "../Homepage/Homepage";
 import {Header} from "../Header/Header";
+import {RegisterPage} from "../RegisterPage/RegisterPage";
 
 function App() {
   return (
     <>
-      <Header />
-
       {/* <SideNav /> */}
-
+      
       <BrowserRouter>
+        <Header />
+
         <Switch>
           <Route
             exact
@@ -32,7 +33,7 @@ function App() {
           <Route
             exact
             path="/register"
-            component={Homepage}
+            component={RegisterPage}
           />
         </Switch>
       </BrowserRouter>
