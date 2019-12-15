@@ -1,3 +1,31 @@
 .register-page {
-    grid-area: main;
+  grid-area: main;
+
+  display: grid;
+  grid-template-areas: "left right";
+  grid-template-columns: 40% 60%;
+}
+
+.register-form {
+  grid-area: left;
+  margin: auto;
+
+  :not(:last-child) {
+    margin: 0 auto 2rem;
+  }
+
+  .register-form-header {
+    text-align: center;
+
+    margin-bottom: 4rem;
+  }
+
+  .button {
+    padding: 0 3rem;
+
+    margin: 0 auto;
+
+    color: white;
+    background-color: purple;
+  }
 }

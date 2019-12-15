@@ -31,16 +31,22 @@ export function RegisterPage() {
       className={"register-page"}
       role={"main"}
     >
-      <h1>{"Create your account"}</h1>
-
       <form
         id={"RegisterPage.form"}
+        className={"register-form"}
         onSubmit={handleSubmit}
       >
+        <h1
+          id={"RegisterPage.header"}
+          className={"register-form-header"}
+        >
+          {"Sign up to create new Account"}
+        </h1>
+
         <Input
           id={"RegisterPage.username-input"}
           name={"username"}
-          title={"Username"}
+          placeholder={"Username"}
           value={userForm.username}
           onChange={(event) => {
             setUserForm({
@@ -54,8 +60,7 @@ export function RegisterPage() {
           id={"RegisterPage.email-input"}
           name={"email"}
           type={"email"}
-          title={"E-mail"}
-          placeholder="sophie@example.com"
+          placeholder={"E-mail"}
           value={userForm.email}
           onChange={(event) => {
             setUserForm({
@@ -69,7 +74,7 @@ export function RegisterPage() {
           id={"RegisterPage.password-input"}
           name={"password"}
           type={"password"}
-          title={"Password"}
+          placeholder={"Password"}
           value={userForm.password}
           onChange={(event) => {
             setUserForm({
@@ -81,7 +86,9 @@ export function RegisterPage() {
 
         <Button
           id={"RegisterPage.submit-button"}
+          title={"Sign up"}
           onClick={handleSubmit}
+          type={"submit"}
         />
       </form>
     </main>
