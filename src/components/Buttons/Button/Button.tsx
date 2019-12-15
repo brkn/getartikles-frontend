@@ -5,6 +5,7 @@ import classNames from "classnames";
 
 interface ButtonProps {
   id: string;
+  title: string;
   onClick: React.ReactEventHandler<HTMLButtonElement>;
   className?: string;
   type?: "button" | "submit" | "reset";
@@ -15,6 +16,7 @@ interface ButtonProps {
 
 export function Button({
   id,
+  title,
   onClick,
   className,
   type = "button",
@@ -39,6 +41,7 @@ export function Button({
           id={`${id}.icon`}
         />
       )}
+      {title}
     </button>
   );
 
