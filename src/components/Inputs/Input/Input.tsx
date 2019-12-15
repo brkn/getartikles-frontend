@@ -1,4 +1,4 @@
-import "./Header.scss";
+import "./Input.scss";
 
 import React from "react";
 import classNames from "classnames";
@@ -32,17 +32,18 @@ export function Input({
   onChange,
   onKeyDown,
   isDisabled,
+  placeholder,
 }: InputProps) {
   const wrapperClassName = classNames(className, "input-wrapper");
 
   return (
     <div
-      id={id}
+      id={`${id}.wrapper`}
       className={wrapperClassName}
     >
       {title && (
         <label
-          id={`${id}-label`}
+          id={`${id}.label`}
           htmlFor={id}
           className={"input-label"}
         >
@@ -51,7 +52,7 @@ export function Input({
       )}
 
       <input
-        id={`${id}-input`}
+        id={`${id}.input`}
         className={"input"}
         type={type}
         name={name}
@@ -59,6 +60,7 @@ export function Input({
         onKeyDown={handleKeyDown}
         onChange={onChange}
         value={value}
+        placeholder={placeholder}
       />
     </div>
   );
