@@ -87,8 +87,8 @@ export function RegisterPage() {
         <Button
           id={"RegisterPage.submit-button"}
           title={"Sign up"}
-          onClick={handleSubmit}
           type={"submit"}
+          onClick={handleSubmit}
         />
       </form>
     </main>
