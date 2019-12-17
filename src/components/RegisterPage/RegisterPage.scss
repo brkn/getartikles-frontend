@@ -14,7 +14,13 @@
 
 .register-form {
   grid-area: left;
+  
+  background-color: white;
+
   margin: auto;
+  padding: 100px 50px;
+
+  border-radius: 45px;
 
   :not(:last-child) {
     margin: 0 auto 2rem;
