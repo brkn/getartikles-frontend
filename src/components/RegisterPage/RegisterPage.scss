@@ -14,13 +14,15 @@
 
 .register-form {
   grid-area: left;
-  
+
   background-color: white;
 
   margin: auto;
   padding: 100px 50px;
 
   border-radius: 45px;
+
+  box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.6);
 
   :not(:last-child) {
     margin: 0 auto 2rem;
@@ -38,6 +40,6 @@
     margin: 0 auto;
 
     color: white;
-    background-color: purple;
+    background-color: #ebb400;
   }
 }
