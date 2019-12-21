@@ -5,7 +5,7 @@ import React from "react";
 interface ArticleItemProps {
   title: string;
   popularity: string;
-  teaser: string;
+  teaser: string | null;
   thumbnail: string;
   link: string;
   author: string;
@@ -71,28 +71,29 @@ export function ArticleItem({
 
         <h2 className={"article-meta"}>
           <p className={"article-source"}>
-            {"from "}
-
             <a href={"/source/source-name/"}>{source}</a>
           </p>
 
-          <a
-            className={"article-author"}
-            href={"/author/author-name/"}
-          >
-            {"by "}
-            {author}
-          </a>
+          {!!author && (
+            <a
+              className={"article-author"}
+              href={"/author/author-name/"}
+            >
+              {"by "}
+              {author}
+            </a>
+          )}
         </h2>
 
         <p className="article-teaser-preview">{teaser}</p>
 
         <footer className="article-footer">
-          <p className="article-publish-date">
-            {"published "}
-
-            <time dateTime={date || "2020"}>{date}</time>
-          </p>
+          <time
+            className="article-publish-date"
+            dateTime={date || "2020"}
+          >
+            {date}
+          </time>
 
           <p className="article-reading-time">{"3 minutes read"}</p>
         </footer>
