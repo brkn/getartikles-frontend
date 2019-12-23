@@ -84,6 +84,7 @@
 }
 
 .article-meta {
+  grid-area: article-meta;
   display: flex;
 
   font-size: 14px;
@@ -96,6 +97,8 @@
 }
 
 .article-teaser-preview {
+  grid-area: article-teaser-preview;
+
   color: #404040;
 
   font-size: 17px;
@@ -116,6 +119,8 @@
 }
 
 .article-footer {
+  grid-area: article-footer;
+
   display: flex;
 
   font-size: 13px;
