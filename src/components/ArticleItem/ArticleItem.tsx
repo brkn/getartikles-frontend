@@ -6,12 +6,12 @@ interface ArticleItemProps {
   title: string;
   popularity: string;
   teaser: string | null;
-  thumbnail: string;
+  thumbnail: string | null;
   link: string;
-  author: string;
+  authors: string[];
   source: string;
   topics: string[];
-  date: string;
+  publish_date: string;
 }
 
 export function ArticleItem({
@@ -20,10 +20,10 @@ export function ArticleItem({
   teaser,
   thumbnail,
   link,
-  author,
+  authors,
   source,
   topics,
-  date,
+  publish_date,
 }: ArticleItemProps) {
   // TODO: convert displayed datetime to relative dates like: 1 hour ago, etc.
   // TODO: wrap <time> elements with a component.
@@ -41,7 +41,7 @@ export function ArticleItem({
       <div className={"article-popularity-wrapper"}>
         <span className={"glasses-emoji"}>{"👓"}</span>
 
-        <span className={"article-popularity"}>{popularity}</span>
+        <p className={"article-popularity"}>{popularity}</p>
       </div>
 
       <article className={"article"}>
@@ -55,7 +55,7 @@ export function ArticleItem({
               <a
                 key={topic}
                 className={"article-topic"}
-                href={"/topic/topicname/"}
+                href={`/topic/${topic}/`}
               >
                 {topic}
               </a>
@@ -63,26 +63,34 @@ export function ArticleItem({
           </p>
         </header>
 
-        <img
-          src={thumbnail}
-          className={"article-thumbnail"}
-          alt={"article thumbnail"}
-        />
+        {thumbnail && (
+          <img
+            src={thumbnail}
+            className={"article-thumbnail"}
+            alt={"article thumbnail"}
+          />
+        )}
 
         <h2 className={"article-meta"}>
           <p className={"article-source"}>
+            {"from "}
+
             <a href={"/source/source-name/"}>{source}</a>
           </p>
 
-          {!!author && (
-            <a
-              className={"article-author"}
-              href={"/author/author-name/"}
-            >
-              {"by "}
-              {author}
-            </a>
-          )}
+          <p className={"article-authors-wrapper"}>
+            {"by "}
+
+            {authors.slice(0, 4).map((author, index) => (
+              <a
+                key={`${index}-${author}`}
+                className={"article-author"}
+                href={"/author/author-name/"}
+              >
+                {author}
+              </a>
+            ))}
+          </p>
         </h2>
 
         <p className="article-teaser-preview">{teaser}</p>
@@ -90,9 +98,9 @@ export function ArticleItem({
         <footer className="article-footer">
           <time
             className="article-publish-date"
-            dateTime={date || "2020"}
+            dateTime={publish_date || "2020"}
           >
-            {date}
+            {publish_date}
           </time>
 
           <p className="article-reading-time">{"3 minutes read"}</p>
