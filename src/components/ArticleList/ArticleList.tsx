@@ -1,19 +1,53 @@
 import "./ArticleList.scss";
 
-import React from "react";
+import React, {
+  useEffect,
+  useState
+} from "react";
 
 import {ArticleItem} from "../ArticleItem/ArticleItem";
 import {articles} from "./data";
 
-/* interface ArticleListProps {
-} */
+interface ArticleListProps {
+  sortBy: "new" | "popularity";
+}
 
-export function ArticleList() {
-  // TODO: make author an array.
+export function ArticleList({sortBy}: ArticleListProps) {
+  const [
+    sortedArticles,
+    setSortedArticles
+  ] = useState(articles);
+
+  useEffect(() => {
+    console.log(sortBy);
+    switch (sortBy) {
+      case "new": {
+        sortByNew();
+        break;
+      }
+
+      case "popularity": {
+        sortByPopularity();
+        break;
+      }
+    }
+
+    function sortByNew() {
+      setSortedArticles([...articles].sort((articleA, articleB) => {
+        return Number(articleA.publish_date) - Number(articleB.publish_date);
+      }));
+    }
+
+    function sortByPopularity() {
+      setSortedArticles([...articles].sort((articleA, articleB) => {
+        return articleB.popularity - articleA.popularity;
+      }));
+    }
+  }, [sortBy]);
 
   return (
     <ul className={"article-list"}>
-      {articles.map((article, index) => (
+      {sortedArticles.map((article, index) => (
         <ArticleItem
           key={`${index}-${article.title.slice(0, 9)}`}
           {...article}

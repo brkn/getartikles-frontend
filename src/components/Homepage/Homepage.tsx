@@ -12,7 +12,7 @@ export function Homepage() {
     >
       <p>{"this will be sorting header, search bar will be at the header"}</p>
 
-      <ArticleList />
+      <ArticleList sortBy={"new"}/>
     </main>
   );
 }
