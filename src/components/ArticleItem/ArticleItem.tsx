@@ -1,6 +1,7 @@
 import "./ArticleItem.scss";
 
 import React from "react";
+import {convertEpochToDate} from "../../utils/date-utils";
 
 export interface ArticleItemProps {
   title: string;
@@ -87,7 +88,7 @@ export function ArticleItem({
           <p className={"article-authors-wrapper"}>
             {"by "}
 
-            {authors.slice(0, 4).map((author, index) => (
+            {authors.slice(0, 1).map((author, index) => (
               <a
                 key={`${index}-${author}`}
                 className={"article-author"}
@@ -124,14 +125,12 @@ export function ArticleItem({
   }
 
   function getDate(): string {
-    const date = new Date(Number(publish_date) * 1000);
+    const date = convertEpochToDate(publish_date);
 
-    return date.toLocaleDateString("tr-TR", 
-      {
-        day: "2-digit",
-        month: "long",
-        year: "numeric",
-      }
-    );
+    return date.toLocaleDateString("tr-TR", {
+      day: "2-digit",
+      month: "long",
+      year: "numeric",
+    });
   }
 }
