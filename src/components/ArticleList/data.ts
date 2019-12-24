@@ -48,10 +48,7 @@ export const articles: ArticleItemProps[] = [
     thumbnail: "https://seyler.ekstat.com/img/max/800/u/uOA7UOXPoZVH6hgC-637104558046358040.jpg",
     link:
       "https://seyler.eksisozluk.com/dunya-internet-trafiginin-99unu-tasiyan-su-alti-kablolari-hakkinda-merak-edilenler",
-    authors: [
-      "jamesharden",
-      "nbafan"
-    ],
+    authors: ["ruhsuz1907"],
     source: "eksiseyler.com",
     topics: [
       "bilim",
