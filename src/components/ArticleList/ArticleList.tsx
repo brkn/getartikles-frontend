@@ -2,14 +2,15 @@ import "./ArticleList.scss";
 
 import React, {
   useEffect,
-  useState
+  useState,
 } from "react";
 
 import {ArticleItem} from "../ArticleItem/ArticleItem";
 import {articles} from "./data";
+import {SortingOptions} from "../../utils/sorting-constants";
 
 interface ArticleListProps {
-  sortBy: "new" | "popularity";
+  sortBy: SortingOptions;
 }
 
 export function ArticleList({sortBy}: ArticleListProps) {
@@ -33,15 +34,19 @@ export function ArticleList({sortBy}: ArticleListProps) {
     }
 
     function sortByNew() {
-      setSortedArticles([...articles].sort((articleA, articleB) => {
-        return Number(articleB.publish_date) - Number(articleA.publish_date);
-      }));
+      setSortedArticles(
+        [...articles].sort((articleA, articleB) => {
+          return Number(articleB.publish_date) - Number(articleA.publish_date);
+        })
+      );
     }
 
     function sortByPopularity() {
-      setSortedArticles([...articles].sort((articleA, articleB) => {
-        return articleB.popularity - articleA.popularity;
-      }));
+      setSortedArticles(
+        [...articles].sort((articleA, articleB) => {
+          return articleB.popularity - articleA.popularity;
+        })
+      );
     }
   }, [sortBy]);
 

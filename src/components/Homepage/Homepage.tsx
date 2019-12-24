@@ -1,18 +1,28 @@
 import "./Homepage.scss";
 
-import React from "react";
+import React, {useState} from "react";
 
 import {ArticleList} from "../ArticleList/ArticleList";
+import {SortingHeader} from "../SortingHeader/SortingHeader";
+import {SortingOptions} from "../../utils/sorting-constants";
 
 export function Homepage() {
+  const [
+    selectedSortingOption,
+    setSelectedSortingOption
+  ] = useState("new" as SortingOptions);
+
   return (
     <main
       className={"homepage"}
       role={"main"}
     >
-      <p>{"this will be sorting header, search bar will be at the header"}</p>
+      <SortingHeader
+        selectedSortingOption={selectedSortingOption}
+        setSelectedSortingOption={setSelectedSortingOption}
+      />
 
-      <ArticleList sortBy={"new"}/>
+      <ArticleList sortBy={selectedSortingOption} />
     </main>
   );
 }
