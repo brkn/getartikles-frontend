@@ -16,9 +16,9 @@ export const articles: ArticleItemProps[] = [
     ],
     source: "eksiseyler.com",
     topics: [
+      "türkçe",
       "eğlence",
-      "komik",
-      "türkçe"
+      "komik"
     ],
     publish_date: "1571184000",
   },
@@ -34,8 +34,8 @@ export const articles: ArticleItemProps[] = [
     authors: ["shelly"],
     source: "eksiseyler.com",
     topics: [
-      "bilim",
-      "türkçe"
+      "türkçe",
+      "bilim"
     ],
     publish_date: "1574899200",
   },
@@ -51,9 +51,9 @@ export const articles: ArticleItemProps[] = [
     authors: ["ruhsuz1907"],
     source: "eksiseyler.com",
     topics: [
+      "türkçe",
       "bilim",
-      "internet",
-      "türkçe"
+      "internet"
     ],
     publish_date: "1574812800",
   },
@@ -2830,6 +2830,146 @@ export const articles: ArticleItemProps[] = [
       "türkçe",
       "haber",
       "siyaset"
+    ],
+  },
+  {
+    authors: ["Peter Avritch"],
+    link:
+      "https://medium.com/datadriveninvestor/why-the-nsa-called-me-after-midnight-and-requested-my-source-code-f7076c59ab3d",
+    popularity: 62000,
+    publish_date: "1540339200",
+    source: "medium.com",
+    teaser:
+      'The story behind my top secret coffee cup...',
+    thumbnail:
+      "https://miro.medium.com/max/1195/1*m064Xjkvw09VgT6EwvVH7Q.jpeg",
+    title:
+      "Why the NSA Called Me After Midnight and Requested My Source Code",
+    topics: [
+      "english",
+      "programming",
+      "security",
+      "story"
+    ],
+  },
+  {
+    authors: ["David Venturi"],
+    link:
+      "https://medium.com/free-code-camp/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0",
+    popularity: 21000,
+    publish_date: "1493769600",
+    source: "medium.com",
+    teaser:
+      'I realized that I could learn everything I needed through edX, Coursera, and Udacity instead. And I could learn it faster, more efficiently, and for a fraction of the cost.',
+    thumbnail:
+      "https://miro.medium.com/max/5118/1*vBLkfW8S-ZqHb8TmNEW1XA.jpeg",
+    title:
+      "Every single Machine Learning course on the internet, ranked by your reviews",
+    topics: [
+      "english",
+      "programming",
+      "machine learning",
+      "education"
+    ],
+  },
+  {
+    authors: ["Charles Scalfani"],
+    link:
+      "https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53",
+    popularity: 153000,
+    publish_date: "1469232000",
+    source: "medium.com",
+    teaser:
+      'I was gung-ho to leverage the benefits of Inheritance, Encapsulation, and Polymorphism. The Three Pillars of the Paradigm.',
+    thumbnail:
+      "https://miro.medium.com/max/590/1*cBFSQ9Ytv_D0jwGtpuL5WA.png",
+    title:
+      "Goodbye, Object Oriented Programming",
+    topics: [
+      "english",
+      "programming",
+      "object-oriented",
+      "python"
+    ],
+  },
+  {
+    authors: ["Kerry Parker"],
+    link:
+      "https://towardsdatascience.com/data-science-skills-web-scraping-using-python-d1a85ef607ed",
+    popularity: 5600,
+    publish_date: "1536192000",
+    source: "medium.com",
+    teaser:
+      'In this tutorial I will go through a simple example of how to scrape a website to gather data on the top 100 companies in 2018 from Fast Track. ',
+    thumbnail:
+      "https://miro.medium.com/max/1500/1*d7UE4B96x_fs1ezUx8YfBQ.png",
+    title:
+      "Data Science Skills: Web scraping using python",
+    topics: [
+      "english",
+      "programming",
+      "data science",
+      "python"
+    ],
+  },
+  {
+    authors: ["Jonny Brooks-Bartlett"],
+    link:
+      "https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4",
+    popularity: 41000,
+    publish_date: "1522281600",
+    source: "medium.com",
+    teaser:
+      'We read so many stories about data science being the sexiest job of the 21st century and the attractive sums of money that you can make as a data scientist that...',
+    thumbnail:
+      "https://miro.medium.com/max/720/0*rrQ_jhlEFN3bHIqf.jpg",
+    title:
+      "Here’s why so many data scientists are leaving their jobs",
+    topics: [
+      "english",
+      "programming",
+      "data science",
+      "job"
+    ],
+  },
+  {
+    authors: ["Mybridge"],
+    link:
+      "https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450",
+    popularity: 4100,
+    publish_date: "1576800000",
+    source: "medium.com",
+    teaser:
+      'Open source projects can be useful when you’re building an app. Give a plenty of time to play around with amazing Python open source projects.',
+    thumbnail:
+      "https://miro.medium.com/max/1380/1*1G5FX59hX59Tfvs8JAXtwA.png",
+    title:
+      "36 Amazing Python Open Source Projects (v.2019)",
+    topics: [
+      "english",
+      "programming",
+      "open-source",
+      "python"
+    ],
+  },
+  {
+    authors: ["Robyn Silber"],
+    link:
+      "https://codeburst.io/i-want-to-learn-programming-but-i-dont-know-where-to-start-80dd2d55e1fd",
+    popularity: 7400,
+    publish_date: "1512950400",
+    source: "medium.com",
+    teaser:
+      'The objective of this article is to make learning programming accessible to anyone.',
+    thumbnail:
+      "https://miro.medium.com/max/2419/1*Z59x9C5cODVaFCIkFhQubQ.jpeg",
+    title:
+      "I Want to Learn Programming but I Don’t Know where to Start",
+    topics: [
+      "english",
+      "programming",
+      "data science",
+      "job"
     ],
   },
 ];

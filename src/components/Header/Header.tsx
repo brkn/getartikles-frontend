@@ -15,7 +15,7 @@ export function Header() {
         to="/"
         className={"logo"}
       >
-        {"Logo"}
+        {"Get Artikles"}
       </Link>
 
       {/* <nav className={"navlink"}>
