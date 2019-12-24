@@ -2,9 +2,9 @@ import "./ArticleItem.scss";
 
 import React from "react";
 
-interface ArticleItemProps {
+export interface ArticleItemProps {
   title: string;
-  popularity: string;
+  popularity: number;
   teaser: string | null;
   thumbnail: string | null;
   link: string;
@@ -41,7 +41,7 @@ export function ArticleItem({
       <div className={"article-popularity-wrapper"}>
         <span className={"glasses-emoji"}>{"👓"}</span>
 
-        <p className={"article-popularity"}>{popularity}</p>
+        <p className={"article-popularity"}>{getPopularity()}</p>
       </div>
 
       <article className={"article"}>
@@ -114,4 +114,12 @@ export function ArticleItem({
       </article>
     </li>
   );
+
+  function getPopularity(): string {
+    if (popularity >= 1000) {
+      return `${popularity / 1000}b`;
+    }
+
+    return String(popularity);
+  }
 }

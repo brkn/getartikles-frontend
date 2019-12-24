@@ -1,7 +1,9 @@
-export const articles = [
+import {ArticleItemProps} from "../ArticleItem/ArticleItem";
+
+export const articles: ArticleItemProps[] = [
   {
     title: "SüngerBob Sürekli Çalışarak Stagflasyonu Engelliyor mu?",
-    popularity: "27.8b",
+    popularity: 27800,
     teaser:
       "SüngerBob KareŞort/KarePantolon çizgi filmindeki SüngerBob adlı arkadaşımızın o evrendeki ekonomiyle olan ilişkisine dair hak...",
     thumbnail:
@@ -22,7 +24,7 @@ export const articles = [
   },
   {
     title: "Evrim, Seri Katil ve Tecavüzcüleri Zaman İçinde Neden Elemedi?",
-    popularity: "14.8b",
+    popularity: 14800,
     teaser:
       "Popülasyonlar ve insan ahlakı üzerine, çetrefilli bir cevabı olmasa da düşündüren bir soru.",
     thumbnail:
@@ -40,7 +42,7 @@ export const articles = [
   {
     title:
       "Dünya İnternet Trafiğinin %99'unu Taşıyan Su Altı Kabloları Hakkında Merak Edilenler",
-    popularity: "21.9b",
+    popularity: 21900,
     teaser:
       "1777'den beri kullanılan su altı kablo sistemleri, günümüzde internet trafiğinin %99'unu taşır vaziyette. Bu sistem nedir...",
     thumbnail: "https://seyler.ekstat.com/img/max/800/u/uOA7UOXPoZVH6hgC-637104558046358040.jpg",
@@ -62,7 +64,7 @@ export const articles = [
     authors: ["windweaver"],
     link:
       "http://seyler.eksisozluk.com/dev-efsaneyi-bitiren-star-wars-episode-ix-the-rise-of-skywalkerin-incelemesi",
-    popularity: "2,5b",
+    popularity: 2500,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -81,7 +83,7 @@ export const articles = [
     authors: ["tipebak"],
     link:
       "http://seyler.eksisozluk.com/sait-faik-abasiyanik-ile-resad-ekrem-kocunun-dargin-olmelerine-neden-olan-olaylar",
-    popularity: "2,1b",
+    popularity: 2100,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -103,7 +105,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/eski-tarihteki-turklerin-kutladigi-bir-nevi-yeni-yil-kutlamasi-nardugan-bayrami",
-    popularity: "511",
+    popularity: 511,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -121,7 +123,7 @@ export const articles = [
     authors: ["beren and luithen"],
     link:
       "http://seyler.eksisozluk.com/masallariyla-buyudugumuz-grimm-kardeslerin-detayli-hayat-hikayesi",
-    popularity: "1b",
+    popularity: 1000,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -139,7 +141,7 @@ export const articles = [
     authors: ["eben"],
     link:
       "http://seyler.eksisozluk.com/the-witcherdaki-zaman-cizgilerini-karistiranlar-icin-kurgunun-aciklamasi",
-    popularity: "843",
+    popularity: 843,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -158,7 +160,7 @@ export const articles = [
     authors: ["beren and luithen"],
     link:
       "http://seyler.eksisozluk.com/en-uzun-gecede-ayi-seyrederek-dinlenmesi-gereken-klasikler-chopin-nokturnleri",
-    popularity: "5,4b",
+    popularity: 5400,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -177,7 +179,7 @@ export const articles = [
     authors: ["dandanakandan"],
     link:
       "http://seyler.eksisozluk.com/girdigi-hicbir-savasi-kaybetmeyen-tarihin-en-buyuk-dehalarindan-biri-timurlenk",
-    popularity: "12,1b",
+    popularity: 12100,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -196,7 +198,7 @@ export const articles = [
     authors: ["tangocharliejuliett"],
     link:
       "http://seyler.eksisozluk.com/christopher-nolanin-yeni-filmi-tenet-kelime-anlami-olarak-neyi-ifade-ediyor",
-    popularity: "11,1b",
+    popularity: 11100,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -215,7 +217,7 @@ export const articles = [
     authors: ["shinigami ryuk"],
     link:
       "http://seyler.eksisozluk.com/filmlerden-oyunlara-pek-cok-gorsel-mecrada-kullanilan-storyboard-nedir",
-    popularity: "3,8b",
+    popularity: 3800,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -234,7 +236,7 @@ export const articles = [
     authors: ["brunhilde"],
     link:
       "http://seyler.eksisozluk.com/akad-mitolojisindeki-ask-ve-savas-tanricasi-istar",
-    popularity: "4,8b",
+    popularity: 4800,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -274,7 +276,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/film-elestirmenlerine-gore-2019un-en-iyi-filmleri",
-    popularity: "28b",
+    popularity: 28000,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -292,7 +294,7 @@ export const articles = [
     authors: ["kucuk insomnik"],
     link:
       "http://seyler.eksisozluk.com/dunyaca-unlu-sokratesin-olumu-tablosu-bize-ne-anlatiyor",
-    popularity: "8,6b",
+    popularity: 8600,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -314,7 +316,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/sadik-hidayetin-bunyeniz-hazir-olunca-okunmasi-gereken-klasigi-kor-baykus",
-    popularity: "8,9b",
+    popularity: 8900,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -340,7 +342,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/rock-muzigin-ana-akim-piyasada-guc-kaybetmesinin-sebepleri-nelerdir",
-    popularity: "6,8b",
+    popularity: 6800,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -359,7 +361,7 @@ export const articles = [
     authors: ["javiermediavilla"],
     link:
       "http://seyler.eksisozluk.com/the-prestige-filmi-hakkinda-az-bilinenler",
-    popularity: "38b",
+    popularity: 38000,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -377,7 +379,7 @@ export const articles = [
     authors: ["passenger28"],
     link:
       "http://seyler.eksisozluk.com/kuslar-aleminin-bilgesi-baykuslarin-turk-mitolojisindeki-yeri-ve-anlami",
-    popularity: "5,5b",
+    popularity: 5500,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -396,7 +398,7 @@ export const articles = [
     authors: ["highpriestess"],
     link:
       "http://seyler.eksisozluk.com/friedrich-nietzschenin-pek-bilinmeyen-bestecilik-yonu",
-    popularity: "3,2b",
+    popularity: 3200,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -414,7 +416,7 @@ export const articles = [
     authors: ["kaedeoky"],
     link:
       "http://seyler.eksisozluk.com/bir-zamanlar-anadoluda-filminin-dantenin-cehennemi-uzerinden-alt-metin-aciklamasi",
-    popularity: "7,8b",
+    popularity: 7800,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -433,7 +435,7 @@ export const articles = [
     authors: ["rebirth"],
     link:
       "http://seyler.eksisozluk.com/1930da-astegmen-mustafa-fehmi-kubilayin-katledildigi-menemende-neler-yasandi",
-    popularity: "152b",
+    popularity: 152000,
     publish_date: "23 aralık 2016",
     source: "eksiseyler.com",
     teaser: "Menemen Olayı ya da diğer adıyla Kubilay Olayı nasıl gerçekleşti?",
@@ -451,7 +453,7 @@ export const articles = [
     authors: ["diesel1907"],
     link:
       "http://seyler.eksisozluk.com/adolf-hitlerin-nasil-adim-adim-delirdigini-anlatan-eksi-sozlukun-en-uzun-entrysi",
-    popularity: "141b",
+    popularity: 141000,
     publish_date: "10 eylül 2019",
     source: "eksiseyler.com",
     teaser:
@@ -470,7 +472,7 @@ export const articles = [
     authors: ["windweaver"],
     link:
       "http://seyler.eksisozluk.com/egrisiyle-dogrusuyla-the-crown-dizisinin-3-sezon-incelemesi",
-    popularity: "5,5b",
+    popularity: 500,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -488,7 +490,7 @@ export const articles = [
     authors: ["relativity90"],
     link:
       "http://seyler.eksisozluk.com/karl-marx-ve-friedrich-nietzschenin-din-konusundaki-goruslerinin-kiyaslamasi",
-    popularity: "12b",
+    popularity: 12000,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -507,7 +509,7 @@ export const articles = [
     authors: ["karkalaki"],
     link:
       "http://seyler.eksisozluk.com/beat-kusagi-ve-hipsterlar-arasindaki-fark-nedir",
-    popularity: "4,2b",
+    popularity: 4200,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -525,7 +527,7 @@ export const articles = [
     authors: ["beren and luithen"],
     link:
       "http://seyler.eksisozluk.com/amerikada-sessiz-sedasiz-yasanan-kizilderili-soykiriminin-bolge-bolge-aciklamasi",
-    popularity: "22,2b",
+    popularity: 22200,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -547,7 +549,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/garipsediginiz-ciftlerin-neden-birlikte-oldugunu-anlatan-baglanma-olayi-pair-bonding",
-    popularity: "4,7b",
+    popularity: 4700,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -568,7 +570,7 @@ export const articles = [
       "ludvigboltzmann"
     ],
     link: "http://seyler.eksisozluk.com/deja-vu-nedir-ve-neden-olur",
-    popularity: "17,8b",
+    popularity: 17800,
     publish_date: "12 aralık 2018",
     source: "eksiseyler.com",
     teaser:
@@ -589,7 +591,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/evrenin-genisledigini-ispatlayan-dalga-frekansi-degisikligi-doppler-etkisi",
-    popularity: "11,5b",
+    popularity: 11500,
     publish_date: "7 aralık 2018",
     source: "eksiseyler.com",
     teaser:
@@ -607,7 +609,7 @@ export const articles = [
     authors: ["g shark"],
     link:
       "http://seyler.eksisozluk.com/fotograf-cekimi-sirasinda-var-olmasi-gereken-faktorlerden-biri-enstantane-nedir",
-    popularity: "156",
+    popularity: 156,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -630,7 +632,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/kulakla-hic-isi-olmadigi-halde-kotu-bir-une-sahip-olan-bocek-kulagakacan",
-    popularity: "17,8b",
+    popularity: 17800,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -649,7 +651,7 @@ export const articles = [
     authors: ["anglachelm"],
     link:
       "http://seyler.eksisozluk.com/bir-zamanlar-turk-askerinin-siklikla-kullandigi-keskin-nisanci-tufegi-dragunov-svd",
-    popularity: "17,7b",
+    popularity: 17700,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -668,7 +670,7 @@ export const articles = [
     authors: ["hayvan pandikoglu"],
     link:
       "http://seyler.eksisozluk.com/hiv-korkusundan-kafayi-yememek-icin-mutlaka-bilinmesi-gerekenler",
-    popularity: "9,3b",
+    popularity: 9300,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -686,7 +688,7 @@ export const articles = [
     authors: ["jyngen"],
     link:
       "http://seyler.eksisozluk.com/buyukadadaki-atlarin-itlaf-edilmesine-neden-olan-ruam-hastaligi-nedir",
-    popularity: "7,7b",
+    popularity: 7700,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -708,7 +710,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/eksen-egikligi-nedir-ve-dunyanin-ekseni-neden-egiktir",
-    popularity: "5,2b",
+    popularity: 5200,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -726,7 +728,7 @@ export const articles = [
     authors: ["bosbakan ucan conan"],
     link:
       "http://seyler.eksisozluk.com/isaac-newtonun-adam-astirmaya-kadar-giden-kindar-yonu",
-    popularity: "23,1b",
+    popularity: 23100,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -744,7 +746,7 @@ export const articles = [
     authors: ["mems"],
     link:
       "http://seyler.eksisozluk.com/kara-bitkilerinin-90ini-birbirine-baglayan-dev-bir-ag-wood-wide-web",
-    popularity: "7,4b",
+    popularity: 7400,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -763,7 +765,7 @@ export const articles = [
     authors: ["1123581321"],
     link:
       "http://seyler.eksisozluk.com/otomatik-vitesli-araclarda-debriyajin-yerini-alan-eleman-tork-konvertoru",
-    popularity: "26,2b",
+    popularity: 26200,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -782,7 +784,7 @@ export const articles = [
     authors: ["vardevela"],
     link:
       "http://seyler.eksisozluk.com/fonograftan-modern-pikaba-kadarki-ses-cikis-teknolojisinin-tarihsel-gelisimi",
-    popularity: "2,5b",
+    popularity: 2500,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -805,7 +807,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/butun-evreni-olusturan-uzay-zaman-duzlemi-tam-olarak-nedir",
-    popularity: "7b",
+    popularity: 7000,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -823,7 +825,7 @@ export const articles = [
     authors: ["avatak"],
     link:
       "http://seyler.eksisozluk.com/kar-yagarken-etraf-neden-daha-sessiz-olur",
-    popularity: "30,8b",
+    popularity: 30800,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -840,7 +842,7 @@ export const articles = [
     authors: ["kupa kizinin alevi amcasi"],
     link:
       "http://seyler.eksisozluk.com/vucudumuzdaki-bir-kesige-alkol-dokunce-neden-yanar",
-    popularity: "15,3b",
+    popularity: 15300,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -861,7 +863,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/dunyanin-aslinda-canli-bir-organizma-oldugunu-savunan-hipotez-gaia",
-    popularity: "12,8b",
+    popularity: 12800,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -879,7 +881,7 @@ export const articles = [
     authors: ["supremacy"],
     link:
       "http://seyler.eksisozluk.com/alkol-toleransi-cinsiyete-ve-kisiye-gore-nasil-degisiyor",
-    popularity: "14,7b",
+    popularity: 14700,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -901,7 +903,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/cinsel-duskunlukle-karistirilmamasi-gereken-ciddi-bir-kadin-hastaligi-nemfomani",
-    popularity: "286b",
+    popularity: 286000,
     publish_date: "3 mayıs 2018",
     source: "eksiseyler.com",
     teaser:
@@ -920,7 +922,7 @@ export const articles = [
     authors: ["ejderha kuyrugunun ucunda yanan ates"],
     link:
       "http://seyler.eksisozluk.com/misir-piramitleri-o-zamanki-teknolojiyle-nasil-yapildi",
-    popularity: "44,5b",
+    popularity: 44500,
     publish_date: "20 aralık 2018",
     source: "eksiseyler.com",
     teaser:
@@ -938,7 +940,7 @@ export const articles = [
     authors: ["uyku hayat felsefem"],
     link:
       "http://seyler.eksisozluk.com/15-gunluk-sarj-suresiyle-cezbeden-huawei-watch-gt-2nin-incelemesi",
-    popularity: "69,8b",
+    popularity: 69800,
     publish_date: "26 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -956,7 +958,7 @@ export const articles = [
     authors: ["tone"],
     link:
       "http://seyler.eksisozluk.com/samanyoluna-yakinligiyla-dikkat-ceken-ve-asiri-yildiz-ureten-heykeltras-galaksisi",
-    popularity: "3b",
+    popularity: 3000,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -978,7 +980,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/65-milyon-yil-once-gelecekteki-insanlara-varliginizi-nasil-kanitlardiniz",
-    popularity: "42,4b",
+    popularity: 42400,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -997,7 +999,7 @@ export const articles = [
     authors: ["avia sci"],
     link:
       "http://seyler.eksisozluk.com/aya-neden-us-kurmak-isteniyor-ve-bu-basarilabilir-mi",
-    popularity: "5,6b",
+    popularity: 5600,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1018,7 +1020,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/mantigin-pratikte-nasil-cuvallayabildigini-gosteren-olay-sorites-paradoksu",
-    popularity: "37,9b",
+    popularity: 37900,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1058,7 +1060,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/unutulmaz-bir-cocukluk-nesnesi-anneanne-evindeki-30-kiloluk-beton-yorgan",
-    popularity: "79,3b",
+    popularity: 79300,
     publish_date: "24 nisan 2017",
     source: "eksiseyler.com",
     teaser:
@@ -1087,7 +1089,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/heyecanli-senaryolarin-bizzat-aktoru-olmak-isteyenler-icin-guzel-kutu-oyunu-tavsiyeleri",
-    popularity: "37,4b",
+    popularity: 37400,
     publish_date: "27 aralık 2017",
     source: "eksiseyler.com",
     teaser:
@@ -1109,7 +1111,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/microsoftun-2020de-piyasaya-surulecek-yeni-oyuncagi-xbox-series-x",
-    popularity: "5,4b",
+    popularity: 5400,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1128,7 +1130,7 @@ export const articles = [
     authors: ["katabasis"],
     link:
       "http://seyler.eksisozluk.com/amator-telsizcilige-baslamayi-dusunenlere-tavsiyeler",
-    popularity: "9,6b",
+    popularity: 9600,
     publish_date: "11 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1146,7 +1148,7 @@ export const articles = [
     authors: ["fakirpislik06"],
     link:
       "http://seyler.eksisozluk.com/hideo-kojima-nin-getir-goturunu-yaptiginiz-oyun-death-strandingin-incelemesi",
-    popularity: "8,8b",
+    popularity: 8800,
     publish_date: "10 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1165,7 +1167,7 @@ export const articles = [
     authors: ["days"],
     link:
       "http://seyler.eksisozluk.com/tom-ve-jerryde-tomu-tutmak-neden-son-derece-saglikli-bir-davranis",
-    popularity: "31,4b",
+    popularity: 31400,
     publish_date: "9 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1184,7 +1186,7 @@ export const articles = [
     authors: ["air anka"],
     link:
       "http://seyler.eksisozluk.com/avatar-the-last-airbenderda-hikayeyi-olusturan-4-ulus-nereden-esinlenildi",
-    popularity: "34b",
+    popularity: 34000,
     publish_date: "29 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1202,7 +1204,7 @@ export const articles = [
   {
     authors: ["kelimelerveseyler"],
     link: "http://seyler.eksisozluk.com/yemek-yerken-izlemelik-videolar",
-    popularity: "22,7b",
+    popularity: 22700,
     publish_date: "29 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1220,7 +1222,7 @@ export const articles = [
     authors: ["0 5 ucu olan adam"],
     link:
       "http://seyler.eksisozluk.com/bizimkiler-dizisindeki-sabri-beyin-aslinda-hakli-olmasi",
-    popularity: "83,9b",
+    popularity: 83900,
     publish_date: "28 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1238,7 +1240,7 @@ export const articles = [
     authors: ["sknolreis"],
     link:
       "http://seyler.eksisozluk.com/parasizliktan-jigolo-olmayi-dusunen-universiteli-uc-gencin-trajikomik-hikayesi",
-    popularity: "99,8b",
+    popularity: 99800,
     publish_date: "25 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1257,7 +1259,7 @@ export const articles = [
     authors: ["mabel"],
     link:
       "http://seyler.eksisozluk.com/arkadaslik-uygulamasiyla-tuhaf-bir-ilk-bulusma-yasayan-kadinin-eglenceli-anisi",
-    popularity: "105b",
+    popularity: 105000,
     publish_date: "21 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1275,7 +1277,7 @@ export const articles = [
   {
     authors: ["hanging rock"],
     link: "http://seyler.eksisozluk.com/ahmet-kayanin-rock-denemeleri",
-    popularity: "15,4b",
+    popularity: 15400,
     publish_date: "20 kasım 2019",
     source: "eksiseyler.com",
     teaser: "Ahmet Kaya'nın bazı şarkılarında rock esintileri görmek mümkün.",
@@ -1292,7 +1294,7 @@ export const articles = [
     authors: ["co2s2"],
     link:
       "http://seyler.eksisozluk.com/street-fighter-evreninin-esas-oglani-ryu-hakkinda-az-bilinenler",
-    popularity: "18,3b",
+    popularity: 18300,
     publish_date: "15 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1316,7 +1318,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/sadece-bir-spiker-klasigi-degil-bir-hayat-tarzini-ozetleyen-soz-ender-gelisen-osasuna-ataklari",
-    popularity: "61,5b",
+    popularity: 61500,
     publish_date: "4 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1335,7 +1337,7 @@ export const articles = [
     authors: ["tanriya allah diyen cocuk"],
     link:
       "http://seyler.eksisozluk.com/eskisehirde-eski-patronundan-yillar-sonra-intikam-alan-gencin-tebessum-ettiren-oykusu",
-    popularity: "320b",
+    popularity: 320000,
     publish_date: "17 ekim 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1354,7 +1356,7 @@ export const articles = [
     authors: ["fucking battery"],
     link:
       "http://seyler.eksisozluk.com/metallicanin-efsane-vokalisti-james-hetfieldin-ses-incelemesi",
-    popularity: "8b",
+    popularity: 8000,
     publish_date: "9 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1378,7 +1380,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/zamaninin-otesindeki-enfes-dizi-sasifelek-cikmazindan-akilda-kalanlar",
-    popularity: "26,8b",
+    popularity: 26800,
     publish_date: "2 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1400,7 +1402,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/insanustu-sesiyle-dinleyenleri-soke-eden-kazak-muzisyen-dimash-kudaibergen",
-    popularity: "44,2b",
+    popularity: 44200,
     publish_date: "4 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1424,7 +1426,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/turkiyede-camasir-kurutma-makinesi-neden-pek-tutmadi",
-    popularity: "1,1b",
+    popularity: 1100,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1444,7 +1446,7 @@ export const articles = [
       "deliyimben"
     ],
     link: "http://seyler.eksisozluk.com/protez-sac-nedir-nasil-uygulanir",
-    popularity: "28,1b",
+    popularity: 28100,
     publish_date: "8 şubat 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1462,7 +1464,7 @@ export const articles = [
     authors: ["celalsalik"],
     link:
       "http://seyler.eksisozluk.com/kubanin-saglik-sistemi-sahiden-de-yillardir-soylendigi-gibi-mukemmel-mi",
-    popularity: "142b",
+    popularity: 142000,
     publish_date: "3 ekim 2017",
     source: "eksiseyler.com",
     teaser:
@@ -1481,7 +1483,7 @@ export const articles = [
     authors: ["ginger architect"],
     link:
       "http://seyler.eksisozluk.com/mutlu-olmayi-milli-piyango-yilbasi-ikramiyesine-baglamak-neden-yanlis",
-    popularity: "5,9b",
+    popularity: 5900,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1504,7 +1506,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/bizzat-gidenler-anlatiyor-erasmus-yapmanin-hayat-degistiren-faydalari",
-    popularity: "8,3b",
+    popularity: 8300,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1527,7 +1529,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/nasanin-besin-takviyesi-olarak-astronotlara-verdigi-super-gida-spirulina",
-    popularity: "23,5b",
+    popularity: 23500,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1549,7 +1551,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/avrupayla-amerika-arasinda-yolcu-tasiyan-ilk-sirketlerden-biri-imperial-airways",
-    popularity: "3,7b",
+    popularity: 3700,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1568,7 +1570,7 @@ export const articles = [
     authors: ["thezsvnc"],
     link:
       "http://seyler.eksisozluk.com/italyanlarin-korumak-icin-cemiyet-kurdugu-napoliten-pizza-nasil-yapilir",
-    popularity: "13,5b",
+    popularity: 13500,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1587,7 +1589,7 @@ export const articles = [
     authors: ["sanyu mete"],
     link:
       "http://seyler.eksisozluk.com/dagda-kar-firtinasina-yakalanip-kayboldugumuzda-nasil-hayatta-kaliriz",
-    popularity: "25,2b",
+    popularity: 25200,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1606,7 +1608,7 @@ export const articles = [
     authors: ["debauchee"],
     link:
       "http://seyler.eksisozluk.com/kislik-mont-ve-botlarda-gordugumuz-waterproof-softshell-ve-gore-tex-terimleri-nedir",
-    popularity: "22,8b",
+    popularity: 22800,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1625,7 +1627,7 @@ export const articles = [
     authors: ["gareven"],
     link:
       "http://seyler.eksisozluk.com/egitimli-bir-fotografcidan-stok-sitelerine-fotograf-satmak-isteyenler-icin-tavsiyeler",
-    popularity: "7,4b",
+    popularity: 7400,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1654,7 +1656,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/usta-soforlerden-yollarin-tozunu-yutmamis-acemi-soforlere-degerli-tavsiyeler",
-    popularity: "32,8b",
+    popularity: 32800,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1680,7 +1682,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/yurt-disina-goc-eden-turkler-turkiyeye-geri-donmeyi-dusunuyor-mu",
-    popularity: "15b",
+    popularity: 15000,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1704,7 +1706,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/turk-insani-neden-ikinci-el-alisverisi-sevmiyor",
-    popularity: "43b",
+    popularity: 43000,
     publish_date: "18 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1728,7 +1730,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/hayatin-gidisatinda-oldukca-belirleyici-bir-faktor-bosanmis-aile-cocugu-olmak",
-    popularity: "20,1b",
+    popularity: 20100,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1747,7 +1749,7 @@ export const articles = [
     authors: ["kral leopoldun kongolu arkadasi"],
     link:
       "http://seyler.eksisozluk.com/ingilterede-bu-hayat-tarzini-taniyan-birinden-komun-hayatina-dair-guncel-gozlemler",
-    popularity: "12,4b",
+    popularity: 12400,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1766,7 +1768,7 @@ export const articles = [
     authors: ["meyveyiyenagac"],
     link:
       "http://seyler.eksisozluk.com/turklerin-ragbet-ettigi-karadagda-oturum-izni-konusunda-yapilan-dolandiriciliklar",
-    popularity: "19,8b",
+    popularity: 19800,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1799,7 +1801,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/birini-son-kez-gordugunu-bildiginde-insanin-icinde-olusan-duyguya-dair-en-iyi-ifadeler",
-    popularity: "35,5b",
+    popularity: 35500,
     publish_date: "9 mart 2018",
     source: "eksiseyler.com",
     teaser:
@@ -1816,7 +1818,7 @@ export const articles = [
   {
     authors: ["kubar tegin"],
     link: "http://seyler.eksisozluk.com/vajinal-orgazm-nasil-saglanir",
-    popularity: "253b",
+    popularity: 253000,
     publish_date: "28 kasım 2018",
     source: "eksiseyler.com",
     teaser: "Temiz bir anlatımla kadınlara vajinal orgazm yaşatmanın tarifi.",
@@ -1833,7 +1835,7 @@ export const articles = [
     authors: ["radioslave"],
     link:
       "http://seyler.eksisozluk.com/dunyanin-en-pahali-intihar-yontemi-sigara-bagimliligi",
-    popularity: "85,9b",
+    popularity: 85900,
     publish_date: "2 nisan 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1851,7 +1853,7 @@ export const articles = [
     authors: ["demesi kolay tabii"],
     link:
       "http://seyler.eksisozluk.com/bir-kadinin-kaleminden-fuck-buddylik-muessesesi-hakkinda-tavsiyeler",
-    popularity: "136b",
+    popularity: 136000,
     publish_date: "14 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1874,7 +1876,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/ilginc-bir-gercek-basari-hikayelerinde-aciklanmadan-gecen-zaman-atlamalari",
-    popularity: "12,1b",
+    popularity: 12100,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1893,7 +1895,7 @@ export const articles = [
     authors: ["roket adam"],
     link:
       "http://seyler.eksisozluk.com/meslek-secerken-dikkat-edilmesi-gereken-onemli-hususlar",
-    popularity: "5,3b",
+    popularity: 5300,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1911,7 +1913,7 @@ export const articles = [
     authors: ["songulyabani"],
     link:
       "http://seyler.eksisozluk.com/ikinci-abdulhamit-doneminde-pasaliga-kadar-yukselen-kabadayi-arap-abdullah",
-    popularity: "35,3b",
+    popularity: 35300,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1933,7 +1935,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/psikoterapide-kullanilan-bir-rahatlama-yontemi-olan-katharsis-nedir",
-    popularity: "7,9b",
+    popularity: 7900,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1955,7 +1957,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/arsenalin-yeni-teknik-direktoru-mikel-arteta-kimdir",
-    popularity: "6,1b",
+    popularity: 6100,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -1977,7 +1979,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/kimilerince-gelmis-gecmis-en-buyuk-tenis-oyuncusu-kortlarin-rock-stari-andre-agassi",
-    popularity: "9,5b",
+    popularity: 9500,
     publish_date: "20 temmuz 2018",
     source: "eksiseyler.com",
     teaser:
@@ -1998,7 +2000,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/sporcularin-benzini-olarak-bilinen-bcaa-tam-olarak-nedir-ne-ise-yarar",
-    popularity: "34,6b",
+    popularity: 34600,
     publish_date: "6 haziran 2018",
     source: "eksiseyler.com",
     teaser:
@@ -2016,7 +2018,7 @@ export const articles = [
     authors: ["tevfikken"],
     link:
       "http://seyler.eksisozluk.com/2020leri-domine-etmek-isteyen-takimlarin-uygulamasi-gereken-taktik-piston-futbol",
-    popularity: "106b",
+    popularity: 106000,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2039,7 +2041,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/anadolu-efesin-yildizi-shane-larkin-neden-devsirilerek-milli-takima-alinmiyor",
-    popularity: "11,6b",
+    popularity: 11600,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2061,7 +2063,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/845-metrelik-rekoru-hala-kirilamayan-kemankes-tozkoparan-iskender",
-    popularity: "26b",
+    popularity: 26000,
     publish_date: "12 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2085,7 +2087,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/everestteki-cesedi-tam-75-yil-sonra-tesadufen-bulunan-dagci-george-mallory",
-    popularity: "47,1b",
+    popularity: 47100,
     publish_date: "11 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2103,7 +2105,7 @@ export const articles = [
     authors: ["eldorado kaymakami"],
     link:
       "http://seyler.eksisozluk.com/nba-2019-2020-sezonunda-su-anki-vaziyetin-takim-takim-aciklanan-ozeti",
-    popularity: "9,7b",
+    popularity: 9700,
     publish_date: "10 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2122,7 +2124,7 @@ export const articles = [
     authors: ["eachart muller"],
     link:
       "http://seyler.eksisozluk.com/lionel-messinin-2019-ballon-dor-odulunu-aldiktan-sonra-yaptigi-konusma",
-    popularity: "13,6b",
+    popularity: 13600,
     publish_date: "5 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2141,7 +2143,7 @@ export const articles = [
     authors: ["ledzeppelinn"],
     link:
       "http://seyler.eksisozluk.com/michael-schumacheri-diger-pilotlardan-ayiran-spesifik-ozellikleri-ve-basarilari",
-    popularity: "27,1b",
+    popularity: 27100,
     publish_date: "4 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2159,7 +2161,7 @@ export const articles = [
     authors: ["imlaci"],
     link:
       "http://seyler.eksisozluk.com/nba-maclarinin-eskisi-kadar-keyif-vermemesi-sorunsalinin-teknik-analizi",
-    popularity: "20,5b",
+    popularity: 20500,
     publish_date: "2 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2178,7 +2180,7 @@ export const articles = [
     authors: ["bigboned"],
     link:
       "http://seyler.eksisozluk.com/unai-emery-ile-yollarini-ayiran-arsenal-icin-en-uygun-teknik-direktor-adaylari",
-    popularity: "7b",
+    popularity: 7000,
     publish_date: "2 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2197,7 +2199,7 @@ export const articles = [
     authors: ["quelle horreur"],
     link:
       "http://seyler.eksisozluk.com/euroleaguein-ilk-haftalarini-takip-edemeyenler-icin-bilgi-verici-bir-ozet",
-    popularity: "5,8b",
+    popularity: 5800,
     publish_date: "22 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2221,7 +2223,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/basarili-teknik-direktor-mauricio-pochettino-neden-tottenhamdan-kovuldu",
-    popularity: "16,5b",
+    popularity: 16500,
     publish_date: "20 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2240,7 +2242,7 @@ export const articles = [
     authors: ["carc"],
     link:
       "http://seyler.eksisozluk.com/en-eglenceli-grup-aktivitelerinden-paintball-hakkinda-teknik-bilgiler",
-    popularity: "10,6b",
+    popularity: 10600,
     publish_date: "20 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2259,7 +2261,7 @@ export const articles = [
     authors: ["mikua"],
     link:
       "http://seyler.eksisozluk.com/ilginc-bir-skorun-yasandigi-19-mart-1950-fort-wayne-pistons-minneapolis-lakers-basket-maci",
-    popularity: "27,8b",
+    popularity: 27800,
     publish_date: "14 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2278,7 +2280,7 @@ export const articles = [
     authors: ["leroy smith"],
     link:
       "http://seyler.eksisozluk.com/emekli-michael-jordanin-bir-caylagin-birebirde-seni-yenerim-iddiasina-verdigi-cevap",
-    popularity: "145b",
+    popularity: 145000,
     publish_date: "12 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2297,7 +2299,7 @@ export const articles = [
     authors: ["nickoprost"],
     link:
       "http://seyler.eksisozluk.com/f1in-en-tartismali-sezonu-olan-94u-schumacher-uzerinden-anlatan-nostalji-dolu-yazi",
-    popularity: "6,3b",
+    popularity: 6300,
     publish_date: "9 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2315,7 +2317,7 @@ export const articles = [
     authors: ["juvares"],
     link:
       "http://seyler.eksisozluk.com/nba-efsanelerinden-julius-ervingin-bir-takimin-tum-borcuna-karsilik-transfer-olusunun-oykusu",
-    popularity: "10,3b",
+    popularity: 10300,
     publish_date: "6 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2334,7 +2336,7 @@ export const articles = [
     authors: ["le fougueux"],
     link:
       "http://seyler.eksisozluk.com/nba-transfer-sisteminin-tam-anlasilamayan-kurallari-ve-aciklamalari",
-    popularity: "18,1b",
+    popularity: 18100,
     publish_date: "18 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2353,7 +2355,7 @@ export const articles = [
     authors: ["sirt kili"],
     link:
       "http://seyler.eksisozluk.com/turk-futbolunun-yeni-gozdelerinden-caglar-soyuncuyu-iyi-bir-stoper-yapan-seyler-nedir",
-    popularity: "24,2b",
+    popularity: 24200,
     publish_date: "15 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2372,7 +2374,7 @@ export const articles = [
     authors: ["trifinomit"],
     link:
       "http://seyler.eksisozluk.com/dolar-artinca-ne-oldugunu-merak-edenler-icin-10-kurusluk-artisin-ekonomiye-etkisi",
-    popularity: "241b",
+    popularity: 241000,
     publish_date: "22 mayıs 2018",
     source: "eksiseyler.com",
     teaser:
@@ -2395,7 +2397,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/nevada-colunde-kurulmus-dunyanin-en-kucuk-cumhuriyeti-molossia",
-    popularity: "5,8b",
+    popularity: 5800,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2416,7 +2418,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/cinin-baski-altina-aldigi-sincan-uygur-ozerk-bolgesinde-neler-oluyor",
-    popularity: "322",
+    popularity: 322,
     publish_date: "23 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2435,7 +2437,7 @@ export const articles = [
     authors: ["anglachelm"],
     link:
       "http://seyler.eksisozluk.com/baska-bir-ulkeye-karsi-henuz-hic-kullanilmamis-korkunc-guclu-nukleer-fuze-rt-2utth-topol-m",
-    popularity: "84,4b",
+    popularity: 84400,
     publish_date: "6 şubat 2018",
     source: "eksiseyler.com",
     teaser:
@@ -2458,7 +2460,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/sag-gorus-son-yillarin-dunya-siyasetinde-neden-yukselise-gecmis-durumda",
-    popularity: "11,9b",
+    popularity: 11900,
     publish_date: "20 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2482,7 +2484,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/donald-trumpin-gorevden-alindigi-iddialari-gercekten-dogru-mu",
-    popularity: "12,3b",
+    popularity: 12300,
     publish_date: "19 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2500,7 +2502,7 @@ export const articles = [
     authors: ["nickolantesla"],
     link:
       "http://seyler.eksisozluk.com/kanal-istanbul-projesi-montro-bogazlar-sozlesmesini-atlatmak-icin-mi-yapiliyor",
-    popularity: "38,1b",
+    popularity: 38100,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2519,7 +2521,7 @@ export const articles = [
     authors: ["nbafan"],
     link:
       "http://seyler.eksisozluk.com/2020-asgari-ucret-zammi-istenilen-ekonomik-iyilesmeyi-saglayabilir-mi",
-    popularity: "11,4b",
+    popularity: 11400,
     publish_date: "17 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2542,7 +2544,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/boris-johnson-ingiltere-secimlerini-buyuk-farkla-kazanmayi-nasil-basardi",
-    popularity: "15,5b",
+    popularity: 15500,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2561,7 +2563,7 @@ export const articles = [
     authors: ["popoya popo"],
     link:
       "http://seyler.eksisozluk.com/mossadin-bugune-kadar-amerika-avrupa-ve-orta-doguda-gerceklestirdigi-operasyonlar",
-    popularity: "22,5b",
+    popularity: 22500,
     publish_date: "12 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2585,7 +2587,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/milosevice-destek-verdigi-icin-nobel-edebiyat-odulune-tepki-gosterilen-peter-handke-kimdir",
-    popularity: "9,9b",
+    popularity: 9900,
     publish_date: "11 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2604,7 +2606,7 @@ export const articles = [
     authors: ["powerbroker"],
     link:
       "http://seyler.eksisozluk.com/son-donemde-sikca-duydugumuz-munhasir-ekonomik-bolge-nedir",
-    popularity: "8,3b",
+    popularity: 8300,
     publish_date: "11 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2625,7 +2627,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/uludagda-1-araliktan-beri-kayip-olan-2-dagciyla-ilgili-son-durum-nedir",
-    popularity: "49b",
+    popularity: 49000,
     publish_date: "11 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2644,7 +2646,7 @@ export const articles = [
     authors: ["gilmer"],
     link:
       "http://seyler.eksisozluk.com/cem-uzan-imar-bankasi-yolsuzlugunu-tam-olarak-nasil-gerceklestirmisti",
-    popularity: "29,3b",
+    popularity: 29300,
     publish_date: "11 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2663,7 +2665,7 @@ export const articles = [
     authors: ["ben seni de sevmedim adem"],
     link:
       "http://seyler.eksisozluk.com/istanbul-buyuksehir-belediyesi-logosunun-hikayesi",
-    popularity: "8,5b",
+    popularity: 8500,
     publish_date: "10 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2681,7 +2683,7 @@ export const articles = [
     authors: ["eachart muller"],
     link:
       "http://seyler.eksisozluk.com/sagci-luis-lacalle-pounun-kazandigi-uruguay-secimlerine-dair-bilmeniz-gerekenler",
-    popularity: "6,5b",
+    popularity: 6500,
     publish_date: "5 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2700,7 +2702,7 @@ export const articles = [
     authors: ["sylarcan"],
     link:
       "http://seyler.eksisozluk.com/5-ayda-iki-kaza-yapan-boeing-737-max-ucagi-uzerinden-ciddi-bir-neoliberalizm-elestirisi",
-    popularity: "13,1b",
+    popularity: 13100,
     publish_date: "3 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2719,7 +2721,7 @@ export const articles = [
     authors: ["deathlycrimson"],
     link:
       "http://seyler.eksisozluk.com/netflix-turkiye-icerikleri-diger-ulkelere-gore-neden-kisitli",
-    popularity: "69,8b",
+    popularity: 69800,
     publish_date: "21 şubat 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2740,7 +2742,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/sirlariyla-birlikte-gomulen-turk-escobar-lakapli-uyusturucu-kacakcisi-sari-avni",
-    popularity: "30,8b",
+    popularity: 30800,
     publish_date: "26 kasım 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2759,7 +2761,7 @@ export const articles = [
     authors: ["eben"],
     link:
       "http://seyler.eksisozluk.com/googlein-turkiyeye-android-yaptirimi-baslatacagi-haberleri-ne-anlama-geliyor",
-    popularity: "14,4b",
+    popularity: 14400,
     publish_date: "16 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2778,7 +2780,7 @@ export const articles = [
     authors: ["complainst"],
     link:
       "http://seyler.eksisozluk.com/plak-satislari-nasil-oluyor-da-dijital-cagda-cd-satislarini-gecebiliyor",
-    popularity: "14,6b",
+    popularity: 14600,
     publish_date: "13 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2796,7 +2798,7 @@ export const articles = [
   {
     authors: ["khrmndgn"],
     link: "http://seyler.eksisozluk.com/whatsappin-gelir-kaynagi-nedir",
-    popularity: "93b",
+    popularity: 93000,
     publish_date: "9 aralık 2019",
     source: "eksiseyler.com",
     teaser:
@@ -2818,7 +2820,7 @@ export const articles = [
     ],
     link:
       "http://seyler.eksisozluk.com/turkiye-ve-libya-arasinda-yapilan-deniz-sulari-yetki-anlasmasi-ne-anlama-geliyor",
-    popularity: "28,4b",
+    popularity: 28400,
     publish_date: "5 aralık 2019",
     source: "eksiseyler.com",
     teaser:
