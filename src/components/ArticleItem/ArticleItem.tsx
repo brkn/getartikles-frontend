@@ -47,7 +47,13 @@ export function ArticleItem({
       <article className={"article"}>
         <header className={"article-header"}>
           <h1 className={"article-title"}>
-            <a href={link}>{title}</a>
+            <a
+              href={link}
+              target={"_blank"}
+              rel={"noopener noreferrer"}
+            >
+              {title}
+            </a>
           </h1>
 
           <p className={"article-topics-row"}>
