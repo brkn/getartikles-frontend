@@ -12,5 +12,22 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root" class="main-container"></div>
+    <!-- mailchimp popup -->
+    <script
+      type="text/javascript"
+      src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js"
+      data-dojo-config="usePlainJson: true, isDebug: false"
+    ></script>
+    <script type="text/javascript">
+      window.dojoRequire(["mojo/signup-forms/Loader"], function(L) {
+        L.start({
+          baseUrl: "mc.us4.list-manage.com",
+          uuid: "c768ca64bdbcf47cdc5031410",
+          lid: "f0822cc2b9",
+          uniqueMethods: true,
+        });
+      });
+    </script>
+    <!-- mailchimp popup -->
   </body>
 </html>
