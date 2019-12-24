@@ -104,9 +104,9 @@ export function ArticleItem({
         <footer className="article-footer">
           <time
             className="article-publish-date"
-            dateTime={publish_date || "2020"}
+            dateTime={getDate() || "2020"}
           >
-            {publish_date}
+            {getDate()}
           </time>
 
           <p className="article-reading-time">{"3 minutes read"}</p>
@@ -121,5 +121,17 @@ export function ArticleItem({
     }
 
     return String(popularity);
+  }
+
+  function getDate(): string {
+    const date = new Date(Number(publish_date) * 1000);
+
+    return date.toLocaleDateString("tr-TR", 
+      {
+        day: "2-digit",
+        month: "long",
+        year: "numeric",
+      }
+    );
   }
 }

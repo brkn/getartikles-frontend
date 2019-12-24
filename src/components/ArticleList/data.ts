@@ -20,7 +20,7 @@ export const articles: ArticleItemProps[] = [
       "komik",
       "türkçe"
     ],
-    publish_date: "16 Ekim 2019",
+    publish_date: "1571184000",
   },
   {
     title: "Evrim, Seri Katil ve Tecavüzcüleri Zaman İçinde Neden Elemedi?",
@@ -37,7 +37,7 @@ export const articles: ArticleItemProps[] = [
       "bilim",
       "türkçe"
     ],
-    publish_date: "28 Kasım 2019",
+    publish_date: "1574899200",
   },
   {
     title:
@@ -55,14 +55,14 @@ export const articles: ArticleItemProps[] = [
       "internet",
       "türkçe"
     ],
-    publish_date: "27 Kasım 2019",
+    publish_date: "1574812800",
   },
   {
     authors: ["windweaver"],
     link:
       "http://seyler.eksisozluk.com/dev-efsaneyi-bitiren-star-wars-episode-ix-the-rise-of-skywalkerin-incelemesi",
     popularity: 2500,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Bir üçlemenin daha sonuna geldik. Hayranlarından çokça tepki alan yeni Star Wars üçlemesini bitiren The Rise of Skywalker nasıl olmuş, bir bakmanın vakti geldi.",
@@ -81,7 +81,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/sait-faik-abasiyanik-ile-resad-ekrem-kocunun-dargin-olmelerine-neden-olan-olaylar",
     popularity: 2100,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Lise dönemlerinden beri birbirlerini tanıyan iki edebiyatçı Sait Faik Abasıyanık ve Reşad Ekrem Koçu, dargın bir şekilde ayrıldılar bu dünyadan. İşte ikilinin arasına set koyan olaylar ve sonrasında yaşananlar.",
@@ -103,7 +103,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/eski-tarihteki-turklerin-kutladigi-bir-nevi-yeni-yil-kutlamasi-nardugan-bayrami",
     popularity: 511,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Nardugan Bayramı, İslamiyetin kabulüne kadar olan dönemde birçok Türk topluluğu tarafından kutlanan bir bayram.",
@@ -121,7 +121,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/masallariyla-buyudugumuz-grimm-kardeslerin-detayli-hayat-hikayesi",
     popularity: 1000,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Grimm Kardeşler nasıl bir hayat sürdü? Hayatlarında neler yaşadılar? Basit folk öykülerini unutulmaz masallara çevirmeyi başaran Grimm Kardeşlerin hayat öyküsü.",
@@ -139,7 +139,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/the-witcherdaki-zaman-cizgilerini-karistiranlar-icin-kurgunun-aciklamasi",
     popularity: 843,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Başrolünü Henry Cavill'in üstlendiği fantastik edebiyat uyarlaması The Witcher'ı izleyenlerde zaman kurgusu bir karışıklık yaratmış olabilir. Açıklayalım.",
@@ -158,7 +158,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/en-uzun-gecede-ayi-seyrederek-dinlenmesi-gereken-klasikler-chopin-nokturnleri",
     popularity: 5400,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       'Polonyalı piyanist Frédéric Chopin\'in şiirsel zekasını ortaya döken noktürnler nedir, ne değildir, etkileri nelerdir? Sözlük yazarı "beren and luithen" aktarıyor.',
@@ -177,7 +177,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/girdigi-hicbir-savasi-kaybetmeyen-tarihin-en-buyuk-dehalarindan-biri-timurlenk",
     popularity: 12100,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "1336-1405 yılları arasında yaşayan ve Timur İmparatorluğu'nun kurucusu olan Türk-Moğol kökenli komutan Timurlenk (Timur), tarihin gördüğü en büyük askeri dehalardan biriydi.",
@@ -196,7 +196,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/christopher-nolanin-yeni-filmi-tenet-kelime-anlami-olarak-neyi-ifade-ediyor",
     popularity: 11100,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       'Yeni Nolan filminin fragmanıyla birlikte filme olan ilgi de arttı. Özellikle "tenet" kelimesinin anlamı merak konusu. Bakalım.',
@@ -215,7 +215,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/filmlerden-oyunlara-pek-cok-gorsel-mecrada-kullanilan-storyboard-nedir",
     popularity: 3800,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "Storyboard nedir, nasıl yapılır, kullanım alanları nelerdir? Özellikle film ve oyun sektöründe çokça kullanılan storyboard'a dair bilinmesi hiç fena olmayacak temel bilgiler.",
@@ -234,7 +234,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/akad-mitolojisindeki-ask-ve-savas-tanricasi-istar",
     popularity: 4800,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Sümer mitolojisindeki İnanna'dan türetilmiş olan İştar hakkında bilinmesi gerekenler.",
@@ -274,7 +274,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/film-elestirmenlerine-gore-2019un-en-iyi-filmleri",
     popularity: 28000,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Yıl sonu listeleri, çeşitli mecralardan gelmeye başladı. İşte en ilgi çekicilerinden biri: Indiewire, Time ve daha pek çok güvenilir kaynağa göre yılın en iyi filmleri.",
@@ -292,7 +292,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/dunyaca-unlu-sokratesin-olumu-tablosu-bize-ne-anlatiyor",
     popularity: 8600,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       "Fransız ressam Jacques-Louis David’in 1787 yılında yaptığı Sokrates'in Ölümü (The Death of Socrates) tablosunun okuması.",
@@ -314,7 +314,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/sadik-hidayetin-bunyeniz-hazir-olunca-okunmasi-gereken-klasigi-kor-baykus",
     popularity: 8900,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Modern İran edebiyatının önde gelen düzyazı ve kısa hikâye yazarı Sadık Hidayet'in 1936 tarihli, bol bol okunan eserini inceleyelim.",
@@ -340,7 +340,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/rock-muzigin-ana-akim-piyasada-guc-kaybetmesinin-sebepleri-nelerdir",
     popularity: 6800,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Tabii ki rock ve türevleri asla ölmez ancak ana akım müzik piyasasında kan kaybettikleri de bir gerçek. Rock, neden popüler müzikte eskisi kadar etkili değil? Sözlük yazarlarının yorumlarıyla değerlendirelim.",
@@ -359,7 +359,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/the-prestige-filmi-hakkinda-az-bilinenler",
     popularity: 38000,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Christopher Nolan'ın yönettiği 2006 yapımı bilim kurgu filmi The Prestige filmiyle ilgili ilginç yapım notları.",
@@ -377,7 +377,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/kuslar-aleminin-bilgesi-baykuslarin-turk-mitolojisindeki-yeri-ve-anlami",
     popularity: 5500,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Baykuşların, toplumumuzda nasıl görüldüğünü anlamayı sağlayacak bir özet.",
@@ -396,7 +396,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/friedrich-nietzschenin-pek-bilinmeyen-bestecilik-yonu",
     popularity: 3200,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       "Her ne kadar başka yönleri ile ön plana çıkmış olsa da Friedrich Nietzsche bir besteciydi aynı zamanda.",
@@ -414,7 +414,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/bir-zamanlar-anadoluda-filminin-dantenin-cehennemi-uzerinden-alt-metin-aciklamasi",
     popularity: 7800,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Açalım: Nuri Bilge Ceylan, Bir Zamanlar Anadolu'da filminde İtalyan yazar Dante'nin İnferno'sunu (cehennem) mu model alıyor? Sözlük yazarı \"kaedeoky\", bunun üzerinden bir alt metin çözümlemesi yapmış.",
@@ -433,7 +433,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/1930da-astegmen-mustafa-fehmi-kubilayin-katledildigi-menemende-neler-yasandi",
     popularity: 152000,
-    publish_date: "23 aralık 2016",
+    publish_date: "1482451200",
     source: "eksiseyler.com",
     teaser: "Menemen Olayı ya da diğer adıyla Kubilay Olayı nasıl gerçekleşti?",
     thumbnail:
@@ -451,7 +451,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/adolf-hitlerin-nasil-adim-adim-delirdigini-anlatan-eksi-sozlukun-en-uzun-entrysi",
     popularity: 141000,
-    publish_date: "10 eylül 2019",
+    publish_date: "1568073600",
     source: "eksiseyler.com",
     teaser:
       "Çayınızı, kahvenizi alın gelin. Birazdan Ekşi Sözlük'ün kopyala yapıştır olmayan en uzun entry'sini okuyacaksınız. İkinci Dünya Savaşı, Hitler, diktatör psikolojisi gibi konulara meraklıysanız eğer kitap okur gibi okuyacağınız o müthiş entry.",
@@ -470,7 +470,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/egrisiyle-dogrusuyla-the-crown-dizisinin-3-sezon-incelemesi",
     popularity: 500,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Kraliçe II. Elizabeth'in saltanat dönemini anlatan biyografi hikâyesi The Crown, Netflix aracılığıyla 3. sezona ulaşmış durumda. Yeni sezonu inceleyelim.",
@@ -488,7 +488,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/karl-marx-ve-friedrich-nietzschenin-din-konusundaki-goruslerinin-kiyaslamasi",
     popularity: 12000,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "19. yüzyılın bu iki büyük düşünürünün teoloji açısından düşündürücü bir kıyaslaması.",
@@ -507,7 +507,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/beat-kusagi-ve-hipsterlar-arasindaki-fark-nedir",
     popularity: 4200,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       "Yanlış anlaşılma olmasın; hipster derken günümüzün uzun sakallı ve kemik gözlüklü genç insanlarını değil, yazar Norman Mailer'ın 1957 tarihli The White Negro kitabında tanımladığı kesimi ele alıyoruz. İşte sıkça karıştırılan, 50'ler ve 60'ların Beatnikleri ve orijinal Hipsterlar arasındaki farklar.",
@@ -525,7 +525,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/amerikada-sessiz-sedasiz-yasanan-kizilderili-soykiriminin-bolge-bolge-aciklamasi",
     popularity: 22200,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       'İnsanlık tarihinin yüz karalarından Kızılderili soykırımı maalesef bugün bile yeteri kadar ses getirmiyor, araştırılmıyor ve bilinmiyor. Sözlük yazarı "beren and luithen", yaşananları bölge bölge, yıl yıl aktarmış.',
@@ -547,7 +547,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/garipsediginiz-ciftlerin-neden-birlikte-oldugunu-anlatan-baglanma-olayi-pair-bonding",
     popularity: 4700,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       'Hem "bu çocuk bu kıza nasıl katlanıyor?" gibi soruların cevabını veren, hem de evrimsel bir koruma olayını anlatan pair-bond olayını kısaca açıklayalım.',
@@ -568,7 +568,7 @@ export const articles: ArticleItemProps[] = [
     ],
     link: "http://seyler.eksisozluk.com/deja-vu-nedir-ve-neden-olur",
     popularity: 17800,
-    publish_date: "12 aralık 2018",
+    publish_date: "1544572800",
     source: "eksiseyler.com",
     teaser:
       "Yaşadığımız bir olayı daha önceden yaşamış gibi hissettiğimiz bazı anlar var. Bu anlara Deja vu diyoruz ve tam sebebi net bir şekilde açıklanmasa da bilimin bu konuda elbette söylediği bazı şeyler var.",
@@ -589,7 +589,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/evrenin-genisledigini-ispatlayan-dalga-frekansi-degisikligi-doppler-etkisi",
     popularity: 11500,
-    publish_date: "7 aralık 2018",
+    publish_date: "1544140800",
     source: "eksiseyler.com",
     teaser:
       "Doppler etkisi nedir? Ne işe yarar? Doppler etkisi örnekleri nelerdir? Bu ve benzeri soruları soruyorsanız içeriğe göz atmanızda fayda var.",
@@ -607,7 +607,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/fotograf-cekimi-sirasinda-var-olmasi-gereken-faktorlerden-biri-enstantane-nedir",
     popularity: 156,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       '"Enstantane hızı ne ile ölçülür?", "diyafram fotoğraf", "diyafram enstantane"... Bu ve benzeri kelime grupları beyninizde dönüp duruyorsa doğru yere geldiniz. İşte fotoğrafçılıkta önemli yeri olan enstantane ve diyafram gibi kavramların açıklaması.',
@@ -630,7 +630,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/kulakla-hic-isi-olmadigi-halde-kotu-bir-une-sahip-olan-bocek-kulagakacan",
     popularity: 17800,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "Bilimsel adı Forficula auricularia olan, çatal şeklindeki kıskaçlarıyla dikkat çeken ve aslında zararsız olan böcek Kulağakaçan, adının kurbanı olmuş durumda.",
@@ -649,7 +649,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/bir-zamanlar-turk-askerinin-siklikla-kullandigi-keskin-nisanci-tufegi-dragunov-svd",
     popularity: 17700,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       'Halk arasında "kanas" olarak bilinen, bir zamanlar Güneydoğu çatışmalarında sıklıkla kullanılan sniper tüfeğini tanıyalım biraz.',
@@ -668,7 +668,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/hiv-korkusundan-kafayi-yememek-icin-mutlaka-bilinmesi-gerekenler",
     popularity: 9300,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "Okuduktan sonra AIDS, HIV gibi kavramlar hakkında pek çok şey öğreneceğiniz, bilgilendirici bir yazı.",
@@ -686,7 +686,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/buyukadadaki-atlarin-itlaf-edilmesine-neden-olan-ruam-hastaligi-nedir",
     popularity: 7700,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Ruam nedir? Ruam hastalığı nedir? Ruam hastalığı bulaşıcı mıdır? At vebası nedir? Büyükada'da bulunan 81 at, ruam hastalığı nedeniyle itlaf edildi. Bu hastalığın nasıl bir şey olduğunu kısaca açıklayalım.",
@@ -708,7 +708,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/eksen-egikligi-nedir-ve-dunyanin-ekseni-neden-egiktir",
     popularity: 5200,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Yaşadığımız mevsimleri borçlu olduğumuz eksen eğikliğinin açıklaması.",
@@ -726,7 +726,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/isaac-newtonun-adam-astirmaya-kadar-giden-kindar-yonu",
     popularity: 23100,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       "Isaac Newton'un, dehası yanında korkunç derecede kin tutan biri olduğunu biliyor muydunuz? Ayrıntılar oldukça ilginç.",
@@ -744,7 +744,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/kara-bitkilerinin-90ini-birbirine-baglayan-dev-bir-ag-wood-wide-web",
     popularity: 7400,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Wood Wide Web ya da Mycorrhizal Network, bitki köklerini yer altından birbirlerine bağladığı düşünülen ağın ismi. Nedir, ne değildir; inceliyoruz.",
@@ -763,7 +763,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/otomatik-vitesli-araclarda-debriyajin-yerini-alan-eleman-tork-konvertoru",
     popularity: 26200,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Otomatik vitesli arabalarda debriyajın işlevini gören şanzıman elemanı tork konvertörüne dair merak edilenler.",
@@ -782,7 +782,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/fonograftan-modern-pikaba-kadarki-ses-cikis-teknolojisinin-tarihsel-gelisimi",
     popularity: 2500,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       "Bugün elimizdeki telefonlarda zerre zorlanmadan dinlediğimiz müziği dinleyebilmek, bir zamanlar oldukça zordu. İşte sizi o zamanlara götürecek bir teknoloji özeti.",
@@ -805,7 +805,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/butun-evreni-olusturan-uzay-zaman-duzlemi-tam-olarak-nedir",
     popularity: 7000,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       "Uzay zaman dokusu nedir? Zamanı bükmek ne demek? Uzay zaman ne anlama geliyor? Açıklayalım.",
@@ -823,7 +823,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/kar-yagarken-etraf-neden-daha-sessiz-olur",
     popularity: 30800,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       "Kar yağdığı zaman sokaklar daha bir sessiz olur dikkat ederseniz. Kar sessizliği diye bir şey vardır hatta ve çok severiz kendisini. İşte bu durumun bilimsel açıklaması.",
@@ -840,7 +840,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/vucudumuzdaki-bir-kesige-alkol-dokunce-neden-yanar",
     popularity: 15300,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       "Vücudumuzun herhangi bir yerinde bir yara/kesik olduğu zaman bir pamuğa alkol döküp, yaranın olduğu kısıma basarak tedavi sağlamaya çalışırız. Bu esnada da canımız yanar. İşte onun nedeni.",
@@ -861,7 +861,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/dunyanin-aslinda-canli-bir-organizma-oldugunu-savunan-hipotez-gaia",
     popularity: 12800,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Dr. James Lovelock adlı bir bilim insanı tarafından geliştirilen Gaia Hipotezi'ne göre üzerinde yaşadığımız Dünya, yaşayan bir organizma.",
@@ -879,7 +879,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/alkol-toleransi-cinsiyete-ve-kisiye-gore-nasil-degisiyor",
     popularity: 14700,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Herkesin alkole verdiği tepki aynı değil. Kimisi bir-iki kadehte sarhoş olurken, kimisine şişe dahi işlemeyebiliyor. İşte bunların nedenleri var.",
@@ -901,7 +901,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/cinsel-duskunlukle-karistirilmamasi-gereken-ciddi-bir-kadin-hastaligi-nemfomani",
     popularity: 286000,
-    publish_date: "3 mayıs 2018",
+    publish_date: "1525305600",
     source: "eksiseyler.com",
     teaser:
       'Nemfomani, cinsellik konusunda tatminsizlik/doyumsuzluk yaşayan, sürekli bir cinsel birleşme arzusu yaşayan kadınları anlatmak için kullanılan bir tabir, bir hastalık. Toplumda genellikle cinsel isteği fazla olan kadınları "aşağılama" manasında kullanılan ve pek ciddiye alınmayan bu kavram, göründüğünden daha ciddi bir mevzu.',
@@ -920,7 +920,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/misir-piramitleri-o-zamanki-teknolojiyle-nasil-yapildi",
     popularity: 44500,
-    publish_date: "20 aralık 2018",
+    publish_date: "1545264000",
     source: "eksiseyler.com",
     teaser:
       "Mısır piramitlerinin nasıl inşa edildiği konusu yıllardır bir kesinliğe varabilmiş değil. Bu konuda ortaya atılan pek çok farklı teori ve şehir efsanesi diyebileceğimiz şey var.",
@@ -938,7 +938,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/15-gunluk-sarj-suresiyle-cezbeden-huawei-watch-gt-2nin-incelemesi",
     popularity: 69800,
-    publish_date: "26 kasım 2019",
+    publish_date: "1574726400",
     source: "eksiseyler.com",
     teaser:
       "Huawei'nin yeni akıllı saati HUAWEI WATCH GT 2'yi bir süredir kullanan bir Ekşi Sözlük yazarı, saatle ilgili izlenimlerini yazmış.",
@@ -956,7 +956,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/samanyoluna-yakinligiyla-dikkat-ceken-ve-asiri-yildiz-ureten-heykeltras-galaksisi",
     popularity: 3000,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       "Aşırı yıldız üreten galaksi türüne mensup olan Heykeltraş Galaksisi, nam-ı diğer NGC 253'ü inceliyoruz.",
@@ -978,7 +978,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/65-milyon-yil-once-gelecekteki-insanlara-varliginizi-nasil-kanitlardiniz",
     popularity: 42400,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       "Diyelim ki bir şeyler ters gitti ve 65 milyon yıl öncesine ışınlandınız, geri dönme şansınız da yok. Peki sizden milyonlarca yıl sonra ortaya çıkacak olan homo sapiens'lere, bir zamanlar burada olduğunuzu ne yaparak kanıtlardınız? Eğlenceli bir bilim sorusu.",
@@ -997,7 +997,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/aya-neden-us-kurmak-isteniyor-ve-bu-basarilabilir-mi",
     popularity: 5600,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       "Ay'a ilk insanlı iniş 1969 yılında gerçekleşmişti. O tarihten bu yana Ay, çok fazla gündem olmadı ancak son dönemde SpaceX ile birlikte uydumuz yeniden gündemde.",
@@ -1018,7 +1018,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/mantigin-pratikte-nasil-cuvallayabildigini-gosteren-olay-sorites-paradoksu",
     popularity: 37900,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Hep güvendiğimiz mantığın bazı zamanlarda yeterli gelmediğini bize gösteren bir paradoks, Sorites (Yığın) Paradoksu.",
@@ -1058,7 +1058,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/unutulmaz-bir-cocukluk-nesnesi-anneanne-evindeki-30-kiloluk-beton-yorgan",
     popularity: 79300,
-    publish_date: "24 nisan 2017",
+    publish_date: "1492992000",
     source: "eksiseyler.com",
     teaser:
       "Hepimizin zamanında tecrübe ettiği ya da hala etmekte olduğu bu ısınmak bilmeyen inanılmaz yorganı Sözlük yazarları anlatıyor.",
@@ -1087,7 +1087,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/heyecanli-senaryolarin-bizzat-aktoru-olmak-isteyenler-icin-guzel-kutu-oyunu-tavsiyeleri",
     popularity: 37400,
-    publish_date: "27 aralık 2017",
+    publish_date: "1514332800",
     source: "eksiseyler.com",
     teaser:
       "Ülkemizde alması gereken biraz daha yolu olsa da tüm dünyada birkaç yıldır haklı bir şekilde yükselmekte olan kutu oyunları, gündelik hayatı oldukça renklendiren şeyler.",
@@ -1109,7 +1109,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/microsoftun-2020de-piyasaya-surulecek-yeni-oyuncagi-xbox-series-x",
     popularity: 5400,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Microsoft, 2020'nin son çeyreğinde çıkaracağı Xbox Series X'i tanıttı. Alışık olmadığımız, dikey tasarımıyla ilgi çeken Xbox Series X'in özellikleri ve Ekşi Sözlük yazarlarının tasarım ile ilgili yorumları.",
@@ -1128,7 +1128,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/amator-telsizcilige-baslamayi-dusunenlere-tavsiyeler",
     popularity: 9600,
-    publish_date: "11 aralık 2019",
+    publish_date: "1576022400",
     source: "eksiseyler.com",
     teaser:
       "Amatör telsizcilik nedir? Nasıl amatör telsizci olunur? Giriş seviyesi için hangi telsizi almak daha mantıklıdır? Telsizcilik sınavı nedir? Bunlar gibi pek çok sorunun cevabı amatör telsizcilik içeriğimizde.",
@@ -1146,7 +1146,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/hideo-kojima-nin-getir-goturunu-yaptiginiz-oyun-death-strandingin-incelemesi",
     popularity: 8800,
-    publish_date: "10 aralık 2019",
+    publish_date: "1575936000",
     source: "eksiseyler.com",
     teaser:
       "Hideo Kojima'nın sahibi olduğu Kojima Productions tarafından geliştirilen oyun Death Stranding, beklentilerin altında kalmış görünüyor.",
@@ -1165,7 +1165,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/tom-ve-jerryde-tomu-tutmak-neden-son-derece-saglikli-bir-davranis",
     popularity: 31400,
-    publish_date: "9 aralık 2019",
+    publish_date: "1575849600",
     source: "eksiseyler.com",
     teaser:
       "Çocukluğumuzun kült çizgi filmi Tom ve Jerry'de pek çok çocuk haliyle Jerry'i tutmuştur ancak artık Tom'un hakkını verme vaktidir.",
@@ -1184,7 +1184,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/avatar-the-last-airbenderda-hikayeyi-olusturan-4-ulus-nereden-esinlenildi",
     popularity: 34000,
-    publish_date: "29 kasım 2019",
+    publish_date: "1574985600",
     source: "eksiseyler.com",
     teaser:
       "Avatar: The Last Airbender'daki 4 ulus (Toprak Krallığı, Ateş Ulusu, Su Kabilesi, Hava Gezginleri) nereden esinlenildi?",
@@ -1202,7 +1202,7 @@ export const articles: ArticleItemProps[] = [
     authors: ["kelimelerveseyler"],
     link: "http://seyler.eksisozluk.com/yemek-yerken-izlemelik-videolar",
     popularity: 22700,
-    publish_date: "29 kasım 2019",
+    publish_date: "1574985600",
     source: "eksiseyler.com",
     teaser:
       "Pek çok insan artık yemek yerken internetten, özellikle de YouTube'dan bir şeyler izlemeyi seviyor. İşte size yemek yerken eşlik edebilecek bazı videolar.",
@@ -1220,7 +1220,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/bizimkiler-dizisindeki-sabri-beyin-aslinda-hakli-olmasi",
     popularity: 83900,
-    publish_date: "28 kasım 2019",
+    publish_date: "1574899200",
     source: "eksiseyler.com",
     teaser:
       "Sizce de Bizimkiler dizisinin apartman yöneticisi Sabri Bey'in hakkını verme zamanı gelmedi mi artık?",
@@ -1238,7 +1238,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/parasizliktan-jigolo-olmayi-dusunen-universiteli-uc-gencin-trajikomik-hikayesi",
     popularity: 99800,
-    publish_date: "25 kasım 2019",
+    publish_date: "1574640000",
     source: "eksiseyler.com",
     teaser:
       "Para karşılığı kendiden yaşça olgun kadınlarla beraber olan erkeklere jigolo deniyor özet olarak. Hikayenin geri kalanını dinlemek için bu bilgi şimdilik size yeterli...",
@@ -1257,7 +1257,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/arkadaslik-uygulamasiyla-tuhaf-bir-ilk-bulusma-yasayan-kadinin-eglenceli-anisi",
     popularity: 105000,
-    publish_date: "21 kasım 2019",
+    publish_date: "1574294400",
     source: "eksiseyler.com",
     teaser:
       "İlk buluşmalar genelde biraz gariptir ancak online arkadaşlık uygulamalarından tanışmalar biraz daha sürprizli olabiliyor. İşte bir Ekşi Sözlük yazarının hikayesi.",
@@ -1275,7 +1275,7 @@ export const articles: ArticleItemProps[] = [
     authors: ["hanging rock"],
     link: "http://seyler.eksisozluk.com/ahmet-kayanin-rock-denemeleri",
     popularity: 15400,
-    publish_date: "20 kasım 2019",
+    publish_date: "1574208000",
     source: "eksiseyler.com",
     teaser: "Ahmet Kaya'nın bazı şarkılarında rock esintileri görmek mümkün.",
     thumbnail:
@@ -1292,7 +1292,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/street-fighter-evreninin-esas-oglani-ryu-hakkinda-az-bilinenler",
     popularity: 18300,
-    publish_date: "15 kasım 2019",
+    publish_date: "1573776000",
     source: "eksiseyler.com",
     teaser:
       "1987'de piyasaya çıkan Street Fighter oyununun ana karakteri Ryu Hoshi, birçok insanın çocukluk kahramanlarından biri.",
@@ -1316,7 +1316,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/sadece-bir-spiker-klasigi-degil-bir-hayat-tarzini-ozetleyen-soz-ender-gelisen-osasuna-ataklari",
     popularity: 61500,
-    publish_date: "4 kasım 2019",
+    publish_date: "1572825600",
     source: "eksiseyler.com",
     teaser:
       'Bir efsane haline gelen "ender gelişen Osasuna atakları" klişesine dair Sözlük yazarlarının eğlenceli yorumlarını derledik.',
@@ -1335,7 +1335,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/eskisehirde-eski-patronundan-yillar-sonra-intikam-alan-gencin-tebessum-ettiren-oykusu",
     popularity: 320000,
-    publish_date: "17 ekim 2019",
+    publish_date: "1571270400",
     source: "eksiseyler.com",
     teaser:
       "Patronu yüzünden hoşlandığı kızla buluşamayan gencin yıllar sonra gelen intikamını keyifle okuyacaksınız.",
@@ -1354,7 +1354,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/metallicanin-efsane-vokalisti-james-hetfieldin-ses-incelemesi",
     popularity: 8000,
-    publish_date: "9 aralık 2019",
+    publish_date: "1575849600",
     source: "eksiseyler.com",
     teaser:
       "Amerikan heavy ve thrash metal grubu Metallica'nın 1963 doğumlu vokalisti James Hetfield'ın nasıl bir sesi var?",
@@ -1378,7 +1378,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/zamaninin-otesindeki-enfes-dizi-sasifelek-cikmazindan-akilda-kalanlar",
     popularity: 26800,
-    publish_date: "2 aralık 2019",
+    publish_date: "1575244800",
     source: "eksiseyler.com",
     teaser:
       "1996-1998 yılları arasında ve daha sonra çekilen devam bölümleriyle 2001 yılında TRT'de yayınlanan Şaşıfelek Çıkmazı, kimilerine göre gelmiş geçmiş en iyi yerli diziydi. Sözlük yazarlarının yorumlarıyla dizinin ilgi çeken taraflarına bakalım.",
@@ -1400,7 +1400,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/insanustu-sesiyle-dinleyenleri-soke-eden-kazak-muzisyen-dimash-kudaibergen",
     popularity: 44200,
-    publish_date: "4 kasım 2019",
+    publish_date: "1572825600",
     source: "eksiseyler.com",
     teaser:
       "D2'den D8'e kadar uzanan 6 oktav ses yelpazesiyle tanınan Kazak müzisyen Dimash Kudaibergen (Dimaş Kudaybergen), dinleyenleri ilk andan itibaren etkileyen bir yeteneğe sahip.",
@@ -1424,7 +1424,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/turkiyede-camasir-kurutma-makinesi-neden-pek-tutmadi",
     popularity: 1100,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Çamaşır makinesinden çıkardıklarınızı kolayca, tekrar asmaya gerek bırakmadan kurutmaya yarayan makineler pek yaygın değil ülkemizde. Nedenlerine bir göz atalım.",
@@ -1444,7 +1444,7 @@ export const articles: ArticleItemProps[] = [
     ],
     link: "http://seyler.eksisozluk.com/protez-sac-nedir-nasil-uygulanir",
     popularity: 28100,
-    publish_date: "8 şubat 2019",
+    publish_date: "1549584000",
     source: "eksiseyler.com",
     teaser:
       '"Ne kadar dayanır?" sorularının odağı olan ve saç ekimine alternatif olarak ortaya çıkan protez saç, Türkiye\'de yeni yeni de olsa yaygınlık kazanmaya başladı. Kel adamı bir saatte saçlı hale getiren yöntem hakkında temel bilgileri aktarıyoruz.',
@@ -1462,7 +1462,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/kubanin-saglik-sistemi-sahiden-de-yillardir-soylendigi-gibi-mukemmel-mi",
     popularity: 142000,
-    publish_date: "3 ekim 2017",
+    publish_date: "1506988800",
     source: "eksiseyler.com",
     teaser:
       'Küba\'nın sağlık sistemiyle ilgili yıllardır çeşitli güzellemeler duyuyoruz ancak bu tarz şeyleri araştırmak genelde işimize gelmez. Sözlük yazarı "celalsalik" ise meselesi bizzat yerinde inceleemiş.',
@@ -1481,7 +1481,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/mutlu-olmayi-milli-piyango-yilbasi-ikramiyesine-baglamak-neden-yanlis",
     popularity: 5900,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Milli piyangodan büyük paralar kazanan insanların, o andan itibaren inanılmaz mutlu hayatlar yaşayacağı düşüncesi aslında bir yanılgıdan ibaret. İşte bu konuda yapılan ilginç bir araştırma.",
@@ -1504,7 +1504,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/bizzat-gidenler-anlatiyor-erasmus-yapmanin-hayat-degistiren-faydalari",
     popularity: 8300,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "Erasmus ne demek, Erasmus başvuru, Erasmus üniversiteleri, tek başına yapılır mı, ücretleri... Bu ve daha pek çok şey kafanızda dönüp duruyor ancak bir türlü emin olamıyorsanız gidenlerin görüşlerini aktarıyoruz.",
@@ -1527,7 +1527,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/nasanin-besin-takviyesi-olarak-astronotlara-verdigi-super-gida-spirulina",
     popularity: 23500,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "Mavi-yeşil alglerden (siyanobakteri) mikroskobik bir yosun türü olan Spirulina, özellikle içerdiği yüksek proteinden dolayı takviye gıdalar arasında en çok tercih edilenlerden biri. Peki nedir tam olarak Spirulina? Ekşi Sözlük yazarlarından okuyalım.",
@@ -1549,7 +1549,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/avrupayla-amerika-arasinda-yolcu-tasiyan-ilk-sirketlerden-biri-imperial-airways",
     popularity: 3700,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "1924 ile 1939 yılları arasında hizmet veren İngiliz Imperial Airways, Pan Am ile birlikte Avrupa ile Amerika arasında yolcu taşıyan ilk iki şirketten biriydi.",
@@ -1568,7 +1568,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/italyanlarin-korumak-icin-cemiyet-kurdugu-napoliten-pizza-nasil-yapilir",
     popularity: 13500,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "İtalyanların meşhur pizzası Napoliten Pizza (Napoli Pizzası) hakkında bilinmesi gereken pek çok şey.",
@@ -1587,7 +1587,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/dagda-kar-firtinasina-yakalanip-kayboldugumuzda-nasil-hayatta-kaliriz",
     popularity: 25200,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Uludağ'da 1 Aralık'tan beri kayıp olan dağcıların cansız bedenlerine 17 gün sonra, dün ulaşıldı. Ekşi Sözlük'te de epey gündem olan ve pek çok kişinin fazlasıyla etkisinde kaldığı bu olaydan hareketle, böyle bir olayla baş başa kaldığımızda hayatta kalma şansımızı nasıl arttırabiliriz?",
@@ -1606,7 +1606,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/kislik-mont-ve-botlarda-gordugumuz-waterproof-softshell-ve-gore-tex-terimleri-nedir",
     popularity: 22800,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       "Ne anlama geliyor bu terimler? Kışlık alışverişlerde bilmeniz gereken bu terimlerin anlamlarını öğrenelim.",
@@ -1625,7 +1625,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/egitimli-bir-fotografcidan-stok-sitelerine-fotograf-satmak-isteyenler-icin-tavsiyeler",
     popularity: 7400,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       "Stok fotoğraf çekip Shutterstock gibi sitelere satmak isteyenlerin bilmesi gerekenler ve tavsiyeler.",
@@ -1654,7 +1654,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/usta-soforlerden-yollarin-tozunu-yutmamis-acemi-soforlere-degerli-tavsiyeler",
     popularity: 32800,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       'Ehliyetten sonra ilk arabanızı da aldınız, peki ya şimdi? İşte tecrübeli şoförlerden, "araba nasıl kullanılır" sorusunun her yerde duyamayacağınız cevapları.',
@@ -1680,7 +1680,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/yurt-disina-goc-eden-turkler-turkiyeye-geri-donmeyi-dusunuyor-mu",
     popularity: 15000,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       "Son dönemde ülkeyi şu veya bu sebepten terk edenlerin sayısı oldukça arttı. Peki gidenler, bir daha geri dönmeyi hiç düşünür mü? Ekşi Sözlük'te açılan bu başlığın altına yurt dışına yerleşen Türkler yorumlarını yazmışlar.",
@@ -1704,7 +1704,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/turk-insani-neden-ikinci-el-alisverisi-sevmiyor",
     popularity: 43000,
-    publish_date: "18 aralık 2019",
+    publish_date: "1576627200",
     source: "eksiseyler.com",
     teaser:
       "Evet Sahibinden veya Letgo gibi sitelerde pek çok alışveriş yapılıyor ancak öğrenciler hariç, genel olarak bir ikinci el eşya sevmeme durumu var gibi. Nedenlerine bakalım.",
@@ -1728,7 +1728,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/hayatin-gidisatinda-oldukca-belirleyici-bir-faktor-bosanmis-aile-cocugu-olmak",
     popularity: 20100,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Boşanmanın ve bunun mevzubahis evlat üzerindeki etkilerinin sonuçları üzerine düşünelim biraz.",
@@ -1747,7 +1747,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/ingilterede-bu-hayat-tarzini-taniyan-birinden-komun-hayatina-dair-guncel-gozlemler",
     popularity: 12400,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       "Günümüz beyaz yakalı çalışanının hayallerinden olan komün hayatı 2020'ye girmeye hazırlandığımız şu günlerde nasıl yaşanıyor, bir bakalım.",
@@ -1766,7 +1766,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/turklerin-ragbet-ettigi-karadagda-oturum-izni-konusunda-yapilan-dolandiriciliklar",
     popularity: 19800,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Karadağ'a son dönemde Türkler epey rağbet ediyor. Hal böyle olunca oturum ve çalışma izni gibi konularda müthiş dolandırıcıklar dönüyor. Karadağ'da 3 yıldır oturan ve çalışan bir Ekşi Sözlük yazarı, uyarı niteliğinde bilgiler paylaşmış.",
@@ -1799,7 +1799,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/birini-son-kez-gordugunu-bildiginde-insanin-icinde-olusan-duyguya-dair-en-iyi-ifadeler",
     popularity: 35500,
-    publish_date: "9 mart 2018",
+    publish_date: "1520553600",
     source: "eksiseyler.com",
     teaser:
       "Bazen isteyerek bazen de şartlar gereği yaşanan ayrılıklarda, insanın canını yakanın ne olduğuna karar veremediği o son an çok tuhaftır.",
@@ -1816,7 +1816,7 @@ export const articles: ArticleItemProps[] = [
     authors: ["kubar tegin"],
     link: "http://seyler.eksisozluk.com/vajinal-orgazm-nasil-saglanir",
     popularity: 253000,
-    publish_date: "28 kasım 2018",
+    publish_date: "1543363200",
     source: "eksiseyler.com",
     teaser: "Temiz bir anlatımla kadınlara vajinal orgazm yaşatmanın tarifi.",
     thumbnail:
@@ -1833,7 +1833,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/dunyanin-en-pahali-intihar-yontemi-sigara-bagimliligi",
     popularity: 85900,
-    publish_date: "2 nisan 2019",
+    publish_date: "1554163200",
     source: "eksiseyler.com",
     teaser:
       "Bir Ekşi Sözlük yazarı, sigara tiryakiliğini enine boyuna inceleyerek sigara tiryakiliğinden nasıl kurtulunabileceğine dair tavsiyelerde bulunmuş.",
@@ -1851,7 +1851,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/bir-kadinin-kaleminden-fuck-buddylik-muessesesi-hakkinda-tavsiyeler",
     popularity: 136000,
-    publish_date: "14 kasım 2019",
+    publish_date: "1573689600",
     source: "eksiseyler.com",
     teaser:
       "Modern yaşamın henüz tam olarak fethedilmemiş ve yaygınlaşmamış ilişki türlerinden fuck buddy'liğe dair güzel bir yazı.",
@@ -1874,7 +1874,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/ilginc-bir-gercek-basari-hikayelerinde-aciklanmadan-gecen-zaman-atlamalari",
     popularity: 12100,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Ünlü bir kişinin biyografisinde illaki karşılaşmışsınızdır bu zaman atlamalarıyla.",
@@ -1893,7 +1893,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/meslek-secerken-dikkat-edilmesi-gereken-onemli-hususlar",
     popularity: 5300,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Hayatlarımızın büyük bölümünü çalışarak geçirdiğimiz için meslek seçimi çok kritik bir konu. Peki meslek seçerken nelere dikkat etmeliyiz? Meslek seçemiyorum diyenlerdenseniz belki aşağıdaki tavsiyeler işinize yarayabilir.",
@@ -1911,7 +1911,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/ikinci-abdulhamit-doneminde-pasaliga-kadar-yukselen-kabadayi-arap-abdullah",
     popularity: 35300,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "İkinci Abdülhamit döneminin meşhur Aksaray kabadayılarından Arap Abdullah'ın hikayesi.",
@@ -1933,7 +1933,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/psikoterapide-kullanilan-bir-rahatlama-yontemi-olan-katharsis-nedir",
     popularity: 7900,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Kökeni Aristoteles'e kadar uzanan Katharsise dair bilimesi gerekenler.",
@@ -1955,7 +1955,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/arsenalin-yeni-teknik-direktoru-mikel-arteta-kimdir",
     popularity: 6100,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       "Görevi kovulan Unai Emery'den devralan Arteta'yı tanıyalım: Kimdir, necidir, nasıl bir kariyeri vardır? Buyrun.",
@@ -1977,7 +1977,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/kimilerince-gelmis-gecmis-en-buyuk-tenis-oyuncusu-kortlarin-rock-stari-andre-agassi",
     popularity: 9500,
-    publish_date: "20 temmuz 2018",
+    publish_date: "1532044800",
     source: "eksiseyler.com",
     teaser:
       "1970 doğumlu Agassi, tenis tarihinde erken yaşta başarıya ulaşan isimlerden biri. 1986'da başlayan kariyerini 2006'da noktalayan usta tenisçinin kariyeri 8 Grand Slam galibiyeti içeriyor. Ayrıca Novak Djokovic’in ardından Avustralya Açık Tenis Turnuvası’nı en çok kazanan tenisçi. Kariyerine bir göz atalım.",
@@ -1998,7 +1998,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/sporcularin-benzini-olarak-bilinen-bcaa-tam-olarak-nedir-ne-ise-yarar",
     popularity: 34600,
-    publish_date: "6 haziran 2018",
+    publish_date: "1528243200",
     source: "eksiseyler.com",
     teaser:
       "Kas kütlesini ve performansını artırmak için sporcular tarafından tercih edilen dallı zincirli amino asit desteklerine BCAA deniyor. Kullanmalı mıyız, ne işe yarar? Gelin, bu konuları inceleyelim.",
@@ -2016,7 +2016,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/2020leri-domine-etmek-isteyen-takimlarin-uygulamasi-gereken-taktik-piston-futbol",
     popularity: 106000,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Okan Buruk'un çalıştırdığı İstanbul Başakşehir'in dün akşam Bundesliga lideri Borussia Mönchengladbach'ı yenerek UEFA Avrupa Ligi’nde gruplardan çıkması, oynanan futbolu tekrar değerlendirmemize yol açtı. İşte Okan Buruk'u da başarılı kılan ve ileride başka örneklerini de göreceğimiz piston futbol felsefesi.",
@@ -2039,7 +2039,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/anadolu-efesin-yildizi-shane-larkin-neden-devsirilerek-milli-takima-alinmiyor",
     popularity: 11600,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Anadolu Efes'in yıldız oyun kurucusu Shane Larkin, son iki sezondur yakaladığı performansla bu soruyu sordurmaya devam ediyor. İşte olası senaryolar.",
@@ -2061,7 +2061,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/845-metrelik-rekoru-hala-kirilamayan-kemankes-tozkoparan-iskender",
     popularity: 26000,
-    publish_date: "12 aralık 2019",
+    publish_date: "1576108800",
     source: "eksiseyler.com",
     teaser:
       "Osmanlı döneminde kırılması çok güç bir rekora imza atmış kemankeş Tozkoparan İskender.",
@@ -2085,7 +2085,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/everestteki-cesedi-tam-75-yil-sonra-tesadufen-bulunan-dagci-george-mallory",
     popularity: 47100,
-    publish_date: "11 aralık 2019",
+    publish_date: "1576022400",
     source: "eksiseyler.com",
     teaser:
       "Everest'in zirvesine ilk çıkan insan olarak Edmund Hillary'i biliriz, 1953 yılında. Ancak bundan tam 30 yıl önce bir dağcının aslında bunu başarmış olma ihtimali oldukça yüksek.",
@@ -2103,7 +2103,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/nba-2019-2020-sezonunda-su-anki-vaziyetin-takim-takim-aciklanan-ozeti",
     popularity: 9700,
-    publish_date: "10 aralık 2019",
+    publish_date: "1575936000",
     source: "eksiseyler.com",
     teaser:
       "NBA'de sezonun çeyreği bitti ve kritikler yapılmaya başladı. İşte takip edemeyenler veya hatırlamak isteyenler için şu ana kadar gelişen olayların bir dökümü.",
@@ -2122,7 +2122,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/lionel-messinin-2019-ballon-dor-odulunu-aldiktan-sonra-yaptigi-konusma",
     popularity: 13600,
-    publish_date: "5 aralık 2019",
+    publish_date: "1575504000",
     source: "eksiseyler.com",
     teaser:
       "France Football tarafından sunulan ve o yıl için dünyanın en iyi futbolcusunu seçen Ballon d'Or ödülü bu yıl Arjantinli yıldız Lionel Messi'ye gitti. İşte yaptığı konuşma ve konuşmanın Türkçe çevirisi.",
@@ -2141,7 +2141,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/michael-schumacheri-diger-pilotlardan-ayiran-spesifik-ozellikleri-ve-basarilari",
     popularity: 27100,
-    publish_date: "4 aralık 2019",
+    publish_date: "1575417600",
     source: "eksiseyler.com",
     teaser:
       "Schumacher'e efsane denir denir de, neden denir? Pek çoğumuz ezbere bir şekilde bu ve benzeri kelimeleri kullansak da kendisinin gerçek başarılarını ayrıntılı şekilde bilmeyiz. İşte bunları öğrenmenin zamanı geldi.",
@@ -2159,7 +2159,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/nba-maclarinin-eskisi-kadar-keyif-vermemesi-sorunsalinin-teknik-analizi",
     popularity: 20500,
-    publish_date: "2 aralık 2019",
+    publish_date: "1575244800",
     source: "eksiseyler.com",
     teaser:
       "NBA'de artık mükemmelleşen taktikler, falsosu olmayan yıldızlar, boyalı alan mücadelesinin azalması ve hızlı oyun gibi sebeplerle eski tadı alamadığını söyleyen seyircilerin sayısı bir hayli fazla. Duruma istatistiklerle, teknik açıdan bir göz atalım.",
@@ -2178,7 +2178,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/unai-emery-ile-yollarini-ayiran-arsenal-icin-en-uygun-teknik-direktor-adaylari",
     popularity: 7000,
-    publish_date: "2 aralık 2019",
+    publish_date: "1575244800",
     source: "eksiseyler.com",
     teaser:
       "7 maçtır takımı galibiyete ulaştıramayan Unai Emery'yi kovan Arsenal'in yeni teknik direktörü kim olabilir? İşte adaylar.",
@@ -2197,7 +2197,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/euroleaguein-ilk-haftalarini-takip-edemeyenler-icin-bilgi-verici-bir-ozet",
     popularity: 5800,
-    publish_date: "22 kasım 2019",
+    publish_date: "1574380800",
     source: "eksiseyler.com",
     teaser:
       "Euroleague 2019-2020 sezonu 3 Ekim'de başladı. İlk birkaç haftayı kaçıran ve yeterince takip edemeyenler için aşağıdaki özet arayı kapatmaya yardımcı olacaktır.",
@@ -2221,7 +2221,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/basarili-teknik-direktor-mauricio-pochettino-neden-tottenhamdan-kovuldu",
     popularity: 16500,
-    publish_date: "20 kasım 2019",
+    publish_date: "1574208000",
     source: "eksiseyler.com",
     teaser:
       "İngiliz Premier League ekiplerinden Tottenham Hotspur'un genel olarak başarılı addedilen hocası Pochettino, bu sezonki kötü sonuçların ardından kovuldu. Nedenlerini, öncesi ve sonrasını inceleyelim.",
@@ -2240,7 +2240,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/en-eglenceli-grup-aktivitelerinden-paintball-hakkinda-teknik-bilgiler",
     popularity: 10600,
-    publish_date: "20 kasım 2019",
+    publish_date: "1574208000",
     source: "eksiseyler.com",
     teaser:
       "Paintball nedir, kuralları nelerdir, hangi tip silahlarla oynanır? Bu tarz teknik bilgiler öğrenmek için doğru içeriğe geldiniz.",
@@ -2259,7 +2259,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/ilginc-bir-skorun-yasandigi-19-mart-1950-fort-wayne-pistons-minneapolis-lakers-basket-maci",
     popularity: 27800,
-    publish_date: "14 kasım 2019",
+    publish_date: "1573689600",
     source: "eksiseyler.com",
     teaser:
       "Ekşi Sözlük'te \"Basketbolda 2-0 Öne Geçip Skorun Üstüne Yatmak\" şeklindeki eğlenceli başlık üzerine zaman zaman yazılıp çizilir. Yazılan entry'lerden biri ise bu tarz şeylerin eskiden gerçekten de yaşandığı hakkında... Bakalım neymiş olay.",
@@ -2278,7 +2278,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/emekli-michael-jordanin-bir-caylagin-birebirde-seni-yenerim-iddiasina-verdigi-cevap",
     popularity: 145000,
-    publish_date: "12 kasım 2019",
+    publish_date: "1573516800",
     source: "eksiseyler.com",
     teaser:
       "Michael Jordan, 1998 NBA Finalleri'nden sonraki lokavt sezonunda emekli olmuştu. Bu sıralarda lige yeni katılan bir oyuncuyla girdiği iddia ise büyük bir şey olmamasına rağmen kendisinin kişiliği hakkında güzel bir fikir veriyor.",
@@ -2297,7 +2297,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/f1in-en-tartismali-sezonu-olan-94u-schumacher-uzerinden-anlatan-nostalji-dolu-yazi",
     popularity: 6300,
-    publish_date: "9 aralık 2019",
+    publish_date: "1575849600",
     source: "eksiseyler.com",
     teaser:
       "Formula 1 tarihinin en tartışmalı sezonu olan 1994 yılını ve sonrasında yaşananları Schumacher merkezli anlatan, güzel bir Formula 1 nostaljisi.",
@@ -2315,7 +2315,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/nba-efsanelerinden-julius-ervingin-bir-takimin-tum-borcuna-karsilik-transfer-olusunun-oykusu",
     popularity: 10300,
-    publish_date: "6 aralık 2019",
+    publish_date: "1575590400",
     source: "eksiseyler.com",
     teaser:
       "Eskiden ABD'de, biri NBA biri de ABA olmak üzere iki büyük basketbol ligi vardı. Eski efsanelerden Julius Erving, nam-ı diğer Dr. J, bu iki ligin birleşme anında transfer olarak ilginç bir hikayeye imza atmıştı. Bakalım.",
@@ -2334,7 +2334,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/nba-transfer-sisteminin-tam-anlasilamayan-kurallari-ve-aciklamalari",
     popularity: 18100,
-    publish_date: "18 kasım 2019",
+    publish_date: "1574035200",
     source: "eksiseyler.com",
     teaser:
       "NBA'de draft nedir, salary cap nedir, maksimum kontratın şartları nelerdir gibi sorulardan muzdaripseniz imdadınıza yetişecek kıvamdaki bir içeriğimiz var.",
@@ -2353,7 +2353,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/turk-futbolunun-yeni-gozdelerinden-caglar-soyuncuyu-iyi-bir-stoper-yapan-seyler-nedir",
     popularity: 24200,
-    publish_date: "15 kasım 2019",
+    publish_date: "1573776000",
     source: "eksiseyler.com",
     teaser:
       "Premier League'de Leicester City forması giyen Çağlar Söyüncü, milli takımın başarısında da önemli pay sahibi. Peki bu derece yüksek bir seviyede olmasının sebepleri neler?",
@@ -2372,7 +2372,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/dolar-artinca-ne-oldugunu-merak-edenler-icin-10-kurusluk-artisin-ekonomiye-etkisi",
     popularity: 241000,
-    publish_date: "22 mayıs 2018",
+    publish_date: "1526947200",
     source: "eksiseyler.com",
     teaser:
       "Türk Lirası, Dolar karşısında değer kaybetmeye devam ediyor. 6.20 seviyelerine dayanan kurun ülke ekonomisini ne denli etkilediğini ithalat ihracat rakamları aracılığıyla inceliyoruz.",
@@ -2395,7 +2395,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/nevada-colunde-kurulmus-dunyanin-en-kucuk-cumhuriyeti-molossia",
     popularity: 5800,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Kevin Baugh adlı bir Amerikalının çocukluk hayalinin ürünü olan bir mikro ulus Molossia. 32 kişilik nüfusu olan bu ülkeye pasaportsuz giriş yapamıyorsunuz.",
@@ -2416,7 +2416,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/cinin-baski-altina-aldigi-sincan-uygur-ozerk-bolgesinde-neler-oluyor",
     popularity: 322,
-    publish_date: "23 aralık 2019",
+    publish_date: "1577059200",
     source: "eksiseyler.com",
     teaser:
       "Sincan Uygur Özerk Bölgesi'nin adını bir süredir sadece Çin'in, Uygur Türklerine zulmettiği haberleriyle duyuyoruz. Yavaş yavaş dünyanın da dikkatini çeken bu bölgedeki kamplardan birine geçtiğimiz günlerde BBC de girdi ve kamplardan kurtulan Uygur Türkleriyle röportajlar yaptı. Peki neler oluyor burada? İşte olayın özeti.",
@@ -2435,7 +2435,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/baska-bir-ulkeye-karsi-henuz-hic-kullanilmamis-korkunc-guclu-nukleer-fuze-rt-2utth-topol-m",
     popularity: 84400,
-    publish_date: "6 şubat 2018",
+    publish_date: "1517875200",
     source: "eksiseyler.com",
     teaser:
       'Caydırıcılık konusunda eline kimsenin su dökemeyeceği mobil nükleer füze. Ekşi Sözlük yazarı "anglachelm"in güzel anlatımıyla.',
@@ -2458,7 +2458,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/sag-gorus-son-yillarin-dunya-siyasetinde-neden-yukselise-gecmis-durumda",
     popularity: 11900,
-    publish_date: "20 aralık 2019",
+    publish_date: "1576800000",
     source: "eksiseyler.com",
     teaser:
       "Son yıllarda nasıl oldu da bilgiye ulaşmanın kolaylaştığı teknoloji çağında muhafazakarlık yükselişe geçti. Son İngiltere seçimlerinin ardından tekrar akıllara gelen bu soru üzerinde düşünelim.",
@@ -2482,7 +2482,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/donald-trumpin-gorevden-alindigi-iddialari-gercekten-dogru-mu",
     popularity: 12300,
-    publish_date: "19 aralık 2019",
+    publish_date: "1576713600",
     source: "eksiseyler.com",
     teaser:
       'Donald Trump, bir süredir "görevi kötüye kullanmak" ithamı nedeniyle azil soruşturması ile mücadele ediyordu (azledilmek=görevden alınmak). ABD Kongresi\'nin iki bileşeninden biri olan Temsilciler Meclisi, TSİ bugün itibarıyla azil kararı aldı. Devamı için Sözlük yazarlarının yorumlarına bir göz atalım.',
@@ -2500,7 +2500,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/kanal-istanbul-projesi-montro-bogazlar-sozlesmesini-atlatmak-icin-mi-yapiliyor",
     popularity: 38100,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "İkinci bir İstanbul Boğazı yaratmayı amaçlayan Kanal İstanbul hakkında Montrö Sözleşmesi-ABD-Rusya siyaseti odağında, düşündürücü bir analiz.",
@@ -2519,7 +2519,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/2020-asgari-ucret-zammi-istenilen-ekonomik-iyilesmeyi-saglayabilir-mi",
     popularity: 11400,
-    publish_date: "17 aralık 2019",
+    publish_date: "1576540800",
     source: "eksiseyler.com",
     teaser:
       "Asgari ücret 2019'da neydi, 2020'de ne olacak? Son fiyatı nedir? Son dakikada bir değişiklik gelir mi? Bütün bu sorular aklınızı kurcalıyorsa doğru yerdesiniz. Yılbaşında beklenen asgari ücret zammına dair ekonomik verilerle yapılan bir analiz.",
@@ -2542,7 +2542,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/boris-johnson-ingiltere-secimlerini-buyuk-farkla-kazanmayi-nasil-basardi",
     popularity: 15500,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "İşçi Partisi lideri Jeremy Corbyn ve Muhafazakar Parti lideri Boris Johnson'ın yarıştığı erken seçimi Johnson kazandı ve Muhafazakar Parti tek başına iktidara geldi. Peki Brexit, Avrupa'da yükselen sağ derken bu seçime nasıl gelindi? Boris nasıl kazandı?",
@@ -2561,7 +2561,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/mossadin-bugune-kadar-amerika-avrupa-ve-orta-doguda-gerceklestirdigi-operasyonlar",
     popularity: 22500,
-    publish_date: "12 aralık 2019",
+    publish_date: "1576108800",
     source: "eksiseyler.com",
     teaser:
       "13 Aralık 1949'da kurulan İsrail gizli servisi MOSSAD, bugüne kadarki operasyonlarıyla pek çok yankı uyandıran olaya imza attı. İşte bunların güzel bir dökümü.",
@@ -2585,7 +2585,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/milosevice-destek-verdigi-icin-nobel-edebiyat-odulune-tepki-gosterilen-peter-handke-kimdir",
     popularity: 9900,
-    publish_date: "11 aralık 2019",
+    publish_date: "1576022400",
     source: "eksiseyler.com",
     teaser:
       "Nobel Edebiyat Ödülü geçen yıl yaşanan taciz skandalı nedeniyle verilmemiş, 2018 ödülünün 2019 ödülüyle birlikte verileceği açıklanmıştı. Bu yıl Olga Tokarczuk ve Peter Handke ödülü alan isimler oldu ancak Handke, Sırp Kasabı olarak anılan Slobodan Miloseviç'i desteklemesi nedeniyle tepki çekiyor. İnceleyelim.",
@@ -2604,7 +2604,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/son-donemde-sikca-duydugumuz-munhasir-ekonomik-bolge-nedir",
     popularity: 8300,
-    publish_date: "11 aralık 2019",
+    publish_date: "1576022400",
     source: "eksiseyler.com",
     teaser:
       "Son dönemde, Doğu Akdeniz sorunu ile birlikte adını daha çok duyduğumuz münhasır ekonomik bölge kavramı tam olarak nedir?",
@@ -2625,7 +2625,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/uludagda-1-araliktan-beri-kayip-olan-2-dagciyla-ilgili-son-durum-nedir",
     popularity: 49000,
-    publish_date: "11 aralık 2019",
+    publish_date: "1576022400",
     source: "eksiseyler.com",
     teaser:
       "Uludağ'da 1 Aralık günü zirve yürüyüşü için yola çıkan iki amatör dağcı Mert Alparslan ve Efe Sarp, bugün itibarıyla 10 gündür kayıp durumdalar. Son olarak dün dere içinde Efe Sarp'a ait olduğu düşünülen bir baton dereye saplanmış halde bulundu. Bu gelişmeler ışığında olayı bir toparlayalım.",
@@ -2644,7 +2644,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/cem-uzan-imar-bankasi-yolsuzlugunu-tam-olarak-nasil-gerceklestirmisti",
     popularity: 29300,
-    publish_date: "11 aralık 2019",
+    publish_date: "1576022400",
     source: "eksiseyler.com",
     teaser:
       "Uzanlar, İmar Bankası aracılığıyla olması gerekenden fazla büyümüş ve bu esnada Motorola ve Nokia gibi şirketleri dolandırmıştı. Daha sonra, TMSF tarafından el konulan İmar Bankası'nda tam olarak ne yapmıştı peki Cem Uzan ve ailesi?",
@@ -2663,7 +2663,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/istanbul-buyuksehir-belediyesi-logosunun-hikayesi",
     popularity: 8500,
-    publish_date: "10 aralık 2019",
+    publish_date: "1575936000",
     source: "eksiseyler.com",
     teaser:
       "1969 yılından bu yana değişmeden kullanılan İstanbul Büyükşehir Belediyesi logosunun kısa hikayesi.",
@@ -2681,7 +2681,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/sagci-luis-lacalle-pounun-kazandigi-uruguay-secimlerine-dair-bilmeniz-gerekenler",
     popularity: 6500,
-    publish_date: "5 aralık 2019",
+    publish_date: "1575504000",
     source: "eksiseyler.com",
     teaser:
       "Öteki ülkelerdeki seçimler, dünyada neler olduğunu anlayabilmek için isabetli kaynaklar. İşte Uruguay'ın geçtiğimiz hafta sonuçlanan seçimlerinde neler olduğuna dair açıklayıcı bir yazı.",
@@ -2700,7 +2700,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/5-ayda-iki-kaza-yapan-boeing-737-max-ucagi-uzerinden-ciddi-bir-neoliberalizm-elestirisi",
     popularity: 13100,
-    publish_date: "3 aralık 2019",
+    publish_date: "1575331200",
     source: "eksiseyler.com",
     teaser:
       "Ekim 2018 ve Mart 2019'da, beş ayda iki büyük kaza yapan Boeing 737-Max model uçakların kaza sebebini neoliberal politikalarla eşleştiren, düşündürücü bir eleştiri.",
@@ -2719,7 +2719,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/netflix-turkiye-icerikleri-diger-ulkelere-gore-neden-kisitli",
     popularity: 69800,
-    publish_date: "21 şubat 2019",
+    publish_date: "1550707200",
     source: "eksiseyler.com",
     teaser:
       "2016'da Türkiye pazarına giren Netflix'e dair en çok şikayet edilen konulardan biri içerik çeşitliliği. Peki bu durum neden böyle?",
@@ -2740,7 +2740,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/sirlariyla-birlikte-gomulen-turk-escobar-lakapli-uyusturucu-kacakcisi-sari-avni",
     popularity: 30800,
-    publish_date: "26 kasım 2019",
+    publish_date: "1574726400",
     source: "eksiseyler.com",
     teaser:
       "Sarı Avni ve Türk Escobar lakaplarıyla bilinen silah ve uyuşturucu kaçakçısı Hüseyin Avni Musullulu kimdir?",
@@ -2759,7 +2759,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/googlein-turkiyeye-android-yaptirimi-baslatacagi-haberleri-ne-anlama-geliyor",
     popularity: 14400,
-    publish_date: "16 aralık 2019",
+    publish_date: "1576454400",
     source: "eksiseyler.com",
     teaser:
       'Türkiye Rekabet Kurulu ve Google arasında cereyan eden olaylar sonucu "yaptırım" gibi abartılı haberler görmüş olabilirsiniz. İşin aslını açıklamaya geldik.',
@@ -2778,7 +2778,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/plak-satislari-nasil-oluyor-da-dijital-cagda-cd-satislarini-gecebiliyor",
     popularity: 14600,
-    publish_date: "13 aralık 2019",
+    publish_date: "1576195200",
     source: "eksiseyler.com",
     teaser:
       "Plak satışları, 33 yıl sonra ilk kez CD satışlarını geride bıraktı bu yıl itibarıyla. Peki her şeyin aşırı dijitalleştiği bu çağda insanları her bir albüm için ayrı para harcayarak plak almaya iten şey ne olabilir? İnceleyelim.",
@@ -2796,7 +2796,7 @@ export const articles: ArticleItemProps[] = [
     authors: ["khrmndgn"],
     link: "http://seyler.eksisozluk.com/whatsappin-gelir-kaynagi-nedir",
     popularity: 93000,
-    publish_date: "9 aralık 2019",
+    publish_date: "1575849600",
     source: "eksiseyler.com",
     teaser:
       "Dünyanın en popüler mesajlaşma uygulaması WhatsApp'ta karşınıza herhangi bir reklam çıkmıyor ve uygulamaya kayıt olurken herhangi bir ücret ödemiyorsunuz. Kısacası, bedava bir uygulama kendisi. Peki nasıl para kazanıyor?",
@@ -2818,7 +2818,7 @@ export const articles: ArticleItemProps[] = [
     link:
       "http://seyler.eksisozluk.com/turkiye-ve-libya-arasinda-yapilan-deniz-sulari-yetki-anlasmasi-ne-anlama-geliyor",
     popularity: 28400,
-    publish_date: "5 aralık 2019",
+    publish_date: "1575504000",
     source: "eksiseyler.com",
     teaser:
       "Doğu Akdeniz üzerinde, hidrokarbon nedeniyle çeşitli ülkelerin hak iddiası sonucu başlayan kriz, 2003'ten beri sürüyor diyebiliriz. 27 Kasım'da Libya ile imzalanan \"Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası\"nın Türkiye için önemi büyük. Peki bu ne anlama geliyor?",
