@@ -34,7 +34,7 @@ export function ArticleList({sortBy}: ArticleListProps) {
 
     function sortByNew() {
       setSortedArticles([...articles].sort((articleA, articleB) => {
-        return Number(articleA.publish_date) - Number(articleB.publish_date);
+        return Number(articleB.publish_date) - Number(articleA.publish_date);
       }));
     }
 
