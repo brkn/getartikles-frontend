@@ -18,7 +18,7 @@ export function Header() {
         {"Logo"}
       </Link>
 
-      <nav className={"navlink"}>
+      {/* <nav className={"navlink"}>
         {isAuth ? (
           <NavLink
             exact
@@ -30,14 +30,14 @@ export function Header() {
           </NavLink>
         ) : (
           <>
-            {/* <NavLink
+            <NavLink
               exact
               to="/login"
               className={"login"}
               activeClassName="active"
             >
               {"Login"}
-            </NavLink> */}
+            </NavLink>
 
             <NavLink
               exact
@@ -49,7 +49,7 @@ export function Header() {
             </NavLink>
           </>
         )}
-      </nav>
+      </nav> */}
     </header>
   );
 }
