@@ -126,7 +126,7 @@ module.exports = {
     "react/jsx-no-literals": ["error", {noStrings: false}],
     "react/no-unused-state": "error",
 
-    indent: ["error", 2],
+    indent: ["error", 2,  { "SwitchCase": 1 }],
     "array-bracket-newline": ["error", {minItems: 2}],
     "array-element-newline": ["error", {minItems: 2}],
     "object-curly-newline": [
