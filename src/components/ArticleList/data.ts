@@ -3331,7 +3331,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1577145600",
     source: "onedio.com",
     teaser:
-      "Kağıthane'de boşanma aşamasındaki eşiyle barışmak için iş yerine gelen Yusuf E., barışma teklifini kabul etmeyen eşine kurşun yağdırdı. Vücuduna üç kurşun isabet eden Öznur E. kanlar içinde yere yığılırken saldırıyı gerçekleştirip, olay yerinden kaçan Yusuf E.  yol boyunda ölü olarak bulundu.",
+      "Kağıthane'de boşanma aşamasındaki eşiyle barışmak için iş yerine gelen Yusuf E., barışma teklifini kabul etmeyen eşine kurşun yağdırdı.",
     thumbnail:
       "https://img-s1.onedio.com/id-5e0220a11c9536d953612d2c/rev-0/w-635/f-jpg-webp/s-e5d1a74df06ff9c25b3ed78df34a034d8247d116.webp",
     title:
@@ -3465,7 +3465,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1577145600",
     source: "geekyapar.com",
     teaser:
-      "The Witcher dizisinin birinci sezonunda herhalde en sevilen bölümlerinden birine geldik. Şölenler, Piçler ve Cenazeler isminin verildiği dördüncü bölüm, kitaptaki en popüler hikâyelerden birini barındırıyor ve Geralt ile Cirilla’nın bağını açıklıyor. Üçüncü bölümü, Cirilla’nın ormanın içinden gelen gaipten sesler duyması ve ormana doğru, Dara’ya aldırmadan koşmasıyla kapatmıştık. Bu bölümü, aynı yerden açıyoruz. Ciri ormana doğru gittikçe,",
+      "The Witcher dizisinin birinci sezonunda herhalde en sevilen bölümlerinden birine geldik.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/duny-500x500-300x300.png",
     title: "THE WITCHER Dördüncü Bölüm SPOILERLI İnceleme – GÜZEL ve ÇİRKİN",
@@ -3482,7 +3482,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1577059200",
     source: "geekyapar.com",
     teaser:
-      "Netflix’in The Witcher dizisinin ardından bölümleri konuşmaya, üçüncü bölümle devam ediyoruz. The Witcher’ı dünyaya tanıtan hikâyenin uyarlandığı bu bölüme, Hain Dolunay ismini vermişler. Bölümü Geralt’ın bir fahişe ile birlikte olduğu yatakta açıyoruz, buradaki konuşmalar doğrudan kitaptan –fakat başka bir yerden- alınmış. Ne ifade eder sizin için bilmiyorum tabii bu bilgi. Sonrasında fahişe kendisine madencileri yiyen bir",
+      "Netflix’in The Witcher dizisinin ardından bölümleri konuşmaya, üçüncü bölümle devam ediyoruz. The Witcher’ı dünyaya tanıtan hikâyenin uyarlandığı bu bölüme, Hain Dolunay ismini vermişler.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/yennefer-witcher-p-300x300.png",
     title: "THE WITCHER Üçüncü Bölüm SPOILERLI İnceleme – ACELECİ KARARLAR",
@@ -3499,7 +3499,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576886400",
     source: "geekyapar.com",
     teaser:
-      "Netflix’in The Witcher uyarlamasının ikinci bölümünü izlemiş olanlar, ilk bölüm incelemesini de okuduysanız, sizi hız kesmeden bu yazıya davet ediyoruz. İlk bölüm, açık ara benim diziden beklentilerimi fazlasıyla karşılayan bir bölümdü, bu yüzden ikinci bölümü de ayrıca bir heves ve biraz daha yükselmiş beklentilerle seyrettim diyebilirim. Alakasız iki karakterin oynaşmasıyla açılan bölümde, ilk bölümde eksikliğini",
+      "Netflix’in The Witcher uyarlamasının ikinci bölümünü izlemiş olanlar, ilk bölüm incelemesini de okuduysanız, sizi hız kesmeden bu yazıya davet ediyoruz.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/jaskier-500x500-300x300.png",
     title: "THE WITCHER İkinci Bölüm SPOILERLI İnceleme – SAYGI, TARİH YAZMAZ!",
@@ -3516,7 +3516,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576886400",
     source: "geekyapar.com",
     teaser:
-      "Netflix’in The Witcher uyarlaması, bu sabah, ülkemiz saatiyle 11.00’da izleyiciyle buluştu. Sekiz bölümü yerimden kalkmadan seyrettikten sonra ben de, beş dakikalık kısa bir molanın ardından, incelemenin başına oturdum. Tabii sekiz bölüm bir arada çıktığı için, bunların hepsini tek yazıda toplamak demek –hele de yazan kişinin ben olduğum gerçeği düşünülürse- on bin kelime falan demek olacaktı.",
+      "Netflix’in The Witcher uyarlaması, bu sabah, ülkemiz saatiyle 11.00’da izleyiciyle buluştu. Sekiz bölümü yerimden kalkmadan seyrettikten sonra ben de, beş dakikalık kısa bir molanın ardından, incelemenin başına oturdum.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/11/renfri-500-x-500-300x300.png",
     title: "THE WITCHER İlk Bölüm SPOILERLI İnceleme – PAMUK PRENSES",
@@ -3550,7 +3550,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576454400",
     source: "geekyapar.com",
     teaser:
-      "Ceádmil evellienn! Kompartıman kapılarımız son kez kapanıyor, The Witcher Hype Treni’miz son durağına doğru, son kez harekete geçiyor! Bana da bu son yazının hakkını vermek düşsün, dizinin olay örgüsü hakkında, Witcher’ı daha önce bilen veya bilmeyen herkes için genel bir toparlama yapayım dedim. Uyarı: Okuyacak olduğunuz yazıda serinin kitapları ve oyunlarıyla ilgili ufak çaplı spoilerlar",
+      "Ceádmil evellienn! Kompartıman kapılarımız son kez kapanıyor, The Witcher Hype Treni’miz son durağına doğru, son kez harekete geçiyor!",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/witcher-netflix-poster-500-x-500-300x300.png",
     title: "THE WITCHER Hype Treni #16: Neler Değişecek?",
@@ -3567,7 +3567,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576454400",
     source: "geekyapar.com",
     teaser:
-      "Bir pazar gününden beklentileriniz vardır. Mesela geç saatlere kadar huzurla uyumak, ailenizle veya arkadaşlarınızla güzelce kahvaltı etmek istersiniz. Ayrıca sabah komşunuzun matkap sesiyle uyanmamayı ya da elektriklerin, sırf size inat bütün gün kesik olmamasını umarsınız. Öte yandan bir de hiç beklemediğiniz olaylar vardır. Ne bileyim, kötü bir haber alırsınız ve bütün gününüz zehir olur. Hah,",
+      "Bir pazar gününden beklentileriniz vardır. Mesela geç saatlere kadar huzurla uyumak, ailenizle veya arkadaşlarınızla güzelce kahvaltı etmek istersiniz.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/68A805B4-3C60-40DB-90CE-76BC1F13F44E-300x300.jpeg",
     title:
@@ -3585,7 +3585,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576281600",
     source: "geekyapar.com",
     teaser:
-      "Bram Stoker‘ın klasik ve popüler kültüre fazlasıyla mal olmuş romanından uyarlanan Dracula‘nın fragmanı çıktı. (Zaten ne Frankenstein‘ı ne de Dracula‘yı okuyan pek kişi yok, ama garip bir biçimde acayip ünlenmiş işler bunlar.) Aslında fragman demeye de dilim varmıyor, elli saniyelik bir video ancak dizinin tadı ve tonu konusunda yeterli seviyede bilgi veriyor. Şimdiden bolca kan, tahta",
+      "Bram Stoker‘ın klasik ve popüler kültüre fazlasıyla mal olmuş romanından uyarlanan Dracula‘nın fragmanı çıktı.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/dracula-1-300x300.jpg",
     title: "Yeni Yılın İlk Günü Kan Emmeye Çıkıyoruz: DRACULA DİZİSİ KAPIDA!",
@@ -3602,7 +3602,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576108800",
     source: "geekyapar.com",
     teaser:
-      "Yazar: Zeynep Gülbanu Esen Bir diziden ilişkiler üzerine bir çıkarım yapılacak olsa büyük ihtimalle bu dizi ya bir aile draması ya da bir aşk dizisi olurdu. Kesinlikle konusu, ‘seri katil psikolojisini araştıran iki FBI ajanının suç biliminde yeni ufuklar açması’ olan bir dizi olmazdı. Tabii bu dizi Mindhunter değilse… Çünkü Mindhunter izleyiciye sadece seri katiller,",
+      "Yazar: Zeynep Gülbanu Esen Bir diziden ilişkiler üzerine bir çıkarım yapılacak olsa büyük ihtimalle bu dizi ya bir aile draması ya da bir aşk dizisi olurdu.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/Mindhunter-500x500-300x300.png",
     title:
@@ -3620,7 +3620,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576108800",
     source: "geekyapar.com",
     teaser:
-      "The Witcher dizisinin çıkmasına sekiz gün kala, Netflix beklenildiği gibi son bir tanıtım filmi yayınladı. Bu son tanıtımların amacı genelde hedef kitleyi son bir heyecanlandırmak ve şimdiye kadar çekemediğimiz insanlar varsa, üç-beş gaz sahne koyup, onların da ilgisini çekelim düşüncesi olduğu için, üzerime çok alınmadım açıkçası. Tanıtım filmini konuşmadan önce izlemeyenlerinizi aşağıya alalım: Bir önceki",
+      "The Witcher dizisinin çıkmasına sekiz gün kala, Netflix beklenildiği gibi son bir tanıtım filmi yayınladı.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/geralt-cavill-500x500-300x300.png",
     title:
@@ -3638,7 +3638,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1575849600",
     source: "geekyapar.com",
     teaser:
-      "The Witcher Hype Treni’nde on beşinci haftaya ulaşmış bulunmaktayız! Ne yalan söyleyeyim, eylül ayında trene ilk adımı attığım zaman, kasımda yolculuğumuz sonlanacak gibi düşünüyordum. Bunun en büyük sebebi, 17 Kasım olarak sızdırılan yayın tarihiydi, doğru çıkmadı, kandırıldık! Neyse ki bazılarımız için kandırılmak genel bir alışkanlıktı da gözyaşlarımızı silip yolumuza devam etmeyi başardık. Hype Treni’nin son",
+      "The Witcher Hype Treni’nde on beşinci haftaya ulaşmış bulunmaktayız! Ne yalan söyleyeyim, eylül ayında trene ilk adımı attığım zaman, kasımda yolculuğumuz sonlanacak gibi düşünüyordum.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/vilgefortz-500x500-300x300.png",
     title: "THE WITCHER Hype Treni #15: VILGEFORTZ",
@@ -3655,7 +3655,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1575590400",
     source: "geekyapar.com",
     teaser:
-      "2019 yılı hem diziler hem filmler hem de oyunlar açısından tam bir sürpriz atların yılı oldu. Büyük heyecanla beklediğimiz diziler, filmler bizi hayal kırıklığına uğratırken bir anda karşımıza çıkan ve yapımından bile bihaber olduğumuz yapımlar, bizi kendilerine hayran ettiler. Sanırım buna en büyük örnek olarak The Boys’u verirsem kimsenin tepkisini çekmiş olmam. Alan Moore’un 1986",
+      "2019 yılı hem diziler hem filmler hem de oyunlar açısından tam bir sürpriz atların yılı oldu.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/9368044A-8FFB-4D79-8101-2151AC090FB7-300x300.jpeg",
     title:
@@ -3673,7 +3673,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1575504000",
     source: "geekyapar.com",
     teaser:
-      "Yazar: Bilal Alevli Bugün klavyenin karşısına oturdum ve sizlere izlediğim birkaç diziden bahsetmek istedim. Öncelikle şunu söyleyeyim, bu dizilerin dünyanın en iyi dizileri oldukları gibi bir iddiam yok. Ama içlerinden birçok iyi hayat dersi çıkarılacağından eminim. Ben hepsini izledikten sonra bir kişilik daha kazandım, dünyama bir pencere daha ekledim. Belki sizin de dünyanıza bir pencere eklerler.",
+      "Yazar: Bilal Alevli Bugün klavyenin karşısına oturdum ve sizlere izlediğim birkaç diziden bahsetmek istedim. Öncelikle şunu söyleyeyim, bu dizilerin dünyanın en iyi dizileri oldukları gibi bir iddiam yok.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/11/penny-dreadful-creature-500x500-300x300.png",
     title:
@@ -3690,7 +3690,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1575244800",
     source: "geekyapar.com",
     teaser:
-      "Witcher dizisinin yayınlanmasına tam olarak on sekiz gün kaldı! Bu süreçte devam eden bir ambargo var, zaman da az olduğu için önümüze yeni bir şey de çok gelmiyor. Ancak bu demek değil ki Hype Treni duracak, sessizce bir gara çekilecek! Kimdir temalı yazılara devam edemiyoruz çünkü ana üçlü ve kalan karakterler hakkında zaten bilmediğiniz ne",
+      "Witcher dizisinin yayınlanmasına tam olarak on sekiz gün kaldı! Bu süreçte devam eden bir ambargo var, zaman da az olduğu için önümüze yeni bir şey de çok gelmiyor.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/witcher-netflix-map-724x724-300x300.png",
     title: "THE WITCHER Hype Treni #14: YENİ HARİTA",
@@ -3706,7 +3706,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1574640000",
     source: "geekyapar.com",
     teaser:
-      "The Witcher dizisinin yayınlanmasına bir aydan daha kısa bir süre kaldı. Biz de öte yandan birkaç aydır diziye doğru yol almakta olan bir trenin içerisinde, dizide karşılaşacaklarımızla ilgili konuşarak vakit geçiriyoruz. Kıta haritasında şöyle bir tur attık; Cintra’ya, Brokilon’a, Temerya’ya uğradık, Kovir ve Povis’e de giderek Kuzey’i dolaşmış olduk. Yetinmedik, uğramış olduğumuz duraklarda, belirli karakterleri",
+      "The Witcher dizisinin yayınlanmasına bir aydan daha kısa bir süre kaldı. Biz de öte yandan birkaç aydır diziye doğru yol almakta olan bir trenin içerisinde, dizide karşılaşacaklarımızla ilgili konuşarak vakit geçiriyoruz.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/11/cahir-witcher-netflix-500x500-300x300.png",
     title: "THE WITCHER Hype Treni #13: CAHIR Kimdir?",
@@ -3723,7 +3723,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1514851200",
     source: "geekyapar.com",
     teaser:
-      "Sizi temin ederim ki başlıkta geçen cümlenin hiçbir kelimesinde şaka yok. 29 Eylül 2011 tarihinde Çin Halk Cumhuriyeti’nin Gobi Çölü‘nden fırlattığı Tiangong-1 prototip uzay istasyonu Mart ayında Dünya’ya düşecek. Biliminsanları düşüşün 43′ Kuzey ve 43′ Güney paralelleri arasında bir yere düşeceğini biliyorlar; fakat kaotik koşullardan dolayı tam olarak nereye düşeceğini de tahmin edemiyorlar. İşin fenası, uzay istasyonu atmosfere tekrar",
+      "Sizi temin ederim ki başlıkta geçen cümlenin hiçbir kelimesinde şaka yok. 29 Eylül 2011 tarihinde Çin Halk Cumhuriyeti’nin Gobi Çölü‘nden fırlattığı Tiangong-1 prototip uzay istasyonu Mart ayında Dünya’ya düşecek.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2018/01/Tiangong-1-e1514897160678-300x300.jpg",
     title: "Kendinize Mukayyet Olun, Mart’ta Dünyaya UZAY İSTASYONU Düşecek",
@@ -3741,7 +3741,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1509494400",
     source: "geekyapar.com",
     teaser:
-      "Uzay bir tür olarak kafamızı kullanmaya başladığımızdan beri bizim merakımızı cezbediyor. Yıldızlara bakıyoruz, yıldızlar bize bakıyor; ayı romantize ediyoruz ve ötesinde yatanlar merak uyandırıyor. Ama onu keşif konusundaki tarihimiz çok yeni ve çok kısıtlı. Sovyetler Birliği ve Birleşik Devletler birbirleriyle sidik yarıştırırken ciddi atılımlar yaptık bu alanda. Sonra politikacıların hevesi kaçınca, uzay bilimi ve bununla ilgili gelişmelerin",
+      "Uzay bir tür olarak kafamızı kullanmaya başladığımızdan beri bizim merakımızı cezbediyor. Yıldızlara bakıyoruz, yıldızlar bize bakıyor; ayı romantize ediyoruz ve ötesinde yatanlar merak uyandırıyor.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2015/05/Space_walk-300x300.jpg",
     title:
@@ -3760,7 +3760,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1509062400",
     source: "geekyapar.com",
     teaser:
-      "Şimdi yazımızın devamına girmeden önce biraz kompleks biyolojik bir terimi açıklamamız lazım. Hazır mısınız? Konumuz gen ifadesi. Ülkemizde yasaklı olan özgür ansiklopedi Vikipedi’nin bu karmaşık konuya istinaden koyduğu giriş paragrafı şu: “Gen ifadesi ya da Gen ekspresyonu, DNA dizisi olan genlerin, fonksiyonel protein yapılarına dönüşmesi süreci için kullanılan bir terimdir. Basitçe, bu durum genlerin açık (aktif) olup olmadıkları olarak da tanımlanabilir.” Genetik biliminde,",
+      "Şimdi yazımızın devamına girmeden önce biraz kompleks biyolojik bir terimi açıklamamız lazım. Hazır mısınız? Konumuz gen ifadesi.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2017/10/twins-e1509124408780-300x300.jpg",
     title:
@@ -3779,7 +3779,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1505433600",
     source: "geekyapar.com",
     teaser:
-      "“Burada, bilinmezin mucizeleri içinde durdukça, doğamızla ilgili kökten bir gerçeğin varlığını fark ediyorum. İnsan keşfetmeli.” Bu sözler, Ay yüzeyinde yürüyen yedinci insan olan Dave Scott tarafından, Apollo 15 görevi esnasında, 1971 senesinde dile getirildi. O günden bugüne de, aynı o günden öncesinde olduğu gibi, hiçbir şey değişmedi. İnsan keşfetmek için yaratılmış, keşfederek yaşayan, keşfettikçe büyüyen ve",
+      "“Burada, bilinmezin mucizeleri içinde durdukça, doğamızla ilgili kökten bir gerçeğin varlığını fark ediyorum. İnsan keşfetmeli.”",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2017/09/saturn-cassini-e1505483166362-300x300.jpg",
     title:
@@ -3798,7 +3798,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1490918400",
     source: "geekyapar.com",
     teaser:
-      "Uzay seyahatinin, uzay keşiflerinin hepimizin ağzını sulandırıyor olmasının bir sebebi var. Gördüğümüzün arkasında yatanları öğrenmek, çok insani bir tutku. Üstelik bunun da ötesinde bir mecburiyetten de söz etmek mümkün. Kaynaklarımızın sınırlı olduğunu, bir noktada üzerinde yaşadığımız gezegenin öyle ya da böyle bir son kullanma tarihine toslayacağını biliyoruz. O tarih geldiğinde, uzay hakkında ne kadar çok şey biliyorsak, o",
+      "Uzay seyahatinin, uzay keşiflerinin hepimizin ağzını sulandırıyor olmasının bir sebebi var. Gördüğümüzün arkasında yatanları öğrenmek, çok insani bir tutku. Üstelik bunun da ötesinde bir mecburiyetten de söz etmek mümkün.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2017/03/Falcon-9-Relaunch-e1490953936687-300x300.jpg",
     title:
@@ -3817,7 +3817,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1490054400",
     source: "geekyapar.com",
     teaser:
-      "Geçen bir yazı paylaştık, Shaquille O’Neal‘in bir podcast’te verdiği “dünya düzdür arkadaşlar ben Florida’dan Kansas’a gittim hiç kavis olmadı” beyanının üzerine. Ne kadar karışık bir kafa dedik, acaba dedik, hani bireyin kendi kafasının içinde irrasyonel olma hakkı var, ama o irrasyonelliği başkalarına yayması hak mıdır hukuk mudur; ne zaman müdahale edilmelidir diye sorguladık. Biz bunları konuşurken,",
+      "Geçen bir yazı paylaştık, Shaquille O’Neal‘in bir podcast’te verdiği “dünya düzdür arkadaşlar ben Florida’dan Kansas’a gittim hiç kavis olmadı” beyanının üzerine.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2017/03/Flat-Earth-e1490090371157-300x300.jpg",
     title:
@@ -3836,7 +3836,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1489622400",
     source: "geekyapar.com",
     teaser:
-      "Hatırlayacaksınız, geçtiğimiz haftalarda NASA’nın muhteşem keyifli bir duyurusunu konuşmuştuk sizlerle. Biliminsanlarının felaket hayal gücünden yoksun bir şekilde TRAPPIST-1 olarak adlandırdığı ultracool bir cüce yıldız ve onun etrafında dönen yedi gezegeninin, değer olarak bizim dünyamıza epey yakın aralıklarda durduğunu duyurmalarıyla birlikte, bizim beynimiz alev almaya başladı elbette. Ne vardı orada? Nasıldı gezegen yüzeyi? Canlılar var mıydı? Bu sorular sadece",
+      "Hatırlayacaksınız, geçtiğimiz haftalarda NASA’nın muhteşem keyifli bir duyurusunu konuşmuştuk sizlerle.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2017/03/Trappist-1-e1489656183284-300x300.jpg",
     title: "ULTRACOOL Kuzenimiz TRAPPIST-1’dan Haberler Var, Gelin Anlatalım!",
@@ -3854,7 +3854,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1487721600",
     source: "geekyapar.com",
     teaser:
-      "Uzay bilimcilerin Goldilocks bölgesi dediği bir aralık var. Ne çok sıcak, ne çok soğuk. Oksijeni var, ve havası solunabilir. Kendi yıldızına ne çok uzak, ne de çok yakın. İçerisinde sıvı oluşmasına, yaşam oluşmasına müsaade edecek mükemmel aralıkta duran gezegenler. NASA bir süredir, farklı yöntemlerle bu gezegenlerden arıyor. Biz fiziksel olarak en fazla kendi güneş sistemimizin",
+      "Uzay bilimcilerin Goldilocks bölgesi dediği bir aralık var. Ne çok sıcak, ne çok soğuk. Oksijeni var, ve havası solunabilir. Kendi yıldızına ne çok uzak, ne de çok yakın.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2017/02/TRAPPIST-1-e1487790175457-300x300.jpg",
     title:
@@ -3873,7 +3873,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1485907200",
     source: "geekyapar.com",
     teaser:
-      "Hafızası kuvvetli okurlarımız anımsayacaklardır, bir süre önce NASA’nın çok enteresan bir deney üzerinde olduğunu paylaşmıştık sizlerle. Dünyanın en büyük uzay araştırmaları kurumu, elinde muhteşem bir denek grubu olduğunu fark etmiş ve bunun üzerinden uzayda yaşamanın insanın genetik yapısı üzerinde yaşatabileceği değişiklikleri araştırmaya konulmuştu. Ellerindeki bulunmaz kaynak şuydu: Hayat hikayeleri de felaket paralel gitmiş, ikisi de",
+      "Hafızası kuvvetli okurlarımız anımsayacaklardır, bir süre önce NASA’nın çok enteresan bir deney üzerinde olduğunu paylaşmıştık sizlerle.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2017/02/twin-study-nasa-1-e1485982580890-300x300.jpg",
     title:
@@ -3892,7 +3892,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1471219200",
     source: "geekyapar.com",
     teaser:
-      "NASA ve minvali uzay kuruluşlarının asıl amaçlarından biri insanların yaşayabilecekleri yeni gezegenleri aramak. Bir yandan uzay hakkında bilgi toplamaya çalışıyorlar, bir yandan uzaya adam yollamayı deniyorlar, bir yandan uzaylı arıyorlar; evet. Ama yaptıkları şeyler arasında belki de bizim geleceğimizi en etkileyecek olan şey başka bir gezegen aramak. İnsanlar olarak biraz seçici canlılarız. Her gezegende yaşayamıyoruz.",
+      "NASA ve minvali uzay kuruluşlarının asıl amaçlarından biri insanların yaşayabilecekleri yeni gezegenleri aramak. Bir yandan uzay hakkında bilgi toplamaya çalışıyorlar, bir yandan uzaya adam yollamayı deniyorlar, bir yandan uzaylı arıyorlar; evet.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2016/08/Gliese_667_Cc_sunset-700x432-e1471253327404-300x300.jpg",
     title:
@@ -3910,7 +3910,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1470873600",
     source: "geekyapar.com",
     teaser:
-      "Gezegenler, oluşma sebepleri ve süreçleri yüzünden materyal, gaz oranları, sıvı oranları, boyut, ısı gibi zilyon farklı faktörd birbirinden ayrışabilirler; ancak ne olursa olsun daima paylaştıkları bir orta noktaları da vardır. Momentum dediğimiz nane sağ olsun, tüm gezegenler aynı istikamette dönerler. En azından aynı güneş sistemini paylaşanlar yani. Biz Sol sistemi gezegenleri olarak, kendimizi bildik bileli",
+      "Gezegenler, oluşma sebepleri ve süreçleri yüzünden materyal, gaz oranları, sıvı oranları, boyut, ısı gibi zilyon farklı faktörd birbirinden ayrışabilirler; ancak ne olursa olsun daima paylaştıkları bir orta noktaları da vardır.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2016/08/indir-1-e1470945923411-300x300.jpg",
     title:
@@ -3929,7 +3929,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1466208000",
     source: "geekyapar.com",
     teaser:
-      "Bu sayfalarda pek çok şeyin “yenisini” duyuruyoruz sizlere. Marvel filmlerinin yenisi. DC çizgi romanlarının yenisi. Yeni bir FIFA. Yeni bir Call of Duty. Yeni bir kitap bazen, ya da yeni bir tiyatro oyunu. Belki de bir dizinin yepisyeni çıkmış bir bölümü. Bazen yeni icatlar da duyurduğumuz oluyor; yeri geliyor elimize ekran çıkıyor, yeri geliyor robotların",
+      "Bu sayfalarda pek çok şeyin “yenisini” duyuruyoruz sizlere. Marvel filmlerinin yenisi. DC çizgi romanlarının yenisi. Yeni bir FIFA. Yeni bir Call of Duty.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2016/06/asteroide_terre-300x300.jpg",
     title:
@@ -3948,7 +3948,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1465171200",
     source: "geekyapar.com",
     teaser:
-      "Hepimizin bildiği üzere dizi, film, anime ve türevi birçok şeyi izlemek artık bir şekilde geek kültürünün temel taşlarından biri haline geldi. Hatta öyle ki, kendine geek deyip de belli başlı şeyleri izlemeyen kişiler acımasız taşlamalara maruz kaldı bazı geek kültürü dostları tarafından. Lakin şöyle de bir gerçek var ki, geek denen kişi sadece belli başlı",
+      "Hepimizin bildiği üzere dizi, film, anime ve türevi birçok şeyi izlemek artık bir şekilde geek kültürünün temel taşlarından biri haline geldi. Hatta öyle ki, kendine geek deyip de belli başlı şeyleri izlemeyen kişiler acımasız taşlamalara maruz kaldı bazı geek kültürü dostları tarafından.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2016/06/Cosmos_009-300x300.jpg",
     title:
@@ -3967,7 +3967,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1462752000",
     source: "geekyapar.com",
     teaser:
-      "Şaka maka, dünyada Civil War konuşuyoruz, çok eğleniyoruz, çok etkileniyoruz falan tamam ama; hasbelkader Elon Musk yarın uyanıp şahsi zırh işine girmeye karar verse Iron Man bir “süper” kahraman olarak ıskartaya çıkar, farkındayız değil mi? Gerçekten o derece acayip bir adam Elon Musk. Bilmeyenler için, kendisi 1995’te Zip2’yu kuran, onu satıp; elde ettiği parayla PayPal",
+      "Şaka maka, dünyada Civil War konuşuyoruz, çok eğleniyoruz, çok etkileniyoruz falan tamam ama; hasbelkader Elon Musk yarın uyanıp şahsi zırh işine girmeye karar verse Iron Man bir “süper” kahraman olarak ıskartaya çıkar, farkındayız değil mi?",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2016/05/15-234-300x300.jpg",
     title:
@@ -3986,7 +3986,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1461715200",
     source: "geekyapar.com",
     teaser:
-      "Bilimkurgu romanları, filmleri, oyunları, çizgi romanlarıyla ilgili en sevdiğimiz şeylerden biri farklı gezegenlerdir, değil mi? Ama karikatüre kaçmadan işleyenlerinden söz ediyorum. “Bu gezegen varmış, burada herkes cübbe giyiyor” gibi değil. Gerçekten hayal gücünü tetikleyen, her hâliyle başka olan, sizi galeyana getiren, oraya gitme isteği uyandıran başkalıkta gezegenler. İşte onlar, bilim kurgu işlerinde inanılmaz keyifliler ama…",
+      "Bilimkurgu romanları, filmleri, oyunları, çizgi romanlarıyla ilgili en sevdiğimiz şeylerden biri farklı gezegenlerdir, değil mi? Ama karikatüre kaçmadan işleyenlerinden söz ediyorum.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2016/04/Saturn-Titan-300x300.jpg",
     title:
@@ -4005,7 +4005,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576800000",
     source: "geekyapar.com",
     teaser:
-      "Eğer siz de indie oyun piyasasını takip ediyorsanız Ori and the Blind Forest‘ı mutlaka duymuş hatta belki oynamışsınızdır. Kendisi indie oyun mekteplerinde ders niteliğinde okutulması gereken ve adeta zamansız bir yapım. Dikkat ederseniz ‘oyun’ demedim çünkü hâlâ başlıkta da gördüğünüz soruyu soruyorum kendime: Bu bir oyun mu yoksa interaktif bir sanat eseri mi? Çünkü Ori and",
+      "Eğer siz de indie oyun piyasasını takip ediyorsanız Ori and the Blind Forest‘ı mutlaka duymuş hatta belki oynamışsınızdır. Kendisi indie oyun mekteplerinde ders niteliğinde okutulması gereken ve adeta zamansız bir yapım.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/ori-500-x-500-300x300.png",
     title: "Indie Mucizesi ORI AND THE BLIND FOREST, Oyun Mu SANAT ESERİ Mi?",
@@ -4023,7 +4023,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576195200",
     source: "geekyapar.com",
     teaser:
-      "Son yıllarda gerek organizasyonlarının büyüklüğü gerek de verdiği ödül kararlarının doğruluğuyla herkesten tam not alan The Game Awards dün gece bir kez daha vuku buldu. Artık oyunların Oscar töreni haline gelen bu prestijli ödül töreninde birçok oyun ve oyuncu yarıştı, ödüller kazandı. Biz de şöyle geceden bizlere kalanları bir yazıda toplamak, geçtiğimiz yılın oyun dünyasına",
+      "Son yıllarda gerek organizasyonlarının büyüklüğü gerek de verdiği ödül kararlarının doğruluğuyla herkesten tam not alan The Game Awards dün gece bir kez daha vuku buldu.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/570A33B2-4A6A-43B8-AD0D-865438557D55-300x300.jpeg",
     title:
@@ -4042,7 +4042,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576108800",
     source: "geekyapar.com",
     teaser:
-      "Selamlar sevgili geekler ve indie oyun severler! Bu yazıda sizlere çok güzel ve özel bir indie oyundan, Dead Cells’ten bahsedeceğim. Üzerinden her ne kadar bir buçuk yıldan fazla bir zaman geçmiş olsa da, Dead Cells indie oyunlar arasında parmakla gösterilen ve adeta bir mücevher gibi ışıl ışıl parlayan bir yapımdır. Indie oyun severlerin ağzını açık bırakmış",
+      "Selamlar sevgili geekler ve indie oyun severler! Bu yazıda sizlere çok güzel ve özel bir indie oyundan, Dead Cells’ten bahsedeceğim.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/dead-cells-500x500-300x300.png",
     title: "MÜCEVHER Değerinde Bir Indie: DEAD CELLS",
@@ -4060,7 +4060,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576108800",
     source: "geekyapar.com",
     teaser:
-      "Call of Duty serisini -en azından ilk zamanlarını- seven oyuncuların ortak bir görüşü varsa, o da artık Call of Duty serisinin eskisi gibi etkileyici ve oynaması keyifli senaryolara sahip olmamasıdır. İşte Titanfall 2, o sevdiğimiz senaryo akışına sahip olan ve bence hak ettiği değeri çok sevgili yayıncı EA’in oyunu, başka bir FPS oyun olan Battlefield 1",
+      "Call of Duty serisini -en azından ilk zamanlarını- seven oyuncuların ortak bir görüşü varsa, o da artık Call of Duty serisinin eskisi gibi etkileyici ve oynaması keyifli senaryolara sahip olmamasıdır.",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/12/titanfall-2-500x500-300x300.png",
     title: "Aradığımız CALL OF DUTY Tadını Veren Oyun: TITANFALL 2",
@@ -4078,7 +4078,7 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576108800",
     source: "geekyapar.com",
     teaser:
-      "Yazar: Ahmet Furkan Kızılay Hiç düşündünüz mü veya hiç düşünür gibi dahi oldunuz mu, etrafımızda onca kitap, dizi, film ve tüketilebilecek onlarca kaynak varken neden video oyunları hikâye anlatmakta bu kadar istekli? Daha da ötesi nasıl bu kadar başarılılar? Şimdilerde pek çok sinema yönetmeninin, senaristin hatta gerçek oyuncuların video oyunlarında rol aldığını ve bu yüzden",
+      "Yazar: Ahmet Furkan Kızılay Hiç düşündünüz mü veya hiç düşünür gibi dahi oldunuz mu, etrafımızda onca kitap, dizi, film ve tüketilebilecek onlarca kaynak varken neden video oyunları hikâye anlatmakta bu kadar istekli?",
     thumbnail:
       "https://geekyapar.com/wp-content/uploads/2019/10/mooneyecon_melies_960-300x300.jpg",
     title: "[YAZI ÇAĞRISI] Oyunlar NEDEN Hikâye Anlatıyor?",
