@@ -22,9 +22,10 @@ export function SortingHeader({
   return (
     <div className={"sorting-header"}>
       <Dropdown
+        label={"Sort"}
         selectedOption={selectedSortingOption}
         options={sortingOptions}
-        handleChange={setSelectedSortingOption}
+        handleSelect={setSelectedSortingOption}
       />
     </div>
   );
