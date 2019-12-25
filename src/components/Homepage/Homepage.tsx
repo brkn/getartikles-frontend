@@ -17,7 +17,7 @@ export function Homepage() {
   const [
     selectedDateSortingOption,
     setSelectedDateSortingOption
-  ] = useState("week" as DateSortingOptions);
+  ] = useState("all" as DateSortingOptions);
   
   return (
     <main
