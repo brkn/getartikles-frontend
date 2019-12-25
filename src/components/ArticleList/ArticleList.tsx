@@ -1,9 +1,9 @@
 import "./ArticleList.scss";
 
 import React, {
-  useEffect,
-  useState,
+  useEffect, useState
 } from "react";
+import debounce from "lodash/debounce";
 
 import {ArticleItem} from "../ArticleItem/ArticleItem";
 import {articles} from "./data";
@@ -18,9 +18,31 @@ export function ArticleList({sortBy}: ArticleListProps) {
     sortedArticles,
     setSortedArticles
   ] = useState(articles);
+  const [
+    lastArticleIndex,
+    setLastArticleIndex
+  ] = useState(9);
+
+  const contentRef = React.createRef<HTMLUListElement>();
+
+  const debouncedHandleOnScroll = debounce(() => {
+    const contentElement = contentRef.current;
+
+    const doesNextExists = lastArticleIndex < sortedArticles.length;
+
+    if (doesNextExists && contentElement) {
+      const contentOffset =
+        contentElement.scrollTop + contentElement.clientHeight;
+      const scrollHeight = contentElement.scrollHeight;
+      const graceValue = 5;
+
+      if (contentOffset >= scrollHeight - graceValue) {
+        setLastArticleIndex(lastArticleIndex + 10);
+      }
+    }
+  }, 250);
 
   useEffect(() => {
-    console.log(sortBy);
     switch (sortBy) {
       case "new": {
         sortByNew();
@@ -32,6 +54,11 @@ export function ArticleList({sortBy}: ArticleListProps) {
         break;
       }
     }
+    resetLastArticleIndex();
+
+    if(contentRef.current){
+      contentRef.current.scrollTop = 0;
+    };
 
     function sortByNew() {
       setSortedArticles(
@@ -48,11 +75,16 @@ export function ArticleList({sortBy}: ArticleListProps) {
         })
       );
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [sortBy]);
 
   return (
-    <ul className={"article-list"}>
-      {sortedArticles.map((article, index) => (
+    <ul
+      className={"article-list"}
+      ref={contentRef}
+      onScroll={debouncedHandleOnScroll}
+    >
+      {sortedArticles.slice(0, lastArticleIndex).map((article, index) => (
         <ArticleItem
           key={`${index}-${article.title.slice(0, 9)}`}
           {...article}
@@ -60,4 +92,8 @@ export function ArticleList({sortBy}: ArticleListProps) {
       ))}
     </ul>
   );
+
+  function resetLastArticleIndex(){
+    setLastArticleIndex(9);
+  }
 }

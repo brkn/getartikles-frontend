@@ -1,8 +1,6 @@
 .article-list {
   list-style: none;
-  /* border-width: 1px;
-  border-style: solid;
-  border-color: rgb(235, 237, 240);
-  border-image: initial;
-  border-radius: 2px; */
+
+  height: 90vh;
+  overflow: scroll;
 }
