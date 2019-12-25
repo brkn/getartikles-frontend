@@ -893,7 +893,7 @@ export const articles: ArticleItemProps[] = [
       "sağlik"
     ],
   },
-  {
+  /* {
     authors: [
       "hayatimgibinickimdebos",
       "matrakcinasuh",
@@ -915,7 +915,7 @@ export const articles: ArticleItemProps[] = [
       "bilim",
       "sağlik"
     ],
-  },
+  }, */
   {
     authors: ["ejderha kuyrugunun ucunda yanan ates"],
     link:
@@ -1234,7 +1234,7 @@ export const articles: ArticleItemProps[] = [
       "nostalji"
     ],
   },
-  {
+  /* {
     authors: ["sknolreis"],
     link:
       "http://seyler.eksisozluk.com/parasizliktan-jigolo-olmayi-dusunen-universiteli-uc-gencin-trajikomik-hikayesi",
@@ -1252,7 +1252,7 @@ export const articles: ArticleItemProps[] = [
       "eğlence",
       "komik"
     ],
-  },
+  }, */
   {
     authors: ["mabel"],
     link:
@@ -1813,7 +1813,7 @@ export const articles: ArticleItemProps[] = [
       "yaşam"
     ],
   },
-  {
+  /* {
     authors: ["kubar tegin"],
     link: "http://seyler.eksisozluk.com/vajinal-orgazm-nasil-saglanir",
     popularity: 253000,
@@ -1828,7 +1828,7 @@ export const articles: ArticleItemProps[] = [
       "yaşam",
       "ilişkiler"
     ],
-  },
+  }, */
   {
     authors: ["radioslave"],
     link:

@@ -88,7 +88,7 @@ export function ArticleItem({
           <p className={"article-authors-wrapper"}>
             {"by "}
 
-            {authors.slice(0, 1).map((author, index) => (
+            {authors.slice(0, 2).map((author, index) => (
               <a
                 key={`${index}-${author}`}
                 className={"article-author"}
