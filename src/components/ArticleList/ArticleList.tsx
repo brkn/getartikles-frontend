@@ -7,13 +7,21 @@ import debounce from "lodash/debounce";
 
 import {ArticleItem} from "../ArticleItem/ArticleItem";
 import {articles} from "./data";
-import {SortingOptions} from "../../utils/sorting-constants";
+import {
+  SortingOptions,
+  DateSortingOptions,
+} from "../../utils/sorting-constants";
+import {convertEpochToDate} from "../../utils/date-utils";
 
 interface ArticleListProps {
   sortBy: SortingOptions;
+  filterDate: DateSortingOptions;
 }
 
-export function ArticleList({sortBy}: ArticleListProps) {
+export function ArticleList({
+  sortBy,
+  filterDate,
+}: ArticleListProps) {
   const [
     sortedArticles,
     setSortedArticles
@@ -43,9 +51,46 @@ export function ArticleList({sortBy}: ArticleListProps) {
   }, 250);
 
   useEffect(() => {
+    const oldestAllowedDate = new Date();
+    oldestAllowedDate.setHours(0, 0, 0);
+    oldestAllowedDate.setMilliseconds(0);
+
+    switch (filterDate) {
+      case "week":
+        oldestAllowedDate.setDate(oldestAllowedDate.getDate() - 7);
+        break;
+      case "month":
+        oldestAllowedDate.setMonth(oldestAllowedDate.getMonth() - 1);
+        break;
+      case "year":
+        oldestAllowedDate.setFullYear(oldestAllowedDate.getFullYear() - 1);
+        break;
+    }
+
+    const filteredArticles = sortedArticles.filter((article) => {
+      const articleDate = convertEpochToDate(article.publish_date);
+
+      return oldestAllowedDate <= articleDate;
+    });
+
+    setSortedArticles(filteredArticles);
+
+    if (contentRef.current) {
+      contentRef.current.scrollTop = 0;
+    }
+
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filterDate]);
+
+  useEffect(() => {
     switch (sortBy) {
       case "new": {
         sortByNew();
+        break;
+      }
+
+      case "old": {
+        sortByOld();
         break;
       }
 
@@ -56,26 +101,34 @@ export function ArticleList({sortBy}: ArticleListProps) {
     }
     resetLastArticleIndex();
 
-    if(contentRef.current){
+    if (contentRef.current) {
       contentRef.current.scrollTop = 0;
-    };
+    }
 
     function sortByNew() {
       setSortedArticles(
-        [...articles].sort((articleA, articleB) => {
+        [...sortedArticles].sort((articleA, articleB) => {
           return Number(articleB.publish_date) - Number(articleA.publish_date);
+        })
+      );
+    }
+
+    function sortByOld() {
+      setSortedArticles(
+        [...sortedArticles].sort((articleA, articleB) => {
+          return Number(articleA.publish_date) - Number(articleB.publish_date);
         })
       );
     }
 
     function sortByPopularity() {
       setSortedArticles(
-        [...articles].sort((articleA, articleB) => {
+        [...sortedArticles].sort((articleA, articleB) => {
           return articleB.popularity - articleA.popularity;
         })
       );
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [sortBy]);
 
   return (
@@ -93,7 +146,11 @@ export function ArticleList({sortBy}: ArticleListProps) {
     </ul>
   );
 
-  function resetLastArticleIndex(){
+  function resetLastArticleIndex() {
     setLastArticleIndex(9);
+  }
+
+  function resetSortedArticles() {
+    setSortedArticles(articles);
   }
 }

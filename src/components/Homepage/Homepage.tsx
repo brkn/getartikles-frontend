@@ -4,14 +4,21 @@ import React, {useState} from "react";
 
 import {ArticleList} from "../ArticleList/ArticleList";
 import {SortingHeader} from "../SortingHeader/SortingHeader";
-import {SortingOptions} from "../../utils/sorting-constants";
+import {
+  SortingOptions,
+  DateSortingOptions,
+} from "../../utils/sorting-constants";
 
 export function Homepage() {
   const [
     selectedSortingOption,
     setSelectedSortingOption
   ] = useState("new" as SortingOptions);
-
+  const [
+    selectedDateSortingOption,
+    setSelectedDateSortingOption
+  ] = useState("week" as DateSortingOptions);
+  
   return (
     <main
       className={"homepage"}
@@ -20,9 +27,14 @@ export function Homepage() {
       <SortingHeader
         selectedSortingOption={selectedSortingOption}
         setSelectedSortingOption={setSelectedSortingOption}
+        selectedDateSortingOption={selectedDateSortingOption}
+        setSelectedDateSortingOption={setSelectedDateSortingOption}
       />
 
-      <ArticleList sortBy={selectedSortingOption} />
+      <ArticleList
+        sortBy={selectedSortingOption}
+        filterDate={selectedDateSortingOption}
+      />
     </main>
   );
 }

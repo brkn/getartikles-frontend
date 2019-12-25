@@ -1,0 +1,9 @@
+.sorting-header-container {
+  display: flex;
+
+  padding: 10px 0;
+
+  > :not(:last-child) {
+    margin-left: 5px;
+  }
+}
