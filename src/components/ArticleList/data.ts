@@ -45,7 +45,8 @@ export const articles: ArticleItemProps[] = [
     popularity: 21900,
     teaser:
       "1777'den beri kullanılan su altı kablo sistemleri, günümüzde internet trafiğinin %99'unu taşır vaziyette. Bu sistem nedir...",
-    thumbnail: "https://seyler.ekstat.com/img/max/800/u/uOA7UOXPoZVH6hgC-637104558046358040.jpg",
+    thumbnail:
+      "https://seyler.ekstat.com/img/max/800/u/uOA7UOXPoZVH6hgC-637104558046358040.jpg",
     link:
       "https://seyler.eksisozluk.com/dunya-internet-trafiginin-99unu-tasiyan-su-alti-kablolari-hakkinda-merak-edilenler",
     authors: ["ruhsuz1907"],
@@ -2839,12 +2840,9 @@ export const articles: ArticleItemProps[] = [
     popularity: 62000,
     publish_date: "1540339200",
     source: "medium.com",
-    teaser:
-      'The story behind my top secret coffee cup...',
-    thumbnail:
-      "https://miro.medium.com/max/1195/1*m064Xjkvw09VgT6EwvVH7Q.jpeg",
-    title:
-      "Why the NSA Called Me After Midnight and Requested My Source Code",
+    teaser: "The story behind my top secret coffee cup...",
+    thumbnail: "https://miro.medium.com/max/1195/1*m064Xjkvw09VgT6EwvVH7Q.jpeg",
+    title: "Why the NSA Called Me After Midnight and Requested My Source Code",
     topics: [
       "english",
       "programming",
@@ -2860,9 +2858,8 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1493769600",
     source: "medium.com",
     teaser:
-      'I realized that I could learn everything I needed through edX, Coursera, and Udacity instead. And I could learn it faster, more efficiently, and for a fraction of the cost.',
-    thumbnail:
-      "https://miro.medium.com/max/5118/1*vBLkfW8S-ZqHb8TmNEW1XA.jpeg",
+      "I realized that I could learn everything I needed through edX, Coursera, and Udacity instead. And I could learn it faster, more efficiently, and for a fraction of the cost.",
+    thumbnail: "https://miro.medium.com/max/5118/1*vBLkfW8S-ZqHb8TmNEW1XA.jpeg",
     title:
       "Every single Machine Learning course on the internet, ranked by your reviews",
     topics: [
@@ -2880,11 +2877,9 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1469232000",
     source: "medium.com",
     teaser:
-      'I was gung-ho to leverage the benefits of Inheritance, Encapsulation, and Polymorphism. The Three Pillars of the Paradigm.',
-    thumbnail:
-      "https://miro.medium.com/max/590/1*cBFSQ9Ytv_D0jwGtpuL5WA.png",
-    title:
-      "Goodbye, Object Oriented Programming",
+      "I was gung-ho to leverage the benefits of Inheritance, Encapsulation, and Polymorphism. The Three Pillars of the Paradigm.",
+    thumbnail: "https://miro.medium.com/max/590/1*cBFSQ9Ytv_D0jwGtpuL5WA.png",
+    title: "Goodbye, Object Oriented Programming",
     topics: [
       "english",
       "programming",
@@ -2900,11 +2895,9 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1536192000",
     source: "medium.com",
     teaser:
-      'In this tutorial I will go through a simple example of how to scrape a website to gather data on the top 100 companies in 2018 from Fast Track. ',
-    thumbnail:
-      "https://miro.medium.com/max/1500/1*d7UE4B96x_fs1ezUx8YfBQ.png",
-    title:
-      "Data Science Skills: Web scraping using python",
+      "In this tutorial I will go through a simple example of how to scrape a website to gather data on the top 100 companies in 2018 from Fast Track. ",
+    thumbnail: "https://miro.medium.com/max/1500/1*d7UE4B96x_fs1ezUx8YfBQ.png",
+    title: "Data Science Skills: Web scraping using python",
     topics: [
       "english",
       "programming",
@@ -2920,11 +2913,9 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1522281600",
     source: "medium.com",
     teaser:
-      'We read so many stories about data science being the sexiest job of the 21st century and the attractive sums of money that you can make as a data scientist that...',
-    thumbnail:
-      "https://miro.medium.com/max/720/0*rrQ_jhlEFN3bHIqf.jpg",
-    title:
-      "Here’s why so many data scientists are leaving their jobs",
+      "We read so many stories about data science being the sexiest job of the 21st century and the attractive sums of money that you can make as a data scientist that...",
+    thumbnail: "https://miro.medium.com/max/720/0*rrQ_jhlEFN3bHIqf.jpg",
+    title: "Here’s why so many data scientists are leaving their jobs",
     topics: [
       "english",
       "programming",
@@ -2940,11 +2931,9 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1576800000",
     source: "medium.com",
     teaser:
-      'Open source projects can be useful when you’re building an app. Give a plenty of time to play around with amazing Python open source projects.',
-    thumbnail:
-      "https://miro.medium.com/max/1380/1*1G5FX59hX59Tfvs8JAXtwA.png",
-    title:
-      "36 Amazing Python Open Source Projects (v.2019)",
+      "Open source projects can be useful when you’re building an app. Give a plenty of time to play around with amazing Python open source projects.",
+    thumbnail: "https://miro.medium.com/max/1380/1*1G5FX59hX59Tfvs8JAXtwA.png",
+    title: "36 Amazing Python Open Source Projects (v.2019)",
     topics: [
       "english",
       "programming",
@@ -2960,16 +2949,1625 @@ export const articles: ArticleItemProps[] = [
     publish_date: "1512950400",
     source: "medium.com",
     teaser:
-      'The objective of this article is to make learning programming accessible to anyone.',
-    thumbnail:
-      "https://miro.medium.com/max/2419/1*Z59x9C5cODVaFCIkFhQubQ.jpeg",
-    title:
-      "I Want to Learn Programming but I Don’t Know where to Start",
+      "The objective of this article is to make learning programming accessible to anyone.",
+    thumbnail: "https://miro.medium.com/max/2419/1*Z59x9C5cODVaFCIkFhQubQ.jpeg",
+    title: "I Want to Learn Programming but I Don’t Know where to Start",
     topics: [
       "english",
       "programming",
       "data science",
       "job"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/teknoloji/google-stadianin-founders-edition-sahipleri-icin-erisim-tarihi-belli-oldu-bize-yine-beklemek-dusuyor/",
+    popularity: 11200,
+    publish_date: "1571184000",
+    source: "geekyapar.com",
+    teaser:
+      "2019 yılının oyuncuları ve teknoloji severleri en fazla heyecanlandırması gereken haberi, şurada da söz ettiğimiz bulut tabanlı bir oyun servisi olan Google Stadia idi. Bizim buralarda, gerek servisin erişileceği bölgelere dâhil olmamamız gerekse de şimdi ismini vermek istemediğim internet sağlayıcılarına olan güvensizlik nedeniyle pesimist yaklaşımlar vardı tabii. Buna rağmen Stadia’nın dijital oyun sektörünü derinden etkileyecek büyük bir",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/03/stadia.0-300x300.jpg",
+    title:
+      "Google STADIA’nın Founder’s Edition Sahipleri İçin ERİŞİM TARİHİ Belli Oldu; Bize YİNE Beklemek Düşüyor!",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Berna Ece Gündüz"],
+    link:
+      "https://geekyapar.com/metro/occulusun-basindaki-isim-vr-teknolojisinin-oyunlar-icin-gelecek-vaat-etmedigini-iddia-ediyor/",
+    popularity: 6100,
+    publish_date: "1563235200",
+    source: "geekyapar.com",
+    teaser:
+      "Sanal gerçeklik dünyası, son yılların belki de en gözde olaylarından biri. Aslında olmayan ama varmış gibi gösteren ve de bunu aşırı gerçekçi bir şekilde yapan üstün sistemler sayesinde popüler olan bir şey. Tabii bu noktadan Matrix kıvamına ulaşmamız yaklaşık olarak kaç yıl sürecek hiç emin değiliz ama o vakitlerin çok da uzak olmadığından eminiz. Gel",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/07/vr-boom-4720f241_Fotor-300x300.jpg",
+    title:
+      "OCCULUS’un Başındaki İsim, VR Teknolojisinin OYUNLAR İçin Gelecek Vaat Etmediğini İddia Ediyor",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/metro/twitch-getirdigi-abonelere-ozel-yayin-secenegine-dort-buyuk-oyun-firmasindan-yasak-geldi/",
+    popularity: 20100,
+    publish_date: "1562371200",
+    source: "geekyapar.com",
+    teaser:
+      "Bir içerik üreticisi olmak için bundan daha iyi bir zaman olur mu, inanın bilmiyorum. İnsanlar Youtube ve Twitch gibi yayın platformlarında ürettikleri içerikleri sergilemenin yanı sıra Kickstarter ve Patreon gibi sitelerde kendilerine destekçi bulabiliyor ve böylece yetenekleriyle hayatlarını kazanabiliyorlar. İnternet siteleri de içerik üreticilerini kendi sitelerine çekebilmek için her gün yeni bir özellik getiriyor -deyim",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/07/Untitled-1-300x300.png",
+    title:
+      "“ABONELERE ÖZEL YAYIN” Taraftarı TWITCH İle Büyük OYUN ŞİRKETLERİ Mutabık Değil",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Berna Ece Gündüz"],
+    link:
+      "https://geekyapar.com/metro/google-stadianin-ozellikleri-oyunlari-fiyati-aciklandi-turkiye-nasiplenecekler-listesinde-henuz-yok/",
+    popularity: 10200,
+    publish_date: "1559865600",
+    source: "geekyapar.com",
+    teaser:
+      "Hatırlarsanız Mart ayında şöyle bir haberle Google’ın “Stadia” adı altındaki yenilikçi girişimini sizlere duyurmuştuk. Ancak fazlasıyla heyecanlanıyor oluşumuz, birçok kişi tarafından “Türkiye’de o altyapı yok.” sözleriyle bastırılmaya çalışılmıştı. Ne olursa olsun bunun teknolojik anlamda iyi bir gelişme olduğunu ve tüm insanlık için sevinmenin bir sakıncası olmadığını anlatmıştık. Gel gelelim biri yer biri bakar, kıyamet ondan kopar atasözümüzün buraya cuk diye oturuyor olduğunu da",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/06/controller-stadia-300x300.jpg",
+    title:
+      "GOOGLE STADIA’nın Özellikleri, Oyunları ve Fiyatı Açıklandı – TÜRKİYE, Nasiplenecekler Listesinde Henüz Yok",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Berna Ece Gündüz"],
+    link:
+      "https://geekyapar.com/metro/sonynin-yeni-gozdesi-icin-hazirliklar-suruyor-playstation-5ten-ozellikler-sizdirildi/",
+    popularity: 1300,
+    publish_date: "1555459200",
+    source: "geekyapar.com",
+    teaser:
+      "Hepinizin bildiği üzere oyun sektöründe bitmek bilmeyen türler dışı savaş ve platformlar arası sıkı bir çekişme var. Çok uzun yıllardır süregelen bu kapışmalar, oyun geekleri arasındaki satın alma savaşlarını da tetikliyor. Haliyle, en çok satın alınan isim olmak için de şirketler birbiri ardına yenilik patlatmaya çaba gösteriyorlar. Kimileri bilgisayarda oyun oynamanın daha ideal olduğunu düşünürken",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/04/asdasdasd-300x300.jpg",
+    title:
+      "SONY’nin Yeni GÖZDESİ İçin Hazırlıklar Sürüyor: PLAYSTATION 5’ten Özellikler Açıklandı!",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Aslı Özkeleş"],
+    link:
+      "https://geekyapar.com/metro/influencerlik-influencer-marketing-uzerine-kazandiklari-parayi-ne-kadar-hak-ediyorlar/",
+    popularity: 25600,
+    publish_date: "1554854400",
+    source: "geekyapar.com",
+    teaser:
+      "Bir soru: Kaçımız dizi izlediği kadar YouTube’dan da video izliyor? Günde yarım saat ile bir saat arası, konu fark etmeksizin YouTube’dan bir video izlemek her insanın boynunun borcu oldu son dönemlerde. Instagram ve Twitter’ı da unutmamak lazım tabii. Günde bir saat de oradan deseniz… Etti mi size günde en az iki koca saat sosyal medya!",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/04/2018-Influencer-Marketing-300x300.jpg",
+    title:
+      "INFLUENCERLIK ve INFLUENCER MARKETING Üzerine – Kazandıkları Parayı Ne Kadar Hak Ediyorlar?",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Aslı Özkeleş"],
+    link:
+      "https://geekyapar.com/konular/politika/utanmasa-damarlarimizdaki-kanda-akacak-olan-facebook-veri-bilimi-etkisindeki-siyaset/",
+    popularity: 8500,
+    publish_date: "1554249600",
+    source: "geekyapar.com",
+    teaser:
+      "Facebook… Kimisi için çoktan terk edilen, akrabalarla dolu bir bataklık; kimisi için de sanal bir nüfus cüzdanı. İster kullanın ister uzaktan bakın, 2.3 milyar aktif kullanıcısıyla Facebook’un, milenyumdaki en önemli sosyal platformu olduğunu inkar edemezsiniz. Bu kadar aktif kullanıcısı varken Facebook’a sıradan bir platform demek zaten hata olurdu. Günlük hayata dair ne varsa bir parçası da Facebook’ta",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/04/Untitled-1-300x300.png",
+    title:
+      "Utanmasa Damarlarımızdaki Kanda Akacak Olan FACEBOOK ve Veri Bilimi Etkisindeki SİYASET",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Berna Ece Gündüz"],
+    link:
+      "https://geekyapar.com/konular/teknoloji/apple-neyimiz-eksik-biz-de-her-sektore-maydanoz-olacagiz/",
+    popularity: 6000,
+    publish_date: "1553558400",
+    source: "geekyapar.com",
+    teaser:
+      "Çok değil, bir haftadan az bir süre önce Google’ın yenilikler namına harika bir adımı olan Stadia‘yı sizlere anlatmıştık. Oyun sektörü için çok yeni bir dünyanın kapılarını aralıyor oluşumuzun yanı sıra, Google’ın bizzat kendi sağlam altyapısı ile bu teknolojiyi çok daha ileriye götürme şansının olduğunu umarak hayaller kuruyorduk. O haberin daha dumanı tütmeye devam ederken Apple",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/03/apple-event-2018-iphone-300x300.jpg",
+    title:
+      "APPLE: “Bizim Neyimiz Eksik? Biz De Her Sektöre Maydanoz Olacağız!”",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/metro/halaylar-cekilsin-google-sistem-gereksinimlerini-elinin-tersiyle-iten-stadiayi-duyurdu/",
+    popularity: 15100,
+    publish_date: "1553040000",
+    source: "geekyapar.com",
+    teaser:
+      "Oyun geekleri için duruma göre harika olabilecek bir haber geldi! Google, kendi oyun platformunu duyurdu. Hakkında daha önceden de birtakım duyumlar bulunan ve şirketin daha öncesinde Project Stream olarak adlandırdığı Stadia, bulut tabanlı bir oyun servisi. Verilen bilgilere göre gücünü uzakta bir yerlerde bulunan dev bir sunucudan alacak olan bu platform sayesinde, herhangi bir konsol",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/03/stadia.0-300x300.jpg",
+    title:
+      "Halaylar Çekilsin: GOOGLE, Sistem Gereksinimlerini Elinin Tersiyle İten STADIA’yı Duyurdu!",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Aslı Özkeleş"],
+    link:
+      "https://geekyapar.com/metro/illustrasyonlari-bizzat-kendi-dunyalarinda-deneyimlemek-sanal-gerceklik-ile-pekala-mumkun/",
+    popularity: 28000,
+    publish_date: "1552953600",
+    source: "geekyapar.com",
+    teaser:
+      "İllüstrasyonlarla ilgili yazı serimizde nihayet son durağa geldik sevgili geekler. Önceki yazılarımda, işin biraz hikaye kısmını anlatıp sonra da teknik kısımlarına şöyle bir göz atmıştık hatırlarsanız. İllüstrasyon tekniklerinden bahsettiğim üçüncü yazımı ise bilgisayarların hayatımıza girmesi noktasında bırakmıştım. Yolculuğumuzun bu son durağında da, tarihin tozlu sayfalarını geride bırakıyoruz. Bir kere kağıt, kalem, fırça, boya, ahşap, metal",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/03/Dear-Angelica-300x300.jpg",
+    title:
+      "İllüstrasyonları Bizzat Kendi Dünyalarında Deneyimlemek, SANAL GERÇEKLİK İle Pekala Mümkün!",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Berna Ece Gündüz"],
+    link:
+      "https://geekyapar.com/metro/facebook-yine-bir-guvenlik-saldirisi-yasadi-e-ama-kacinci-sayin-zuckerberg/",
+    popularity: 21500,
+    publish_date: "1538179200",
+    source: "geekyapar.com",
+    teaser:
+      "Dün, 28 Eylül günü, dünyanın her yerindeki Facebook kullanıcıları bir çeşit problemle yüz yüze geldi. Bunlardan biri de sizseniz, dikkatli olmanız gerektiği konusunda sizinle hemfikir olduğumuzu başta bildirmek isteriz. Halihazırda giriş yapılmış olan birçok hesaptan ansızın çıkış yapıldı ve kimse bunun sebebine dair neler olduğunu anlamadı. Ancak kısa bir süre içerisinde ortaya çıktı ki, bu",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2018/09/669889770.jpg.0-e1538216192494-300x300.jpg",
+    title:
+      "FACEBOOK Yine Bir Güvenlik Saldırısı Yaşadı: E Ama Bu Kaçıncı SAYIN ZUCKERBERG?",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/film/simulasyon-icinde-yasamak-ya-da-yasamamak-gercek-otesi-cagin-geeki-olmak-uzerine/",
+    popularity: 6400,
+    publish_date: "1535673600",
+    source: "geekyapar.com",
+    teaser:
+      "Yazan: Dize Devrim Simülasyon kavramı 1980’lerde Jean Baudrillard sayesinde konuşulmaya ve tartışılmaya başlansa da özellikle 1990’lı yıllarda popüler kültürde kendine yer edinmeye başladı. Basitçe, gerçek hayattaki süreçlerin işlemsel olarak belli bir süre için taklit edilmesi olarak tanımlanabilen[*] bu kavram önce bazı filmlerde kendine yer bulmaya başladı. Kavramın kullanılışının erken örneklerini Tron (1982), The Lawnmower Man –",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2018/08/maxresdefault-5-300x300.jpg",
+    title:
+      "SİMÜLASYON İçinde Yaşamak Ya Da Yaşamamak: GERÇEK-ÖTESİ ÇAĞIN GEEKİ Olmak Üzerine",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/teknoloji/sanal-gercekligin-tum-hayatinizi-degistirmesine-sahiden-hazir-misiniz/",
+    popularity: 8500,
+    publish_date: "1534982400",
+    source: "geekyapar.com",
+    teaser:
+      "Yazan: Ecem Türkoğlu Sanal gerçeklik kavramı hayatımıza girmiş, oturmuş, ayaklarını uzatmış ve kendine bir çay söylemiş durumda. Şimdilik gitmeye pek niyeti yok. Bir çay daha söyler mi, çaydan sonra yemeğe de kalır mı ya da yatıya mı geldi, henüz bilmiyoruz. Elbette gelene git denmez. Ve bizler de evini cüceler bastığında kilerine hüzünle bakan Bilbo misali,",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2018/08/GettyImages-614736586-e1535031536925-300x300.jpg",
+    title:
+      "SANAL GERÇEKLİĞİN Hayatınızı Tümden Değiştirmesine -Sahiden- Hazır Mısınız?",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/teknoloji/siberpunk-ile-sanal-gerceklik-birlikteligi-onlarin-5-edebi-meyvesi/",
+    popularity: 8300,
+    publish_date: "1534809600",
+    source: "geekyapar.com",
+    teaser:
+      "Yazan: Ali Mert Gürbüz Sanal gerçeklik, 1980’lerde ilk örneklerini vermeye başlayan Siberpunk türü eserlerin hikaye örgüsünde mühim bir yer tutmaktadır. Bu türde verilen eserlerde genellikle birbirine zıt olmakla beraber, paralel olarak işleyen iki tür dünya tasvir edilir. Bunlardan ilki, karanlığa gömülmüş post-endüstriyel distopik kent manzaralarıyken, diğeri bu ‘gerçekliğin’ karşısına konumlandırılmış sanal dünyalardır. Güçlü küresel şirketlerin",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2018/08/alison-roberts-neuromancer-98-1523084124-e1534871446934-300x300.jpg",
+    title:
+      "SİBERPUNK İle SANAL GERÇEKLİK Birlikteliği Ve Onların 5 Edebi Meyvesi!",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/teknoloji/sanal-gerceklik-sektoru-hakkinda-bilmeniz-gereken-her-sey/",
+    popularity: 24300,
+    publish_date: "1533427200",
+    source: "geekyapar.com",
+    teaser:
+      "Yazan: İlter Bilgüven Merhaba, sanal gerçekliğin bugününü ve yarınını bir oyun geliştiricisi ve oyuncunun gözünden okumak üzeresiniz. Nedir bu sanal gerçeklik? Sanal gerçeklik, sizi tamamen sanal bir ortamın içine sokuyor ve sanal objelerle etkileşime girmenizi sağlıyor. Bunun için gereken temel şey bir adet sanal gerçeklik kaskı. Etkileşim için şu anda ideali iki adet sanal gerçeklik kontrolcüsü",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2018/08/Feature_Vive-Pro-e1533471622728-300x300.png",
+    title: "SANAL GERÇEKLİK Sektörü Hakkında Bilmeniz Gereken Her Şey!",
+    topics: [
+      "türkçe",
+      "teknoloji"
+    ],
+  },
+  {
+    authors: ["Carmin Olivier"],
+    link:
+      "https://www.articlealley.net/news/credit-card-advantages-and-disadvantages-12053",
+    popularity: 11100,
+    publish_date: "1576368000",
+    source: "articlealley.net",
+    teaser:
+      "A credit card can be an asset to your lifestyle, but if not handled carefully it can become a liability, especially if you find it so convenient and easy to use that you lose control of your spending.",
+    thumbnail:
+      "https://www.articlealley.net/upload/media/entries/2019-09/25/12053-0-92e3cbbdf13cd4b1ade2ec40f12643d2.jpg",
+    title: "Credit card - Advantages and disadvantages ",
+    topics: [
+      "english",
+      "news",
+      "finance"
+    ],
+  },
+  {
+    authors: ["Anthony Malibu"],
+    link:
+      "https://www.articlealley.net/news/how-to-win-back-your-boyfriend-from-a-guys-perspective-185",
+    popularity: 71,
+    publish_date: "1552608000",
+    source: "articlealley.net",
+    teaser:
+      "You can find thousands of articles on winning back your boyfriend, but none of them like this one. Only by knowing how the male mind works will be you able to understand exactly what your ex is going through post-break up. Read on and find out how to make your ex want you back, written entirely from a mans perspective.",
+    thumbnail:
+      "https://www.articlealley.net/upload/media/entries/2019-09/25/12053-0-92e3cbbdf13cd4b1ade2ec40f12643d2.jpg",
+    title: "How To Win Back Your Boyfriend - From a Guys Perspective",
+    topics: [
+      "english",
+      "news",
+      "dating"
+    ],
+  },
+  {
+    authors: ["Emre Ordu"],
+    link:
+      "https://onedio.com/haber/gezi-davasi-ali-ismail-korkmaz-cinayeti-hukumlusu-magdur-olarak-dahil-edildi-892781",
+    popularity: 1500,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "1'i tutuklu 6'sı firari 16 sanıklı Gezi Davası'nda beşinci duruşma görüldü. AİHM'nin hak ihlali kararına rağmen Osman Kavala'ya tahliye verilmedi. Ayrıca Ali İsmail Korkmaz cinayetinde hüküm giyen polis memuru Mevlüt Saldoğan'ın \"mağdur\" sıfatıyla davaya katılım talebi mahkemece kabul edildi.",
+    thumbnail:
+      "https://img-s2.onedio.com/id-5e025d9d03a97a7b6c82999f/rev-0/w-635/listing/f-jpg-webp/s-4ea8fd4d66c99bfc7479df0e0e44f972d8246090.webp",
+    title:
+      "Gezi Davası: Ali İsmail Korkmaz Cinayeti Hükümlüsü, 'Mağdur' Olarak Dahil Edildi",
+    topics: [
+      "türkçe",
+      "haberler",
+      "gündem",
+      "siyasi"
+    ],
+  },
+  {
+    authors: ["Nihat Bilge"],
+    link:
+      "https://onedio.com/haber/adalar-kaymakamligi-oldurulen-atlarin-sahipleri-hakkinda-suc-duyurusunda-bulundu-892770",
+    popularity: 3100,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      'Adalar Kaymakamlığı, ruam hastalığı nedeniyle itlaf edilen 105 atın sahibi 64 kişi hakkında "insan, hayvan ve çevre sağlığını tehlikeye attıkları" gerekçesiyle Adalar Cumhuriyet Başsavcılığı\'na suç duyurusunda bulundu.',
+    thumbnail:
+      "https://img-s2.onedio.com/id-5dfb41144aa31f5d2251d323/rev-0/w-635/listing/f-jpg-webp/s-386f1100f769d96ab518ff160d7385f50b41fab6.webp",
+    title:
+      "Adalar Kaymakamlığı Öldürülen Atların Sahipleri Hakkında Suç Duyurusunda Bulundu",
+    topics: [
+      "türkçe",
+      "haberler",
+      "gündem"
+    ],
+  },
+  {
+    authors: ["Emre Ordu"],
+    link:
+      "https://onedio.com/haber/savci-uluslararasi-hukuka-aykiri-dedi-trump-in-mektup-nedeniyle-yargilanmasi-talebine-takipsizlik-892767",
+    popularity: 5300,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "İstanbul Cumhuriyet Başsavcılığı, Cumhurbaşkanı Erdoğan'a yönelik hakaret içerikli mektubu nedeniyle ABD Başkanı Donald Trump'a soruşturma açılması talebini karara bağladı.",
+    thumbnail:
+      "https://img-s1.onedio.com/id-5e0220e2700e53fd527c56aa/rev-0/w-635/listing/f-jpg-webp/s-b86a3bbab21bd4e81f717b887074e5738dd23cee.webp",
+    title:
+      "Savcı 'Uluslararası Hukuka Aykırı' Dedi: Trump'ın Mektup Nedeniyle Yargılanması Talebine Takipsizlik",
+    topics: [
+      "türkçe",
+      "haberler",
+      "gündem",
+      "siyasi"
+    ],
+  },
+  {
+    authors: ["Yasin Arslan"],
+    link:
+      "https://onedio.com/haber/bosanma-asamasindaki-esini-silahla-yaralayan-saldirgan-yol-kenarinda-olu-bulundu-892759",
+    popularity: 19000,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "Kağıthane'de boşanma aşamasındaki eşiyle barışmak için iş yerine gelen Yusuf E., barışma teklifini kabul etmeyen eşine kurşun yağdırdı. Vücuduna üç kurşun isabet eden Öznur E. kanlar içinde yere yığılırken saldırıyı gerçekleştirip, olay yerinden kaçan Yusuf E.  yol boyunda ölü olarak bulundu.",
+    thumbnail:
+      "https://img-s1.onedio.com/id-5e0220a11c9536d953612d2c/rev-0/w-635/f-jpg-webp/s-e5d1a74df06ff9c25b3ed78df34a034d8247d116.webp",
+    title:
+      "Boşanma Aşamasındaki Eşini Silahla Yaralayan Saldırgan, Yol Kenarında Ölü Bulundu",
+    topics: [
+      "türkçe",
+      "haberler",
+      "gündem"
+    ],
+  },
+  {
+    authors: ["Emre Ordu"],
+    link:
+      "https://onedio.com/haber/ceren-ozdemir-in-katil-zanlisina-akil-sagligi-yerinde-raporu-892754",
+    popularity: 12000,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "Ordu'da üniversite öğrencisi Ceren Özdemir'i bıçaklayarak öldüren Özgür Arduç, Elazığ Ruh ve Sinir Hastalıkları Hastanesi'nde muayene edildi. Arduç'a, 'Akıl sağlığı tam' raporu verildi.",
+    thumbnail:
+      "https://img-s2.onedio.com/id-5e021cbcef6cc8da5dbe80ad/rev-0/w-635/listing/f-jpg-webp/s-a1b6f7d2e112f9c95ab0436b40f07a429a0608ee.webp",
+    title: "Ceren Özdemir'in Katil Zanlısına 'Akıl Sağlığı Yerinde' Raporu",
+    topics: [
+      "türkçe",
+      "haberler",
+      "gündem"
+    ],
+  },
+  {
+    authors: ["Ulaş Demircan"],
+    link:
+      "https://onedio.com/haber/ceren-ozdemir-in-katil-zanlisina-akil-sagligi-yerinde-raporu-892754",
+    popularity: 6000,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "Adana'da etkili olan sağanak yağış hayatı olumsuz etkiledi. Şehrin bazı bölgelerinde yağışın etkisiyle sel oluştu. Yağmur sularına kapılan bir çocuk ise çevredekilerin desteğiyle boğulmadan kurtarıldı.",
+    thumbnail:
+      "https://img-s1.onedio.com/id-5e02021da7d6bacf5488e5f2/rev-0/w-635/listing/f-jpg-webp/s-bea2de238ce9d1b3ede9a7befd0159a6e361de8e.webp",
+    title:
+      "Çevredekiler Seferber Oldu: Adana'da Sel Sularına Kapılan 8 Yaşındaki Çocuk Kurtarıldı",
+    topics: [
+      "türkçe",
+      "haberler",
+      "gündem"
+    ],
+  },
+  {
+    authors: ["Emre Şalı"],
+    link:
+      "https://onedio.com/haber/yilin-son-derbisi-fenerbahce-nin-fenerbahce-besiktas-macinda-yasananlar-ve-tepkiler-892587",
+    popularity: 32000,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "Türk futbolunun iki asırlık çınarı Fenerbahçe ile Beşiktaş, Kadıköy’de 350. kez kozlarını paylaştı. Süper Lig’de 2019 yılının son derbisi olma özelliğini taşıyan mücadeleyi sarı lacivertliler 3-1 kazandı.",
+    thumbnail:
+      "https://img-s1.onedio.com/id-5dffa095547cdf8d7d6f2354/rev-0/w-635/f-jpg-webp/s-f050f56f67d8da2e22a710bd5a3506c8ff3ecd89.webp",
+    title:
+      "Yılın Son Derbisi Fenerbahçe'nin! Fenerbahçe-Beşiktaş Maçında Yaşananlar ve Tepkiler",
+    topics: [
+      "türkçe",
+      "haberler",
+      "spor",
+      "futbol"
+    ],
+  },
+  {
+    authors: ["Emre Ordu"],
+    link:
+      "https://onedio.com/haber/uefa-asker-selami-nedeniyle-milli-takima-50-bin-euro-ceza-kesti-892507",
+    popularity: 9400,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "UEFA, 2020 Avrupa Futbol Şampiyonası Elemeleri'nde asker selamı veren milli oyunculara kınama ve Türkiye Futbol Federasyonu'na 50 bin euro para cezası verdiğini duyurdu.",
+    thumbnail:
+      "https://img-s2.onedio.com/id-5dfd28b5375cd40a21ce1a91/rev-0/w-635/listing/f-jpg-webp/s-2e8430eafccd587ed62a6ca1fc5cb9d4365e0447.webp",
+    title: "UEFA Asker Selamı Nedeniyle Milli Takıma 50 Bin Euro Ceza Kesti",
+    topics: [
+      "türkçe",
+      "haberler",
+      "spor",
+      "futbol"
+    ],
+  },
+  {
+    authors: ["Deniz Gök"],
+    link:
+      "https://onedio.com/haber/mesut-ozil-in-dogu-turkistan-paylasimi-cin-i-kizdirdi-devlet-televizyonu-arsenal-macini-yayindan-kaldirdi-892001",
+    popularity: 15600,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "Çin devlet televizyonu CCTV, Arsenal-Manchester City arasındaki Premier lig maçını Mesut Özil'in Çin'i eleştiren 'Uygur Türkleri' paylaşımı nedeniyle iptal etti.",
+    thumbnail:
+      "https://img-s1.onedio.com/id-5df658b07d3e73fa44c821f4/rev-0/w-635/listing/f-jpg-webp/s-f37fad652214f3a45f02ccc6d3ff7c48709b70ad.webp",
+    title:
+      "Mesut Özil'in 'Doğu Türkistan' Paylaşımı Çin'i Kızdırdı: Devlet Televizyonu Arsenal Maçını Yayından Kaldırdı",
+    topics: [
+      "türkçe",
+      "haberler",
+      "spor",
+      "futbol"
+    ],
+  },
+  {
+    authors: ["Ece"],
+    link:
+      "https://onedio.com/haber/bu-kadar-kolay-her-gun-20-dakikanizi-ayirarak-fit-bacaklara-sahip-olmak-icin-yapmaniz-gereken-10-egzersiz-892296",
+    popularity: 19400,
+    publish_date: "1577145600",
+    source: "onedio.com",
+    teaser:
+      "Sütun gibi bacaklara sahip olmak birçoğumuzun hoşuna gidiyor... Peki sadece egzersiz yoluyla nasıl bu bacaklara sahip olacağınızı biliyor musunuz?",
+    thumbnail:
+      "https://img-s2.onedio.com/id-5dfa2b4c8a2c6bc827b54d65/rev-0/w-635/f-jpg-webp/s-9959ec92d066d0d574c46b3c07458443707cbfb6.webp",
+    title:
+      "Bu Kadar Kolay! Her Gün 20 Dakikanızı Ayırarak Fit Bacaklara Sahip Olmak İçin Yapmanız Gereken 10 Egzersiz",
+    topics: [
+      "türkçe",
+      "haberler",
+      "spor"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/dizi/the-witcher-dorduncu-bolum-spoilerli-inceleme-guzel-cirkin/",
+    popularity: 18200,
+    publish_date: "1577145600",
+    source: "geekyapar.com",
+    teaser:
+      "The Witcher dizisinin birinci sezonunda herhalde en sevilen bölümlerinden birine geldik. Şölenler, Piçler ve Cenazeler isminin verildiği dördüncü bölüm, kitaptaki en popüler hikâyelerden birini barındırıyor ve Geralt ile Cirilla’nın bağını açıklıyor. Üçüncü bölümü, Cirilla’nın ormanın içinden gelen gaipten sesler duyması ve ormana doğru, Dara’ya aldırmadan koşmasıyla kapatmıştık. Bu bölümü, aynı yerden açıyoruz. Ciri ormana doğru gittikçe,",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/duny-500x500-300x300.png",
+    title: "THE WITCHER Dördüncü Bölüm SPOILERLI İnceleme – GÜZEL ve ÇİRKİN",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/dizi/the-witcher-ucuncu-bolum-spoilerli-inceleme-aceleci-kararlar/",
+    popularity: 15800,
+    publish_date: "1577059200",
+    source: "geekyapar.com",
+    teaser:
+      "Netflix’in The Witcher dizisinin ardından bölümleri konuşmaya, üçüncü bölümle devam ediyoruz. The Witcher’ı dünyaya tanıtan hikâyenin uyarlandığı bu bölüme, Hain Dolunay ismini vermişler. Bölümü Geralt’ın bir fahişe ile birlikte olduğu yatakta açıyoruz, buradaki konuşmalar doğrudan kitaptan –fakat başka bir yerden- alınmış. Ne ifade eder sizin için bilmiyorum tabii bu bilgi. Sonrasında fahişe kendisine madencileri yiyen bir",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/yennefer-witcher-p-300x300.png",
+    title: "THE WITCHER Üçüncü Bölüm SPOILERLI İnceleme – ACELECİ KARARLAR",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/dizi/the-witcher-ikinci-bolum-spoilerli-inceleme-saygi-tarih-yazmaz/",
+    popularity: 16200,
+    publish_date: "1576886400",
+    source: "geekyapar.com",
+    teaser:
+      "Netflix’in The Witcher uyarlamasının ikinci bölümünü izlemiş olanlar, ilk bölüm incelemesini de okuduysanız, sizi hız kesmeden bu yazıya davet ediyoruz. İlk bölüm, açık ara benim diziden beklentilerimi fazlasıyla karşılayan bir bölümdü, bu yüzden ikinci bölümü de ayrıca bir heves ve biraz daha yükselmiş beklentilerle seyrettim diyebilirim. Alakasız iki karakterin oynaşmasıyla açılan bölümde, ilk bölümde eksikliğini",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/jaskier-500x500-300x300.png",
+    title: "THE WITCHER İkinci Bölüm SPOILERLI İnceleme – SAYGI, TARİH YAZMAZ!",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/dizi/the-witcher-ilk-bolum-spoilerli-inceleme-pamuk-prenses/",
+    popularity: 20700,
+    publish_date: "1576886400",
+    source: "geekyapar.com",
+    teaser:
+      "Netflix’in The Witcher uyarlaması, bu sabah, ülkemiz saatiyle 11.00’da izleyiciyle buluştu. Sekiz bölümü yerimden kalkmadan seyrettikten sonra ben de, beş dakikalık kısa bir molanın ardından, incelemenin başına oturdum. Tabii sekiz bölüm bir arada çıktığı için, bunların hepsini tek yazıda toplamak demek –hele de yazan kişinin ben olduğum gerçeği düşünülürse- on bin kelime falan demek olacaktı.",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/renfri-500-x-500-300x300.png",
+    title: "THE WITCHER İlk Bölüm SPOILERLI İnceleme – PAMUK PRENSES",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Furkan Akyüz"],
+    link:
+      "https://geekyapar.com/konular/dizi/better-call-saullun-bize-ogrettigi-5-hayat-dersi/",
+    popularity: 13600,
+    publish_date: "1576540800",
+    source: "geekyapar.com",
+    teaser:
+      "En son yayınlanan sezonunu izlemeyi yeni bitirdiğim Better Call Saul, beni, hem izleyecek bölüm kalmadığı için bir miktar üzüyor hem de tüm bölümleri izlediğim için, kafamda daha olgun düşünceler oluşmasına sebep oluyor. Bu yazıda bahsedeceğim şeyler, kafamdaki düşüncelerin sonucunda Better Call Saul’un bana öğrettiğini düşündüğüm bazı hayat derslerini içeriyor. Bazıları diyorum çünkü bazılarını hâlâ netleştiremedim, sadece",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/saul-500x500-300x300.png",
+    title: "BETTER CALL SAUL’un Bize Öğrettiği 5 Hayat Dersi!",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/dizi/the-witcher-hype-treni-16-neler-degisecek/",
+    popularity: 16700,
+    publish_date: "1576454400",
+    source: "geekyapar.com",
+    teaser:
+      "Ceádmil evellienn! Kompartıman kapılarımız son kez kapanıyor, The Witcher Hype Treni’miz son durağına doğru, son kez harekete geçiyor! Bana da bu son yazının hakkını vermek düşsün, dizinin olay örgüsü hakkında, Witcher’ı daha önce bilen veya bilmeyen herkes için genel bir toparlama yapayım dedim. Uyarı: Okuyacak olduğunuz yazıda serinin kitapları ve oyunlarıyla ilgili ufak çaplı spoilerlar",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/witcher-netflix-poster-500-x-500-300x300.png",
+    title: "THE WITCHER Hype Treni #16: Neler Değişecek?",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/dizi/american-gods-dizisinin-sorumlularindan-skandal-karar-mr-nancy-diziden-kovuldu/",
+    popularity: 22100,
+    publish_date: "1576454400",
+    source: "geekyapar.com",
+    teaser:
+      "Bir pazar gününden beklentileriniz vardır. Mesela geç saatlere kadar huzurla uyumak, ailenizle veya arkadaşlarınızla güzelce kahvaltı etmek istersiniz. Ayrıca sabah komşunuzun matkap sesiyle uyanmamayı ya da elektriklerin, sırf size inat bütün gün kesik olmamasını umarsınız. Öte yandan bir de hiç beklemediğiniz olaylar vardır. Ne bileyim, kötü bir haber alırsınız ve bütün gününüz zehir olur. Hah,",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/68A805B4-3C60-40DB-90CE-76BC1F13F44E-300x300.jpeg",
+    title:
+      "American Gods Dizisinin Sorumlularından SKANDAL Karar: Mr. Nancy, Diziden KOVULDU!",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Ruken Barış"],
+    link:
+      "https://geekyapar.com/konular/dizi/yeni-yilin-ilk-gunu-kan-emmeye-cikiyoruz-dracula-dizisi-kapida/",
+    popularity: 4200,
+    publish_date: "1576281600",
+    source: "geekyapar.com",
+    teaser:
+      "Bram Stoker‘ın klasik ve popüler kültüre fazlasıyla mal olmuş romanından uyarlanan Dracula‘nın fragmanı çıktı. (Zaten ne Frankenstein‘ı ne de Dracula‘yı okuyan pek kişi yok, ama garip bir biçimde acayip ünlenmiş işler bunlar.) Aslında fragman demeye de dilim varmıyor, elli saniyelik bir video ancak dizinin tadı ve tonu konusunda yeterli seviyede bilgi veriyor. Şimdiden bolca kan, tahta",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/dracula-1-300x300.jpg",
+    title: "Yeni Yılın İlk Günü Kan Emmeye Çıkıyoruz: DRACULA DİZİSİ KAPIDA!",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/dizi/yazi-cagrisi-beklenmedik-yerden-iliski-dersi-veren-dizi-mindhunter/",
+    popularity: 2900,
+    publish_date: "1576108800",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Zeynep Gülbanu Esen Bir diziden ilişkiler üzerine bir çıkarım yapılacak olsa büyük ihtimalle bu dizi ya bir aile draması ya da bir aşk dizisi olurdu. Kesinlikle konusu, ‘seri katil psikolojisini araştıran iki FBI ajanının suç biliminde yeni ufuklar açması’ olan bir dizi olmazdı. Tabii bu dizi Mindhunter değilse… Çünkü Mindhunter izleyiciye sadece seri katiller,",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/Mindhunter-500x500-300x300.png",
+    title:
+      "[YAZI ÇAĞRISI] Beklenmedik Yerden İLİŞKİ Dersi Veren Dizi: MINDHUNTER",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/metro/the-witcher-dan-son-tanitim-filmi-geldi/",
+    popularity: 16800,
+    publish_date: "1576108800",
+    source: "geekyapar.com",
+    teaser:
+      "The Witcher dizisinin çıkmasına sekiz gün kala, Netflix beklenildiği gibi son bir tanıtım filmi yayınladı. Bu son tanıtımların amacı genelde hedef kitleyi son bir heyecanlandırmak ve şimdiye kadar çekemediğimiz insanlar varsa, üç-beş gaz sahne koyup, onların da ilgisini çekelim düşüncesi olduğu için, üzerime çok alınmadım açıkçası. Tanıtım filmini konuşmadan önce izlemeyenlerinizi aşağıya alalım: Bir önceki",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/geralt-cavill-500x500-300x300.png",
+    title:
+      "The Witcher İçin SON TANITIM FİLMİ Geldi; Bakın Şimdi, Önce KESİYOR Sonra Da YAPIŞTIRIYORUZ!",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/dizi/the-witcher-hype-treni-15-vilgefortz/",
+    popularity: 5200,
+    publish_date: "1575849600",
+    source: "geekyapar.com",
+    teaser:
+      "The Witcher Hype Treni’nde on beşinci haftaya ulaşmış bulunmaktayız! Ne yalan söyleyeyim, eylül ayında trene ilk adımı attığım zaman, kasımda yolculuğumuz sonlanacak gibi düşünüyordum. Bunun en büyük sebebi, 17 Kasım olarak sızdırılan yayın tarihiydi, doğru çıkmadı, kandırıldık! Neyse ki bazılarımız için kandırılmak genel bir alışkanlıktı da gözyaşlarımızı silip yolumuza devam etmeyi başardık. Hype Treni’nin son",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/vilgefortz-500x500-300x300.png",
+    title: "THE WITCHER Hype Treni #15: VILGEFORTZ",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/dizi/gecen-senenin-surpriz-ati-the-boys-gelecek-senenin-de-tahtina-aday-karsinizda-the-boys-ikinci-sezon-fragmani/",
+    popularity: 25500,
+    publish_date: "1575590400",
+    source: "geekyapar.com",
+    teaser:
+      "2019 yılı hem diziler hem filmler hem de oyunlar açısından tam bir sürpriz atların yılı oldu. Büyük heyecanla beklediğimiz diziler, filmler bizi hayal kırıklığına uğratırken bir anda karşımıza çıkan ve yapımından bile bihaber olduğumuz yapımlar, bizi kendilerine hayran ettiler. Sanırım buna en büyük örnek olarak The Boys’u verirsem kimsenin tepkisini çekmiş olmam. Alan Moore’un 1986",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/9368044A-8FFB-4D79-8101-2151AC090FB7-300x300.jpeg",
+    title:
+      "Geçen Senenin Sürpriz Atı The Boys Gelecek Senenin de Tahtına Aday: Karşınızda THE BOYS İKİNCİ SEZON FRAGMANI!",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/dizi/yazi-cagrisi-penny-dreadfuldan-sasifelek-cikmazina-dort-farkli-diziden-cikartabileceginiz-dort-farkli-hayat-dersi/",
+    popularity: 1900,
+    publish_date: "1575504000",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Bilal Alevli Bugün klavyenin karşısına oturdum ve sizlere izlediğim birkaç diziden bahsetmek istedim. Öncelikle şunu söyleyeyim, bu dizilerin dünyanın en iyi dizileri oldukları gibi bir iddiam yok. Ama içlerinden birçok iyi hayat dersi çıkarılacağından eminim. Ben hepsini izledikten sonra bir kişilik daha kazandım, dünyama bir pencere daha ekledim. Belki sizin de dünyanıza bir pencere eklerler.",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/penny-dreadful-creature-500x500-300x300.png",
+    title:
+      "[YAZI ÇAĞRISI] Penny Dreadful’dan ŞAŞIFELEK ÇIKMAZI’na, Dört Farklı Diziden Çıkartabileceğiniz DÖRT Farklı Hayat Dersi",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link: "https://geekyapar.com/metro/the-witcher-hype-treni-14-yeni-harita/",
+    popularity: 29900,
+    publish_date: "1575244800",
+    source: "geekyapar.com",
+    teaser:
+      "Witcher dizisinin yayınlanmasına tam olarak on sekiz gün kaldı! Bu süreçte devam eden bir ambargo var, zaman da az olduğu için önümüze yeni bir şey de çok gelmiyor. Ancak bu demek değil ki Hype Treni duracak, sessizce bir gara çekilecek! Kimdir temalı yazılara devam edemiyoruz çünkü ana üçlü ve kalan karakterler hakkında zaten bilmediğiniz ne",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/witcher-netflix-map-724x724-300x300.png",
+    title: "THE WITCHER Hype Treni #14: YENİ HARİTA",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link: "https://geekyapar.com/metro/the-witcher-hype-treni-13-cahir-kimdir/",
+    popularity: 8100,
+    publish_date: "1574640000",
+    source: "geekyapar.com",
+    teaser:
+      "The Witcher dizisinin yayınlanmasına bir aydan daha kısa bir süre kaldı. Biz de öte yandan birkaç aydır diziye doğru yol almakta olan bir trenin içerisinde, dizide karşılaşacaklarımızla ilgili konuşarak vakit geçiriyoruz. Kıta haritasında şöyle bir tur attık; Cintra’ya, Brokilon’a, Temerya’ya uğradık, Kovir ve Povis’e de giderek Kuzey’i dolaşmış olduk. Yetinmedik, uğramış olduğumuz duraklarda, belirli karakterleri",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/cahir-witcher-netflix-500x500-300x300.png",
+    title: "THE WITCHER Hype Treni #13: CAHIR Kimdir?",
+    topics: [
+      "türkçe",
+      "dizi"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/kendinize-mukayyet-olun-martta-dunyaya-uzay-istasyonu-dusecek/",
+    popularity: 18100,
+    publish_date: "1514851200",
+    source: "geekyapar.com",
+    teaser:
+      "Sizi temin ederim ki başlıkta geçen cümlenin hiçbir kelimesinde şaka yok. 29 Eylül 2011 tarihinde Çin Halk Cumhuriyeti’nin Gobi Çölü‘nden fırlattığı Tiangong-1 prototip uzay istasyonu Mart ayında Dünya’ya düşecek. Biliminsanları düşüşün 43′ Kuzey ve 43′ Güney paralelleri arasında bir yere düşeceğini biliyorlar; fakat kaotik koşullardan dolayı tam olarak nereye düşeceğini de tahmin edemiyorlar. İşin fenası, uzay istasyonu atmosfere tekrar",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2018/01/Tiangong-1-e1514897160678-300x300.jpg",
+    title: "Kendinize Mukayyet Olun, Mart’ta Dünyaya UZAY İSTASYONU Düşecek",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/dev-finans-sirketi-konustu-2030a-kadar-uzay-sektoru-trilyon-dolarlari-gorecek/",
+    popularity: 4600,
+    publish_date: "1509494400",
+    source: "geekyapar.com",
+    teaser:
+      "Uzay bir tür olarak kafamızı kullanmaya başladığımızdan beri bizim merakımızı cezbediyor. Yıldızlara bakıyoruz, yıldızlar bize bakıyor; ayı romantize ediyoruz ve ötesinde yatanlar merak uyandırıyor. Ama onu keşif konusundaki tarihimiz çok yeni ve çok kısıtlı. Sovyetler Birliği ve Birleşik Devletler birbirleriyle sidik yarıştırırken ciddi atılımlar yaptık bu alanda. Sonra politikacıların hevesi kaçınca, uzay bilimi ve bununla ilgili gelişmelerin",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2015/05/Space_walk-300x300.jpg",
+    title:
+      "Dev Finans Şirketi Konuştu: 2040’a Kadar Uzay Sektörü TRİLYON DOLARLARI Görecek!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/nasanin-muhtesem-ikiz-arastirmasinda-yeni-sonuclar-var/",
+    popularity: 12100,
+    publish_date: "1509062400",
+    source: "geekyapar.com",
+    teaser:
+      "Şimdi yazımızın devamına girmeden önce biraz kompleks biyolojik bir terimi açıklamamız lazım. Hazır mısınız? Konumuz gen ifadesi. Ülkemizde yasaklı olan özgür ansiklopedi Vikipedi’nin bu karmaşık konuya istinaden koyduğu giriş paragrafı şu: “Gen ifadesi ya da Gen ekspresyonu, DNA dizisi olan genlerin, fonksiyonel protein yapılarına dönüşmesi süreci için kullanılan bir terimdir. Basitçe, bu durum genlerin açık (aktif) olup olmadıkları olarak da tanımlanabilir.” Genetik biliminde,",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2017/10/twins-e1509124408780-300x300.jpg",
+    title:
+      "NASA’nın Muhteşem İkiz Araştırmasında Yeni Sonuçlar: UZAYDA GEN İFADELERİMİZ DEĞİŞİYOR!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/hadi-su-videoyu-izleyelim-bardaklarimizi-cassini-icin-kaldiralim-aksam/",
+    popularity: 19700,
+    publish_date: "1505433600",
+    source: "geekyapar.com",
+    teaser:
+      "“Burada, bilinmezin mucizeleri içinde durdukça, doğamızla ilgili kökten bir gerçeğin varlığını fark ediyorum. İnsan keşfetmeli.” Bu sözler, Ay yüzeyinde yürüyen yedinci insan olan Dave Scott tarafından, Apollo 15 görevi esnasında, 1971 senesinde dile getirildi. O günden bugüne de, aynı o günden öncesinde olduğu gibi, hiçbir şey değişmedi. İnsan keşfetmek için yaratılmış, keşfederek yaşayan, keşfettikçe büyüyen ve",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2017/09/saturn-cassini-e1505483166362-300x300.jpg",
+    title:
+      "Hadi, Şu Videoyu İzleyelim Ve Bardaklarımızı CASSINI İçin Kaldıralım Bu Akşam!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/spacex-uzay-seyahatinde-sessiz-sedasiz-mega-bir-devrim-yapti-muthis/",
+    popularity: 24900,
+    publish_date: "1490918400",
+    source: "geekyapar.com",
+    teaser:
+      "Uzay seyahatinin, uzay keşiflerinin hepimizin ağzını sulandırıyor olmasının bir sebebi var. Gördüğümüzün arkasında yatanları öğrenmek, çok insani bir tutku. Üstelik bunun da ötesinde bir mecburiyetten de söz etmek mümkün. Kaynaklarımızın sınırlı olduğunu, bir noktada üzerinde yaşadığımız gezegenin öyle ya da böyle bir son kullanma tarihine toslayacağını biliyoruz. O tarih geldiğinde, uzay hakkında ne kadar çok şey biliyorsak, o",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2017/03/Falcon-9-Relaunch-e1490953936687-300x300.jpg",
+    title:
+      "SPACEX Uzay Seyahatinde Sessiz Sedasız MEGA Bir Devrim Yaptı, Müthiş!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/geekyapmis/bir-forum-dunya-duzdur-lafiyla-150-mesajda-nasil-cigirindan-cikar-iste-soyle/",
+    popularity: 1700,
+    publish_date: "1490054400",
+    source: "geekyapar.com",
+    teaser:
+      "Geçen bir yazı paylaştık, Shaquille O’Neal‘in bir podcast’te verdiği “dünya düzdür arkadaşlar ben Florida’dan Kansas’a gittim hiç kavis olmadı” beyanının üzerine. Ne kadar karışık bir kafa dedik, acaba dedik, hani bireyin kendi kafasının içinde irrasyonel olma hakkı var, ama o irrasyonelliği başkalarına yayması hak mıdır hukuk mudur; ne zaman müdahale edilmelidir diye sorguladık. Biz bunları konuşurken,",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2017/03/Flat-Earth-e1490090371157-300x300.jpg",
+    title:
+      "Bir Forum “DÜNYA DÜZDÜR” Lafıyla 150 Mesajda Nasıl Çığırından Çıkar? İşte Şöyle!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/ultracool-kuzenimiz-trappist-1dan-haberler-var-gelin-anlatalim/",
+    popularity: 4400,
+    publish_date: "1489622400",
+    source: "geekyapar.com",
+    teaser:
+      "Hatırlayacaksınız, geçtiğimiz haftalarda NASA’nın muhteşem keyifli bir duyurusunu konuşmuştuk sizlerle. Biliminsanlarının felaket hayal gücünden yoksun bir şekilde TRAPPIST-1 olarak adlandırdığı ultracool bir cüce yıldız ve onun etrafında dönen yedi gezegeninin, değer olarak bizim dünyamıza epey yakın aralıklarda durduğunu duyurmalarıyla birlikte, bizim beynimiz alev almaya başladı elbette. Ne vardı orada? Nasıldı gezegen yüzeyi? Canlılar var mıydı? Bu sorular sadece",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2017/03/Trappist-1-e1489656183284-300x300.jpg",
+    title: "ULTRACOOL Kuzenimiz TRAPPIST-1’dan Haberler Var, Gelin Anlatalım!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/39-isik-yili-uzakta-ultracool-bir-cuce-yildiz-saz-arkadaslari-dunya-disi-yasam-barindiriyor-olabilir/",
+    popularity: 15000,
+    publish_date: "1487721600",
+    source: "geekyapar.com",
+    teaser:
+      "Uzay bilimcilerin Goldilocks bölgesi dediği bir aralık var. Ne çok sıcak, ne çok soğuk. Oksijeni var, ve havası solunabilir. Kendi yıldızına ne çok uzak, ne de çok yakın. İçerisinde sıvı oluşmasına, yaşam oluşmasına müsaade edecek mükemmel aralıkta duran gezegenler. NASA bir süredir, farklı yöntemlerle bu gezegenlerden arıyor. Biz fiziksel olarak en fazla kendi güneş sistemimizin",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2017/02/TRAPPIST-1-e1487790175457-300x300.jpg",
+    title:
+      "39 Işık Yılı Uzakta, ULTRACOOL Bir Cüce Yıldız Ve Saz Arkadaşları Dünya-Dışı Yaşam Barındırıyor Olabilir!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/nasanin-muhtesem-ikiz-deneyi-ilk-meyvelerini-verdi-bulgular-enteresan/",
+    popularity: 14200,
+    publish_date: "1485907200",
+    source: "geekyapar.com",
+    teaser:
+      "Hafızası kuvvetli okurlarımız anımsayacaklardır, bir süre önce NASA’nın çok enteresan bir deney üzerinde olduğunu paylaşmıştık sizlerle. Dünyanın en büyük uzay araştırmaları kurumu, elinde muhteşem bir denek grubu olduğunu fark etmiş ve bunun üzerinden uzayda yaşamanın insanın genetik yapısı üzerinde yaşatabileceği değişiklikleri araştırmaya konulmuştu. Ellerindeki bulunmaz kaynak şuydu: Hayat hikayeleri de felaket paralel gitmiş, ikisi de",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2017/02/twin-study-nasa-1-e1485982580890-300x300.jpg",
+    title:
+      "NASA’nın Muhteşem İkiz Deneyi İlk Meyvelerini Verdi, Bulgular Enteresan!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/omrumuz-bitmeden-yerlesebilecegimiz-dunyamsi-bir-gezegen-bulundu-gelin-tanistiralim/",
+    popularity: 12100,
+    publish_date: "1471219200",
+    source: "geekyapar.com",
+    teaser:
+      "NASA ve minvali uzay kuruluşlarının asıl amaçlarından biri insanların yaşayabilecekleri yeni gezegenleri aramak. Bir yandan uzay hakkında bilgi toplamaya çalışıyorlar, bir yandan uzaya adam yollamayı deniyorlar, bir yandan uzaylı arıyorlar; evet. Ama yaptıkları şeyler arasında belki de bizim geleceğimizi en etkileyecek olan şey başka bir gezegen aramak. İnsanlar olarak biraz seçici canlılarız. Her gezegende yaşayamıyoruz.",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2016/08/Gliese_667_Cc_sunset-700x432-e1471253327404-300x300.jpg",
+    title:
+      "Ömrümüz Bitmeden YERLEŞEBİLECEĞİMİZ Dünyamsı Bir Gezegen Bulundu, Gelin Tanıştıralım",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link: "https://geekyapar.com/konular/uzay/niku-neptun-ters-donus/",
+    popularity: 21900,
+    publish_date: "1470873600",
+    source: "geekyapar.com",
+    teaser:
+      "Gezegenler, oluşma sebepleri ve süreçleri yüzünden materyal, gaz oranları, sıvı oranları, boyut, ısı gibi zilyon farklı faktörd birbirinden ayrışabilirler; ancak ne olursa olsun daima paylaştıkları bir orta noktaları da vardır. Momentum dediğimiz nane sağ olsun, tüm gezegenler aynı istikamette dönerler. En azından aynı güneş sistemini paylaşanlar yani. Biz Sol sistemi gezegenleri olarak, kendimizi bildik bileli",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2016/08/indir-1-e1470945923411-300x300.jpg",
+    title:
+      "Hadi Bakalım: NEPTÜN’ün Ötesinde, ASTRONOMİ Dünyasında Kartları Değiştiren Bir Cisim Bulundu!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/megerse-ay-orada-yalniz-degilmis-nasa-yeni-bir-uydunun-varligini-acikladi/",
+    popularity: 21800,
+    publish_date: "1466208000",
+    source: "geekyapar.com",
+    teaser:
+      "Bu sayfalarda pek çok şeyin “yenisini” duyuruyoruz sizlere. Marvel filmlerinin yenisi. DC çizgi romanlarının yenisi. Yeni bir FIFA. Yeni bir Call of Duty. Yeni bir kitap bazen, ya da yeni bir tiyatro oyunu. Belki de bir dizinin yepisyeni çıkmış bir bölümü. Bazen yeni icatlar da duyurduğumuz oluyor; yeri geliyor elimize ekran çıkıyor, yeri geliyor robotların",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2016/06/asteroide_terre-300x300.jpg",
+    title:
+      "Meğerse Ay Orada Yalnız Değilmiş: NASA Yeni Bir UYDUNUN Varlığını Açıkladı!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Berna Ece Gündüz"],
+    link:
+      "https://geekyapar.com/konular/bilim-kanallar/sevmeyenleri-bile-cezbedecek-10-harika-belgesel-serisi/",
+    popularity: 9300,
+    publish_date: "1465171200",
+    source: "geekyapar.com",
+    teaser:
+      "Hepimizin bildiği üzere dizi, film, anime ve türevi birçok şeyi izlemek artık bir şekilde geek kültürünün temel taşlarından biri haline geldi. Hatta öyle ki, kendine geek deyip de belli başlı şeyleri izlemeyen kişiler acımasız taşlamalara maruz kaldı bazı geek kültürü dostları tarafından. Lakin şöyle de bir gerçek var ki, geek denen kişi sadece belli başlı",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2016/06/Cosmos_009-300x300.jpg",
+    title:
+      "Bilginize Bilgi Katarken, Sizi HAYRANI Yapacak 10 Harika BELGESEL SERİSİ",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Yiğitcan Erdoğan"],
+    link:
+      "https://geekyapar.com/konular/uzay/spacex-astronotlari-uzayda-super-kahraman-gibi-gezecekler-elon-musk-oyle-istedi/",
+    popularity: 24900,
+    publish_date: "1462752000",
+    source: "geekyapar.com",
+    teaser:
+      "Şaka maka, dünyada Civil War konuşuyoruz, çok eğleniyoruz, çok etkileniyoruz falan tamam ama; hasbelkader Elon Musk yarın uyanıp şahsi zırh işine girmeye karar verse Iron Man bir “süper” kahraman olarak ıskartaya çıkar, farkındayız değil mi? Gerçekten o derece acayip bir adam Elon Musk. Bilmeyenler için, kendisi 1995’te Zip2’yu kuran, onu satıp; elde ettiği parayla PayPal",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2016/05/15-234-300x300.jpg",
+    title:
+      "SPACEX Astronotları Uzayda SÜPER KAHRAMAN Gibi Gezecekler, ELON MUSK Öyle İstedi!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["J. H."],
+    link:
+      "https://geekyapar.com/metro/saturnun-uydusu-titan-dunyamiza-cok-benzer-ama-bir-kadar-da-zitmis/",
+    popularity: 4800,
+    publish_date: "1461715200",
+    source: "geekyapar.com",
+    teaser:
+      "Bilimkurgu romanları, filmleri, oyunları, çizgi romanlarıyla ilgili en sevdiğimiz şeylerden biri farklı gezegenlerdir, değil mi? Ama karikatüre kaçmadan işleyenlerinden söz ediyorum. “Bu gezegen varmış, burada herkes cübbe giyiyor” gibi değil. Gerçekten hayal gücünü tetikleyen, her hâliyle başka olan, sizi galeyana getiren, oraya gitme isteği uyandıran başkalıkta gezegenler. İşte onlar, bilim kurgu işlerinde inanılmaz keyifliler ama…",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2016/04/Saturn-Titan-300x300.jpg",
+    title:
+      "SATÜRN’ün Uydusu TİTAN, Dünya’mıza Çok Benzer, Ama Bir O Kadar Da Zıtmış!",
+    topics: [
+      "türkçe",
+      "bilim",
+      "uzay"
+    ],
+  },
+  {
+    authors: ["Furkan Akyüz"],
+    link:
+      "https://geekyapar.com/konular/geek-dosya/indie-mucizesi-ori-and-the-blind-forest-oyun-mu-sanat-eseri-mi/",
+    popularity: 1600,
+    publish_date: "1576800000",
+    source: "geekyapar.com",
+    teaser:
+      "Eğer siz de indie oyun piyasasını takip ediyorsanız Ori and the Blind Forest‘ı mutlaka duymuş hatta belki oynamışsınızdır. Kendisi indie oyun mekteplerinde ders niteliğinde okutulması gereken ve adeta zamansız bir yapım. Dikkat ederseniz ‘oyun’ demedim çünkü hâlâ başlıkta da gördüğünüz soruyu soruyorum kendime: Bu bir oyun mu yoksa interaktif bir sanat eseri mi? Çünkü Ori and",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/ori-500-x-500-300x300.png",
+    title: "Indie Mucizesi ORI AND THE BLIND FOREST, Oyun Mu SANAT ESERİ Mi?",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/oyun/oyun-dunyasinin-en-prestijli-odullerinden-the-game-awards-sahiplerini-buldu-iste-gecenin-butun-kazananlari/",
+    popularity: 12100,
+    publish_date: "1576195200",
+    source: "geekyapar.com",
+    teaser:
+      "Son yıllarda gerek organizasyonlarının büyüklüğü gerek de verdiği ödül kararlarının doğruluğuyla herkesten tam not alan The Game Awards dün gece bir kez daha vuku buldu. Artık oyunların Oscar töreni haline gelen bu prestijli ödül töreninde birçok oyun ve oyuncu yarıştı, ödüller kazandı. Biz de şöyle geceden bizlere kalanları bir yazıda toplamak, geçtiğimiz yılın oyun dünyasına",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/570A33B2-4A6A-43B8-AD0D-865438557D55-300x300.jpeg",
+    title:
+      "Oyun Dünyasının En Prestijli Ödüllerinden The Game Awards Sahiplerini Buldu: İşte Gecenin Bütün Kazananları!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Furkan Akyüz"],
+    link:
+      "https://geekyapar.com/konular/oyun/mucevher-degerinde-bir-indie-dead-cells/",
+    popularity: 24900,
+    publish_date: "1576108800",
+    source: "geekyapar.com",
+    teaser:
+      "Selamlar sevgili geekler ve indie oyun severler! Bu yazıda sizlere çok güzel ve özel bir indie oyundan, Dead Cells’ten bahsedeceğim. Üzerinden her ne kadar bir buçuk yıldan fazla bir zaman geçmiş olsa da, Dead Cells indie oyunlar arasında parmakla gösterilen ve adeta bir mücevher gibi ışıl ışıl parlayan bir yapımdır. Indie oyun severlerin ağzını açık bırakmış",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/dead-cells-500x500-300x300.png",
+    title: "MÜCEVHER Değerinde Bir Indie: DEAD CELLS",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Furkan Akyüz"],
+    link:
+      "https://geekyapar.com/konular/oyun/aradigimiz-call-of-duty-tadini-veren-oyun-titanfall-2/",
+    popularity: 17000,
+    publish_date: "1576108800",
+    source: "geekyapar.com",
+    teaser:
+      "Call of Duty serisini -en azından ilk zamanlarını- seven oyuncuların ortak bir görüşü varsa, o da artık Call of Duty serisinin eskisi gibi etkileyici ve oynaması keyifli senaryolara sahip olmamasıdır. İşte Titanfall 2, o sevdiğimiz senaryo akışına sahip olan ve bence hak ettiği değeri çok sevgili yayıncı EA’in oyunu, başka bir FPS oyun olan Battlefield 1",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/titanfall-2-500x500-300x300.png",
+    title: "Aradığımız CALL OF DUTY Tadını Veren Oyun: TITANFALL 2",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/oyun/yazi-cagrisi-oyunlar-hikaye-anlatiyor/",
+    popularity: 28000,
+    publish_date: "1576108800",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Ahmet Furkan Kızılay Hiç düşündünüz mü veya hiç düşünür gibi dahi oldunuz mu, etrafımızda onca kitap, dizi, film ve tüketilebilecek onlarca kaynak varken neden video oyunları hikâye anlatmakta bu kadar istekli? Daha da ötesi nasıl bu kadar başarılılar? Şimdilerde pek çok sinema yönetmeninin, senaristin hatta gerçek oyuncuların video oyunlarında rol aldığını ve bu yüzden",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/mooneyecon_melies_960-300x300.jpg",
+    title: "[YAZI ÇAĞRISI] Oyunlar NEDEN Hikâye Anlatıyor?",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/oyun/yazi-cagrisi-krallar-aileler-fatih-kanunnamesi-crusader-kings-ile-bir-tirana-donusme-hikayesi/",
+    popularity: 29800,
+    publish_date: "1574985600",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Berat Varol Oyunlar konusunda benim için en önemli şey rol yapmak olmuştur. Bu sebeple, bana göre herhangi bir oyunun değeri, esasında rol yapma oyunu değilse bile, oyuncuya ne kadar rol yapma imkânı sunduğuyla ölçülür. Ve yine bu sebeple; Crusader Kings II, ağırlıkla bir strateji oyunu olmasına karşın, oyuncuya sunduğu rol yapma imkanlarıyla, zannımca -haddim",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/crusader-kings-500x500-300x300.png",
+    title:
+      "[YAZI ÇAĞRISI] Krallar, Aileler ve Fatih Kanunnamesi: Crusader Kings ile Bir Tirana Dönüşme Hikayesi",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/oyun/yazi-cagrisi-cikisindan-alti-sene-sonra-the-last-of-us-a-bir-tesekkur-mektubu/",
+    popularity: 29000,
+    publish_date: "1574812800",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Ege Topoyan Bir şeye “En Sevdiğim“ ibaresi koymak zor bir şeydir. En sevdiğim şarkı, en sevdiğim yemek veya en sevdiğim film sorulunca net bir cevap vermekte çok zorlanırım ve cevabım ruh halime göre sürekli değişiklik gösterir. Ama bu, en sevdiğim oyun için kesinlikle geçerli değil, ona cevabım çok net: The Last of Us. Bunun",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2016/01/The-Last-of-Us1-300x300.jpg",
+    title:
+      "[YAZI ÇAĞRISI] Çıkışından Altı Sene Sonra THE LAST OF US’a Bir Teşekkür Mektubu",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/oyun/half-life-alyx-oyunundan-ilk-fragman-geldi-insana-hic-yoktan-vr-aldirir-oyun/",
+    popularity: 23800,
+    publish_date: "1574380800",
+    source: "geekyapar.com",
+    teaser:
+      "Bundan dört gün önce “arkadaşlar Valve bir Half Life oyunu duyuracak” deseydim hepiniz beni clickbait yapmaktan dolayı taşlardınız. Hatta bir de bu oyunun VR olacağını söylesem evime meşaleler ve sabanlarla yürüyen kızgın bir kalabalık görürdüm herhalde. Ama üç gün önce Valve gerçekten bir Half Life oyunu duyurdu hem de VR! Tabi biz bununla ilgili yazdık,",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/3651AC19-C66D-47A4-8C08-6961E51BB13D-300x300.jpeg",
+    title:
+      "Half-Life: Alyx Oyunundan İlk Fragman Geldi: İnsana Hiç Yoktan VR Aldırır Bu Oyun!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/oyun/half-lifein-ucuncu-oyunu-resmen-duyuruldu-ama-bekledigimiz-sey-degil/",
+    popularity: 27700,
+    publish_date: "1574121600",
+    source: "geekyapar.com",
+    teaser:
+      "Eğer oyun dünyası hakkında az çok bir bilginiz varsa biz oyuncuların Half Life takıntısını mutlaka duymuşsunuzdur. İlk Half Life oyununun çıkmasının üzerinden altı yıl geçmişken ikinci oyun çıkmış ve oyun dünyasını baştan aşağıya sarsmıştı. Böyle bir oyunun üçüncüsünü bekleyen bizlerin ise her sene sonunda kalbi kırılmış, her Nisan ayında “Half Life 3 çıkıyor!” diye haber",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/19AF0126-CC4C-467B-8733-38C584D0BC8E-300x300.jpeg",
+    title:
+      "Half Life’ın Üçüncü Oyunu Resmen Duyuruldu, Ama Bizim Beklediğimiz Gibi Değil!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/metro/yazi-cagrisi-karakteriyle-butunlestigimiz-bir-oyun-mafia-ii/",
+    popularity: 28100,
+    publish_date: "1573603200",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Furkan Akyüz Bazı oyunlar vardır, bize karakterleri öyle bir sunarlar ki kendimizi onların yerine koyarız ve adeta o karakterleri oynamaz, yaşarız. Bu hissi bazen filmlerden, dizilerden bile alamazken bazı oyunlar bunu öyle güzel yapar ki o karakterle oyun bittikten sonra bile bağımız kopmaz. İşte bu yazıda da bizi karakterleriyle bütünleştirmiş, onların yaşadıklarını kendi yaşadıklarımız",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/mafia2-500x500-300x300.png",
+    title: "[Yazı Çağrısı] Karakteriyle Bütünleştiğimiz Bir Oyun: MAFIA II",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/oyun/yazi-cagrisi-her-yonuyle-essiz-bir-oyun-bioshock-infinite/",
+    popularity: 21800,
+    publish_date: "1572912000",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Emrah Kahraman Kızı bize getir, borcun silinsin. Çoğu zaman oyunların hikâyeleri daha çok tesir etmiştir bana, her ne kadar oyunların hikâyeleri piyasadaki en iyileri olarak görülmese de. Ama hayır, olay anlatının kalitesinde değil her zaman: Hikâyenin içinde olduğumuzdan mıdır bilinmez, hikâye güzelse ve güzel bir anlatım için elden gelen her şey yapılmışsa çoğu zaman",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/bioshock-intinite-elizabeth-300x300.png",
+    title: "[YAZI ÇAĞRISI] Her Yönüyle Eşsiz Bir Oyun: BIOSHOCK INFINITE",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/konular/oyun/yazi-cagrisi-bir-dususun-hikayesi-undertale/",
+    popularity: 9800,
+    publish_date: "1572825600",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Volkan Şahin Uyarı: Yazı, Undertale isimli oyunla ilgili bol miktarda spoiler içermektedir. Küçüktüm daha; güven, iyilik, kötülük ve empati hakkında birçok şey öğrendim. Ama tabii ki ilk seferimde bu kavramların anlamlarını idrak edemedim. Haylazlık yaptığım bir sırada tanımadığım, bilmediğim bir yerlerde gözlerimi açmış, yalnız ve korkmuş bir çocuktum. Karşımda endişeli bakışlarla beni izlemekte olan",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/flowey-undertale-300x300.png",
+    title: "[YAZI ÇAĞRISI] Bir DÜŞÜŞÜN Hikâyesi: UNDERTALE",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/metro/cehennemin-kapilari-dorduncu-kez-aciliyor-karanliga-lilith-ile-donuyoruz/",
+    popularity: 10500,
+    publish_date: "1572652800",
+    source: "geekyapar.com",
+    teaser:
+      "Blizzard, Diablo 4 ’ü duyurdu, bizlere de oyunla ilgili verilen bilgileri aktarmak düştü. Bakalım oyuncuların bu karanlık, ritüeller, okültler ve bolca kanla dolu dünyaya geri dönüş nasıl olacak? BlizzCon’un açılışında yayınlanan sinematik, ıssız ve eski bir yerleşim yerinde açılıyor. Çok geçmeden, burada oldukça ürkütücü görünen bir mabedin olduğunu ve hazine peşindeki dört kişinin burayı keşfetmek için",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/lilith-diablo-4-blizzcon-300x300.png",
+    title:
+      "Cehennemin Kapıları DÖRDÜNCÜ Kez Açılıyor: Karanlığa LILITH İle Dönüyoruz!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/oyun/gozculeri-gozetlemeye-hazir-misiniz-overwatch-2-geliyor/",
+    popularity: 26000,
+    publish_date: "1572652800",
+    source: "geekyapar.com",
+    teaser:
+      "BlizzCon’dan haberler getirdik! İki büyük yeni oyun ve hâlihazırdaki diğer oyunlardan bazıları için de iki yeni genişletme duyuruldu. Sekiz dakikalık tanıtıcı bir filmle anons edilen Overwatch 2, bunlardan biri. Yeni oynanış videosunda, oyuna gelecek olan yeniliklerin hepsine bir ilk bakış atma fırsatı verilmiş. Henüz geliştirilme aşamasının çok erken bir döneminde olan Overwatch 2, bir devam",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/overwatch-300x300.png",
+    title: "Gözcüleri Gözetlemeye Hazır Mısınız? OVERWATCH 2 Geliyor!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Yazı Çağrısı"],
+    link:
+      "https://geekyapar.com/metro/yazi-cagrisi-oyun-hikayelerimiz-internet-kesintileri-cocuklar-altyapi-problemlerine-karsi/",
+    popularity: 15600,
+    publish_date: "1572566400",
+    source: "geekyapar.com",
+    teaser:
+      "Yazar: Aydın Furkan Kaynak İlk kişisel bilgisayarına benim gibi 2000’lerin başında sahip olmuş akranlarımın oyun oynarken çok yaşadığı bir korku vardı: İnternet kesintisi. Bilgisayar karşısında geçirdikleri vakit, ailelerinden karınlarına giren ağrılarla kopardıkları bir saatlik izinlerle sınırlı olan (o da yalnızca hafta sonları, çünkü hafta içi okul vardır, dersler vardır) küçük çocuklar, bu bir saatlik özgürlüklerinin",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/ethernet-windows-300x300.png",
+    title:
+      "[YAZI ÇAĞRISI] Oyun Hikâyelerimiz ve İnternet Kesintileri: ÇOCUKLAR, ALTYAPI PROBLEMLERİNE KARŞI!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "oyun"
+    ],
+  },
+  {
+    authors: ["Yağmur Sevinç"],
+    link:
+      "https://geekyapar.com/konular/geek-dosya/hem-film-hem-kitap-haliyle-yasakli-bir-meyve-otomatik-portakal/",
+    popularity: 10600,
+    publish_date: "1577059200",
+    source: "geekyapar.com",
+    teaser:
+      "Otomatik Portakal bahsi her açıldığında, arkadaş grubunda izlememiş birisi oluyor. Konusunu en kısa şekilde “kötümser bir yakın gelecekte yaşayan bir grup sokak çetesi gencin şiddetli ahlaksızlığı ve bunların sonuçlarını anlatıyor” şeklinde özetliyorum fakat bu, kesinlikle bu eseri anlatmaya yetecek bir tanım değil. Aslında bundan daha derin şeylerden bahsediyor, altında yatan mesajlar çok daha farklı. Distopik",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2017/04/A-Clockwork-Orange-e1491298089675-300x300.jpg",
+    title: "Hem FİLM Hem KİTAP Haliyle Yasaklı Bir Meyve: OTOMATİK PORTAKAL",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["Berdan Sarıgöl"],
+    link:
+      "https://geekyapar.com/metro/hakki-yenmis-bir-devam-filmi-tron-legacy-2/",
+    popularity: 19200,
+    publish_date: "1576800000",
+    source: "geekyapar.com",
+    teaser:
+      "Hollywood’un içerisinde çekilen her başarılı filmin illa ki devamı gelir ve bu süreç, yapımcıların insafına ve devam filmlerinin başarısına bağlı olarak, sonu gelmez devam filmleri silsilesi şeklinde devam eder. Öyle ki, bir uzay filmi, hiç planlanmadığı halde, sırf çok sevildiği için, kendi hikâyesini takip eden altı, kendisinden öncesini anlatan üç ve aralarda -sırf hikâye içerisinde",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/tron-500-x-500-300x300.png",
+    title: "Hakkı Yenmiş Bir Devam Filmi: Tron Legacy",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["Ruken Barış"],
+    link:
+      "https://geekyapar.com/konular/geek-dosya/4-adimda-askeri-diktatorluklerle-dalga-gecme-rehberi/",
+    popularity: 5100,
+    publish_date: "1576627200",
+    source: "geekyapar.com",
+    teaser:
+      " İnsanın anayurdu doğduğu yerdir ama aynı zamanda insanın dostlarının olduğu, haksızlığın olduğu, insanın sanatıyla katkıda bulunabileceği yerdir. 1983’te bunu söylerken Miguel Littín, muhtemelen kendi memleketini düşünüyordu ama bu sözler pek çok kişinin vatanıyla arasındaki ilişkiyi çok iyi açıklar; özellikle Ortadoğu demek, bir sevgi-nefret ilişkisi demektir. Belki nefret değil ama kesinlikle bazen öfke çünkü ülkenizde yanlış",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/şilidebirev-500x500-300x300.png",
+    title: "DÖRT ADIMDA Askeri Diktatörlüklerle DALGA GEÇME Rehberi",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/film/star-wars-rise-of-skywalker-filmi-icin-heyecani-olmayan-bir-hype-treni/",
+    popularity: 24500,
+    publish_date: "1576627200",
+    source: "geekyapar.com",
+    teaser:
+      "Bundan sadece birkaç gün sonra, 2015 yılında Force Awakens ile başlayan yeni nesil Star Wars üçlemesi bitecek. Beş yıl boyunca dilimizden düşürmediğimiz bu macera, yılın son günlerinde nihayete erecek. Force Awakens filmiyle umutlandığımız, The Last Jedi filmiyle umutlarımızın yerini hayal kırıklıklarının aldığı Star Wars üçlemesi Rise of Skywalker filmiyle son bulurken, artık ne umudumuz var ne",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/kapak-300x300.jpg",
+    title:
+      "Star Wars: Rise Of Skywalker Filmi İçin Heyecanı Olmayan Bir Hype Treni!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/film/wonder-woman-ikinci-filminden-ilk-fragman-geldi-1984-hic-de-kucuk-bir-gonderme-degilmis/",
+    popularity: 14100,
+    publish_date: "1575849600",
+    source: "geekyapar.com",
+    teaser:
+      "Şimdi gelin hep birlikte elimizi vicdanımıza koyalım ve itiraf edelim; DCEU çok kötü bir girişimdi. Başından sonuna kadar plansız ilerleyen son olarak artık bir hilkat garibesine dönüşen film evreni olarak kaldı başımıza. Karakterler var filmleri yok, içerisinde iki tane Joker var ama ikisi de Batman filminde yok, başı belli değil, sonu belli değil… Olmadı yani.",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/08A1ADE9-A7C6-443A-A95D-9F84C885D6E1-300x300.jpeg",
+    title:
+      "Wonder Woman İkinci Filminden İlk Fragman Geldi: 1984 Hiç de Küçük Bir Gönderme Değilmiş!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/film/black-widow-filmi-icin-ilk-fragman-yayinlandi-ilk-tepkimiz-sasirtici-derecede-olumlu/",
+    popularity: 4100,
+    publish_date: "1575331200",
+    source: "geekyapar.com",
+    teaser:
+      "Marvel Cinematic Universe kurulurken Kevin Feige’in aklında adım adım bir yol haritası varmış, bunu şimdi çok daha iyi anlıyoruz. Söylenilen her söz, yapılan her hareketin onuncu yılın sonunda bir karşılığı vardı. Ama sanıyorum ki bütün bu planlar arasında Scarlett Johansson’ın canlandırdığı Black Widow karakterinin bu kadar sevileceği ve hayranlar tarafından filminin isteneceği ihtimali yoktu. Yine",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/12/96CD5B22-D893-40CF-9511-03DCD79B3F85-300x300.jpeg",
+    title:
+      "Black Widow Filmi İçin İlk Fragman Yayınlandı: İlk Tepkimiz Şaşırtıcı Derecede Olumlu!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/metro/ikinci-bir-joker-filminin-gelecegi-soyleniyor-durum-biraz-canimizi-sikiyor/",
+    popularity: 7100,
+    publish_date: "1574208000",
+    source: "geekyapar.com",
+    teaser:
+      "Malumunuz üzere DC, kendi bünyesindeki karakterlerin uyarlama filmlerinden beklediğini çok da fazla bulamadığı için, yönetmenler ve filmler bazında artık sadece tek filmlik anlaşmalar yapmaya çalışıyordu. Bunun yanında aynı karakterin farklı filmlerde temsil edilmesi ve aynı anda farklı oyuncular tarafından farklı mecralarda canlandırılması da söz konusuydu. Hatta bu yılın tartışmalı filmi Joker de şurada yazdığımız gibi",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/joker-movie-poster-300x300.jpg",
+    title:
+      "İkinci Bir JOKER Filminin Geleceği Söyleniyor Ve Bu Durum Biraz Canımızı Sıkıyor",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/film/internet-kullanicilari-begenmedi-sonic-filmi-en-bastan-cekildi-iste-karsinizda-yeni-sonic-the-hedgehog-fragmani/",
+    popularity: 7300,
+    publish_date: "1573516800",
+    source: "geekyapar.com",
+    teaser:
+      "Arkadaşlar hâlâ fark etmediyseniz diye söylüyorum, internet müthiş bir icat. Doğuşuna ve büyüyüşüne şahit olduğumuz için şimdilik yeterince övemiyoruz ama emin olun şöyle bir elli ya da yüz yıl sonra internetsiz zamanlarımızdan orta çağ olarak bahsedilecek, öyle büyük bir buluş. Şimdi bayram değil seyran değil, Tavşan niye interneti övüyor diyebilirsiniz ama internet camiası olarak bir şey",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/E99F6637-7EF2-42D3-BC80-0AD80BA2BD8C-300x300.jpeg",
+    title:
+      "İnternet Kullanıcıları Beğenmedi, SONIC Filmi En Baştan Çekildi! İşte Karşınızda YENİ Sonic: The Hedgehog Fragmanı!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/metro/heyecanliyiz-korkuyoruz-into-the-spider-verse-filminin-ikincisi-geliyor/",
+    popularity: 6000,
+    publish_date: "1572652800",
+    source: "geekyapar.com",
+    teaser:
+      "Geçtiğimiz sene birçok büyük filmi bekledik. Kimi bu beklentilerimizin altından kalkamadı kimi ise yarattığı heyecanın hakkını verdi. Yine de geçen sene çıkan bütün filmler arasından benim en az heyecanla beklediğim, “Abi hele bir çıksın da gideriz” dediğim Spiderverse aynı zamanda en çok sevdiğim film oldu. Dün gece ise filmin yapımcıları Spider-Man: Into The Spider-Verse’ün ikinci",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/11/into-the-spider-verse-300x300.png",
+    title:
+      "Heyecanlıyız ve Korkuyoruz: INTO THE SPIDER-VERSE Filminin İKİNCİSİ Geliyor!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/film/star-wars-hayranlari-icin-cifte-bayram-david-benioff-d-b-weissin-yapacagi-star-wars-uclemesi-iptal-edildi/",
+    popularity: 27200,
+    publish_date: "1572307200",
+    source: "geekyapar.com",
+    teaser:
+      "Daha bundan birkaç gün önce Star Wars serisinin en yeni filmi olan Rise of Skywalker fragmanını paylaşmış ve sormuştuk; her şey çok mu sıradan yoksa biz mi soğuduk? Aslında bu başlığı atarken linç yiyeceğimden baya emindim ama sonradan farkına vardım ki neredeyse herkes benimle aynı fikirdeymiş. Arkadaşlar biz gerçekten Star Wars evreninden soğumuşuz. Ya da",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/31707B71-5C60-49C4-B3FF-D63450FF2791-300x300.jpeg",
+    title:
+      "Star Wars Hayranları İçin Çifte Bayram; David Benioff ve D.B. Weiss’in Yapacağı Star Wars Üçlemesi İptal Edildi!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/metro/bir-geekin-bel-ami-ile-macerasi-bir-roman-bir-dizi-bir-film-bir-sarki/",
+    popularity: 29800,
+    publish_date: "1571875200",
+    source: "geekyapar.com",
+    teaser:
+      "Bu kadar geek, geek diyoruz madem, neden kendimizi böyle nitelendiriyoruz diyerek birkaç günlük bir maceramı, adım adım sizinle paylaşayım diyorum ne dersiniz? Her şey, daha önceden izleyip beğendiğim bir dizinin spin-off’unun çekildiğinden haberdar olmamla başladı. Söz konusu spin-off’u izledim, açıkçası çok da beğenmedim ama dizinin açılış müziği ağzıma bir dolandı, bir dolandı ki sormayın. Tabii,",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/robert-pattinson-300x300.jpg",
+    title:
+      "Bir Geek’in “Bel Ami” İle Macerası: Bir Roman, Bir Dizi, Bir Film ve Bir Şarkı",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/film/adventure-time-ile-birlikte-hbo-max-animasyon-severlerin-kalplerini-fethetmeye-geliyor/",
+    popularity: 22700,
+    publish_date: "1571875200",
+    source: "geekyapar.com",
+    teaser:
+      "Hani bazı dizi jeneriklerinin harika müzikleri vardır, insan geçmeye kıyamaz, bildiniz değil mi? Hatta geçmeyi bırakın bir anda kendinizi o müziği mırıldanırken bulursunuz. HBO’nun iki büyük dizisi Game of Thrones ve Westworld mesela ya da HIMYM’ın o eğlenceyi başından veren jenerik müziği, bunlara örnek olarak verilebilir. Peki ya Adventure Time? Adventure Time’ın jeneriğini de duyar",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/0C09F8CB-5533-4D5B-9E38-25589B739087-300x300.jpeg",
+    title:
+      "ADVENTURE TİME ile Birlikte HBO MAX, Animasyon Severlerin Kalplerini Fethetmeye Geliyor!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/konular/film/star-wars-the-rise-of-skywalker-fragmani-cikti-cok-mu-siradan-yoksa-biz-mi-soguduk/",
+    popularity: 3200,
+    publish_date: "1571702400",
+    source: "geekyapar.com",
+    teaser:
+      "Star Wars: The Last Jedi filminden sonra yeni Star Wars filminden bir şey bekleyen kaldı mı bilmiyorum. Hatta Game of Thrones’un son sezonundan sonra David Benioff ve D.B. Weiss’in bir sonraki Star Wars üçlemesini çekeceği haberini öğrenip de hâlâ Star Wars evreninden bir umudu olan kaldı mı, onu da bilmiyorum. Yine de Star Wars, Star",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/3E9D108A-D7DA-467E-BB61-E1CA1404036D-300x300.jpeg",
+    title:
+      "Star Wars: The Rise of Skywalker Fragmanı Çıktı: Çok mu Sıradan Yoksa Biz mi Soğuduk?",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["M. Halit Koçak"],
+    link:
+      "https://geekyapar.com/metro/vin-dieselli-bloodshot-filminden-ilk-fragman-geldi-sasirtici-sekilde-guzel-gozukuyor/",
+    popularity: 5100,
+    publish_date: "1571616000",
+    source: "geekyapar.com",
+    teaser:
+      "Marvel Cinematic Universe’ün mâli olarak devasa başarılar elde etmesi birçok yapımcının gözünü süper kahraman filmlerinin üzerine çekti.  “Abi bu işte çok para var” diyen yapımcılar kıyısından köşesinden bu işe girmeye çalıştılar ama para akıtan bu çeşmenin başında Disney ve Warner Bros. gibi iki büyük dev vardı. Yine de bu pazara girmeye çalışan yapımcılar ya kendi",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/9FA8318A-9CF5-48ED-B7FB-E43DBE320403-300x300.jpeg",
+    title:
+      "Vin Diesel’li Bloodshot Filminden İlk Fragman Geldi: Şaşırtıcı Şekilde Güzel Gözüküyor!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
+    ],
+  },
+  {
+    authors: ["Meltem Deniz Doğan"],
+    link:
+      "https://geekyapar.com/konular/film/neil-patrick-harris-dorduncu-matrix-filminin-kadrosuna-katildi/",
+    popularity: 28200,
+    publish_date: "1571184000",
+    source: "geekyapar.com",
+    teaser:
+      "Çoğumuz için belki bir değil, birkaç insan ömrü boyunca Barney Stinson olarak kalacak olan Neil Patrick Harris, ağustos ayında açıklanan Matrix’in dördüncü filmine katılmış gibi gözüküyor. Bunu gayriihtiyari böyle yazıyorum çünkü click-bait çıkıp internet bozulalı beri, içerik üretmeye çalışıp da oyuncu seçimi haberlerine güvenmemek konusunda bir paranoyaya sahip olmayanımız kalmamıştır sanırım. Sonuncumuz bendim, beni de",
+    thumbnail:
+      "https://geekyapar.com/wp-content/uploads/2019/10/0A432530-BFED-4597-ABC4-2C5C4029FCB0-300x300.jpeg",
+    title: "NEIL PATRICK HARRIS, Dördüncü MATRIX Filminin Kadrosuna Katıldı!",
+    topics: [
+      "türkçe",
+      "eğlence",
+      "kültür",
+      "film"
     ],
   },
 ];
