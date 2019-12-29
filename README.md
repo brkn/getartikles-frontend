@@ -8,7 +8,7 @@ Mail Me articles is a social platform that aggregates articles all
 around the internet specifically tailored for your interests. Try it now at
 [getartikles.com](getartikles.com)
 
-<!-- Add screenshots here when finished -->
+![Screenshot 1](./ss1.png)
 
 ## Initializing your local environment for development
 
@@ -48,14 +48,6 @@ cd mma-fe
 npm install
 npm start
 ```
-
-## Authors
-
-- Yunus Emre BALAK - 150160509
-- Hasan Salih CAN - 150160707
-- Ibrahim Şamil YALÇINER - 150150052
-- Ihsan Soydemir - 150180702
-- Mehmet Berkan ÜNAL - 150130013
 
 ## License
 
